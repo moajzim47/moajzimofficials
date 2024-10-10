@@ -122,7 +122,7 @@ https://colorsscreen.com/live.php?id=1984&extension=.m3u8|Referer=https://colors
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/live/32031/33285/2380.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/09/max-150x150.png" group-title="Movie",61.SONY MAX
-http://watchindia.net:8880/live/32031/33285/788.ts
+http://xtv.ooo:8080/live/09448630/09888785/382219.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/maxhd-185x278.png" group-title="Movie",62.SONY MAX HD
 http://xtv.ooo:8080/live/09448630/09888785/221259.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/05/aath.png" group-title="Entertainment",63.SONY AATH
