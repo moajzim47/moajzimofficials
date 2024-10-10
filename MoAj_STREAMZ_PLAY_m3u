@@ -9,7 +9,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245940.ts
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="News",4.ATN NEWS
 http://xtv.ooo:8080/live/09448630/09888785/245905.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2024/04/nagorik.webp" group-title="News",5.NAGARIK TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dviKSTvwJJngZnwGJ5n9OSdbq8RvmZRsSg&s" group-title="News",5.NAGARIK TV
 http://xtv.ooo:8080/live/09448630/09888785/245939.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 http://xtv.ooo:8080/live/09448630/09888785/245911.ts
@@ -67,7 +67,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" group-title="News",33.DIPTO TV
 http://xtv.ooo:8080/live/09448630/09888785/245927.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/08/images-1-1-1-1.png" group-title="Entertainment",34.AMAR BANGLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7aGoIUFJH8lviHSQAn88POKnPU4ujDpQwg&s" group-title="Entertainment",34.AMAR BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvc76qGZ/Enterr10-Bangla.png" group-title="Entertainment",35.ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
@@ -85,7 +85,7 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 http://xtv.ooo:8080/live/09448630/09888785/167590.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://xtv.ooo:8080/live/09448630/09888785/109987.ts
-#EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/07/STARSPHINDI.webp" group-title="Sports",43.STAR SPORTS 1 HINDI HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 http://xtv.ooo:8080/live/09448630/09888785/167573.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
 http://xtv.ooo:8080/live/09448630/09888785/109988.ts
