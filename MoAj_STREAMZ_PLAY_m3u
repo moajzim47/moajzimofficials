@@ -9,7 +9,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245940.ts
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="News",4.ATN NEWS
 http://xtv.ooo:8080/live/09448630/09888785/245905.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dviKSTvwJJngZnwGJ5n9OSdbq8RvmZRsSg&s" group-title="News",5.NAGARIK TV
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2024/04/nagorik-185x278.webp" group-title="News",5.NAGARIK TV
 http://xtv.ooo:8080/live/09448630/09888785/245939.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 http://xtv.ooo:8080/live/09448630/09888785/245911.ts
@@ -95,13 +95,13 @@ http://xtv.ooo:8080/live/09448630/09888785/167577.ts
 http://xtv.ooo:8080/live/09448630/09888785/167578.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" group-title="Sports",47.STAR SPORTS SELECT 2 HD
 http://xtv.ooo:8080/live/09448630/09888785/167579.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2023/06/ten1hd-150x150.png" group-title="Sports",48.SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten1hd-185x278.png" group-title="Sports",48.SONY SPORTS TEN 1 HD
 http://xtv.ooo:8080/live/09448630/09888785/167570.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2023/06/ten2hd-150x150.png" group-title="Sports",49.SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten2hd-150x150.png" group-title="Sports",49.SONY SPORTS TEN 2 HD
 http://xtv.ooo:8080/live/09448630/09888785/167571.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2023/06/ten3hd-150x150.png" group-title="Sports",50.SONY SPORTS TEN 3 HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten3hd-150x150.png" group-title="Sports",50.SONY SPORTS TEN 3 HD
 http://xtv.ooo:8080/live/09448630/09888785/167572.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2023/06/sony5hd-150x150.jpg" group-title="Sports",51.SONY SPORTS TEN 5 HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/sony5hd-150x150.jpg" group-title="Sports",51.SONY SPORTS TEN 5 HD
 http://xtv.ooo:8080/live/09448630/09888785/167580.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",52.PTV SPORTS HD
 http://xtv.ooo:8080/live/09448630/09888785/217968.ts
@@ -111,39 +111,39 @@ http://xtv.ooo:8080/live/09448630/09888785/219689.ts
 http://xtv.ooo:8080/live/09448630/09888785/167569.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",55.WILLOW HD
 http://xtv.ooo:8080/live/09448630/09888785/347333.ts
-#EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/06/astricric.webp" group-title="Sports",56.ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/astricric.webp" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
 http://xtv.ooo:8080/live/09448630/09888785/167594.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/09/SKYFOOTBALL.webp" group-title="Sports",58.SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/09/SKYFOOTBALL.webp" group-title="Sports",58.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/live/09448630/09888785/346241.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" group-title="Sports",59.SPORTS 18 HD 1
 https://colorsscreen.com/live.php?id=1984&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/live/32031/33285/2380.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/09/max-150x150.png" group-title="Movie",61.SONY MAX
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/09/max-150x150.png" group-title="Movie",61.SONY MAX
 http://watchindia.net:8880/live/32031/33285/788.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/maxhd-185x278.png" group-title="Movie",62.SONY MAX HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/maxhd-185x278.png" group-title="Movie",62.SONY MAX HD
 http://xtv.ooo:8080/live/09448630/09888785/221259.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2021/05/aath.png" group-title="Entertainment",63.SONY AATH
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/05/aath.png" group-title="Entertainment",63.SONY AATH
 http://watchindia.net:8880/live/32031/33285/2286.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/wah.png" group-title="Entertainment",64.SONY WAH
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/wah.png" group-title="Entertainment",64.SONY WAH
 http://xtv.ooo:8080/live/09448630/09888785/112979.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/02/pixhd.png" group-title="Movie",65.SONY PIX HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/pixhd.png" group-title="Movie",65.SONY PIX HD
 http://xtv.ooo:8080/live/09448630/09888785/66224.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/sabd-185x278.png" group-title="Entertainment",66.SONY SAB HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sabd-185x278.png" group-title="Entertainment",66.SONY SAB HD
 http://xtv.ooo:8080/live/09448630/09888785/66174.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
+#EXTINF:-1 tvg-logo="https://nowmelive.comwp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
 http://xtv.ooo:8080/live/09448630/09888785/66164.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2022/10/kal.png" group-title="Entertainment",68.SONY KAL
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/10/kal.png" group-title="Entertainment",68.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/pal-185x278.png" group-title="Entertainment",69.SONY PAL
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/pal-185x278.png" group-title="Entertainment",69.SONY PAL
 http://xtv.ooo:8080/live/09448630/09888785/104192.ts
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",70.AND PICTURE 
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",70.AND PICTURE 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/01/andpichdd-150x150.webp " group-title="Movie",71.AND PICTURE HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp " group-title="Movie",71.AND PICTURE HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="https://nowmetv.xyz/wp-content/uploads/2020/02/andflixhdtv-150x150.webp" group-title="Movie",72.AND FLIX HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp" group-title="Movie",72.AND FLIX HD
 http://xtv.ooo:8080/live/09448630/09888785/109962.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Entertainment",73.AND TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
