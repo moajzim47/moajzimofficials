@@ -162,9 +162,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi68vzg9g9WaK668AC_gemkHFDDHjeAxmjJQ&usqp=CAU" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
-https://colorsscreen.com/live.php?id=1450&extension=.m3u8|Referer=https://colorsscreen.com/
+http://xtv.ooo:8080/live/09448630/09888785/66199.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf24F3FC0yQh9aRNHxD93x6vQqvNj8Zl5kLA&usqp=CAU" group-title="Movie",82.COLORS CINEPLEX 
-https://colorsscreen.com/live.php?id=482&extension=.m3u8|Referer=https://colorsscreen.com/
+http://xtv.ooo:8080/live/09448630/09888785/104191.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9v51z1cT4zJ1fjEFjfY-CqCNkBT0ZVLytEDdXWcfuPRRvERLiWrBzvJY&s" group-title="Movie",83.COLORS CINEPLEX BOLLYWOOD
 http://xtv.ooo:8080/live/09448630/09888785/112983.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" group-title="Entertainment",84.COLORS BANGLA HD
