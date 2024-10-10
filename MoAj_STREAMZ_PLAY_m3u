@@ -139,14 +139,14 @@ http://xtv.ooo:8080/live/09448630/09888785/66164.ts
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/pal-185x278.png" group-title="Entertainment",69.SONY PAL
 http://xtv.ooo:8080/live/09448630/09888785/104192.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",70.AND PICTURE 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp " group-title="Movie",71.AND PICTURE HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp" group-title="Movie",72.AND FLIX HD
-http://xtv.ooo:8080/live/09448630/09888785/109962.ts
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Entertainment",73.AND TV HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Entertainment",70.AND TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp " group-title="Movie",71.AND FLIX HD
+http://xtv.ooo:8080/live/09448630/09888785/109962.ts
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/andpictures1.m3u8
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/zeecinema1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
