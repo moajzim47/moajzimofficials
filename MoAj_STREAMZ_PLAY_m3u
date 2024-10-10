@@ -167,8 +167,8 @@ http://xtv.ooo:8080/live/09448630/09888785/66199.ts
 http://xtv.ooo:8080/live/09448630/09888785/104191.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9v51z1cT4zJ1fjEFjfY-CqCNkBT0ZVLytEDdXWcfuPRRvERLiWrBzvJY&s" group-title="Movie",83.COLORS CINEPLEX BOLLYWOOD
 http://xtv.ooo:8080/live/09448630/09888785/112983.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8sdzn2W/Colors-Bangla-HD.png" group-title="Entertainment",84.COLORS BANGLA HD
-http://watchindia.net:8880/live/32031/33285/2284.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KNJmLD.png" group-title="Movie",84.COLORS BANGLA CINEMA
+https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczfWD307bA_tmDEx7y58gS4rgfp1KMEBgGDijtgYMQ0xbEL8bqwqIB94&s=10" group-title="Entertainment",85.COLORS HD
 http://xtv.ooo:8080/live/09448630/09888785/221254.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
