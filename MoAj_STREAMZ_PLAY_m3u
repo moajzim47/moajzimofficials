@@ -133,7 +133,7 @@ http://xtv.ooo:8080/live/09448630/09888785/112979.ts
 http://xtv.ooo:8080/live/09448630/09888785/66224.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sabd-185x278.png" group-title="Entertainment",66.SONY SAB HD
 http://xtv.ooo:8080/live/09448630/09888785/66174.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sonyhd-185x278.png" group-title="Entertainment",67.SONY HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
 http://xtv.ooo:8080/live/09448630/09888785/66164.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/10/kal.png" group-title="Entertainment",68.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
