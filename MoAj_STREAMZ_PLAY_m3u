@@ -111,7 +111,7 @@ http://xtv.ooo:8080/live/09448630/09888785/219689.ts
 http://xtv.ooo:8080/live/09448630/09888785/167569.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",55.WILLOW HD
 http://xtv.ooo:8080/live/09448630/09888785/347333.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/astricric.webp" group-title="Sports",56.ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/08/images-1-1-1.png" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
 http://xtv.ooo:8080/live/09448630/09888785/167594.ts
@@ -133,7 +133,7 @@ http://xtv.ooo:8080/live/09448630/09888785/112979.ts
 http://xtv.ooo:8080/live/09448630/09888785/66224.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sabd-185x278.png" group-title="Entertainment",66.SONY SAB HD
 http://xtv.ooo:8080/live/09448630/09888785/66174.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.comwp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sonyhd-185x278.png" group-title="Entertainment",67.SONY HD
 http://xtv.ooo:8080/live/09448630/09888785/66164.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/10/kal.png" group-title="Entertainment",68.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
