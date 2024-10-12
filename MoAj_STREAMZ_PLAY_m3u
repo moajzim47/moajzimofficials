@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMTNzCLrsbS_mgYqRORkjQVUux9fQprkLcA&s" group-title="MoAj STREAMZ", @moajzim47
-https://stream.imotv.online/toffe/live.php?id=9b35bbb302b9&e=.m3u8
+https://webufffit.mizhls.ru/lb/eplayerdigitvbt3/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" group-title="News",1.BTV HD
 http://xtv.ooo:8080/live/09448630/09888785/245930.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" group-title="News",2.Sangsad TV
