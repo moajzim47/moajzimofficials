@@ -48,7 +48,7 @@ http://ktv.im:8080/live/1234512345/1234512345/83780.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 http://xtv.ooo:8080/live/09448630/09888785/245908.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" group-title="News",24.BANGLA TV HD
-https://8v1cc03lpt.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+http://xtv.ooo:8080/09448630/09888785/245910.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VCmHJDN33WZ7TPM3VYoXsrxEAMBD7vjKXw&usqp=CAU" group-title="Movie",25.MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" group-title="News",26.EKATTOR TV HD
