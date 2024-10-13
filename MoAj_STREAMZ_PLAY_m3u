@@ -190,7 +190,7 @@ http://xtv.ooo:8080/live/09448630/09888785/112972.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",94.DHINCHAK
 http://xtv.ooo:8080/live/09448630/09888785/374980.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxl4hJq9jHhbGkBB6J7q6mu5ZFekaqxZsRsHIbpRwuw&s" group-title="Movie",95.BFLIX MOVIE 
-http://xtv.ooo:8080/live/09448630/09888785/104190.ts
+http://172.105.123.238:18002/play/a01j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
 http://xtv.ooo:8080/live/09448630/09888785/104199.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
