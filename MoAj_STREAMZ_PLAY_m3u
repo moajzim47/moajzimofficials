@@ -178,7 +178,7 @@ http://xtv.ooo:8080/live/09448630/09888785/106133.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
 http://xtv.ooo:8080/live/09448630/09888785/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
-http://xtv.ooo:8080/live/09448630/09888785/221258.ts
+http://172.105.123.238:18002/play/a01h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",90.STAR UTSAV MOVIES
 http://xtv.ooo:8080/live/09448630/09888785/112971.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",91.JALSHA MOVIES HD
@@ -188,7 +188,7 @@ http://xtv.ooo:8080/live/09448630/09888785/221255.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",94.DHINCHAK
-http://xtv.ooo:8080/live/09448630/09888785/374980.ts
+http://172.105.123.238:18002/play/a00i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxl4hJq9jHhbGkBB6J7q6mu5ZFekaqxZsRsHIbpRwuw&s" group-title="Movie",95.BFLIX MOVIE 
 http://172.105.123.238:18002/play/a01j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
