@@ -84,9 +84,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 http://xtv.ooo:8080/live/09448630/09888785/167590.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
-https://rips.in/stream/ch3/index.m3u8|Referer=https://rips.in/
+http://xtv.ooo:8080/live/09448630/09888785/109987.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
-https://rips.in/stream/ch4/index.m3u8|Referer=https://rips.in/
+http://xtv.ooo:8080/live/09448630/09888785/167573.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
 http://xtv.ooo:8080/live/09448630/09888785/109988.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxwvRQ8J_-0I6sP84YE0LPDINa9cKV6f4uukWxd68WTy_HIX10_D2luY&s" group-title="Sports",45.STAR SPORTS 3
@@ -104,13 +104,13 @@ http://xtv.ooo:8080/live/09448630/09888785/167572.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/sony5hd-150x150.jpg" group-title="Sports",51.SONY SPORTS TEN 5 HD
 http://xtv.ooo:8080/live/09448630/09888785/167580.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",52.PTV SPORTS HD
-https://rips.in/stream/ch1/index.m3u8|Referer=https://rips.in/
+http://xtv.ooo:8080/live/09448630/09888785/217968.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s" group-title="Sports",53. A SPORTS HD
-https://rips.in/stream/ch2/index.m3u8|Referer=https://rips.in/
+http://xtv.ooo:8080/live/09448630/09888785/219689.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FkG793lR5ovP598yQQmUZevZwvdFztjWKA&usqp=CAU" group-title="Sports",54.TEN SPORTS HD
 http://xtv.ooo:8080/live/09448630/09888785/167569.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",55.WILLOW HD
-https://rips.in/stream/ch6/index.m3u8|Referer=https://rips.in/
+http://xtv.ooo:8080/live/09448630/09888785/347333.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/08/images-1-1-1.png" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
