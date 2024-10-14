@@ -179,7 +179,7 @@ http://xtv.ooo:8080/live/09448630/09888785/106133.ts
 http://xtv.ooo:8080/live/09448630/09888785/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a01h
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/09/starmoviesind.webp" group-title="Movie",90.STAR MOVIES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s" group-title="Movie",90.STAR MOVIES HD
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",91.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
