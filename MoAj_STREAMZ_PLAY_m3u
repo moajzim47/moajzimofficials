@@ -44,7 +44,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245920.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" group-title="News",21.CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
-http://ktv.im:8080/live/1234512345/1234512345/83780.ts
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 http://xtv.ooo:8080/live/09448630/09888785/245908.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" group-title="News",24.BANGLA TV HD
@@ -150,7 +150,7 @@ http://xtv.ooo:8080/09448630/09888785/66183.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/09448630/09888785/206271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
-http://xtv.ooo:8080/09448630/09888785/206308.ts
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-CINEMA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",76.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/09448630/09888785/66187.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
