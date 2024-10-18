@@ -14,19 +14,19 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=s2hATqDBTg8F
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 http://xtv.ooo:8080/live/09448630/09888785/245911.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="News",7.DESH TV HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=649941fa
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" group-title="News",8.NTV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=5149cfic
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" group-title="News",9.CHANNEL I
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=vdce53cs
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" group-title="News",10.BANGLA VISION
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" group-title="News",11.Ekushey ETV
 http://xtv.ooo:8080/live/09448630/09888785/245937.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="News",12.MY TV HD
 http://xtv.ooo:8080/live/09448630/09888785/245964.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" group-title="News",13.JAMUNA TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=89b4zb3d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" group-title="News",14.SOMOY TV
 http://xtv.ooo:8080/live/09448630/09888785/245925.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" group-title="News",15.DBC NEWS HD
@@ -62,9 +62,9 @@ http://xtv.ooo:8080/live/09448630/09888785/245949.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="News",30.EKHON TV
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" group-title="News",31.ANANDA TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" group-title="News",32.SATV HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1938a86s
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" group-title="News",33.DIPTO TV
 http://xtv.ooo:8080/live/09448630/09888785/245927.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7aGoIUFJH8lviHSQAn88POKnPU4ujDpQwg&s" group-title="Entertainment",34.AMAR BANGLA
