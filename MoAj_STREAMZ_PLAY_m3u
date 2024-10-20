@@ -144,15 +144,15 @@ http://xtv.ooo:8080/09448630/09888785/221253.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/live/09448630/09888785/109962.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
-http://starshare.live:8080//Leroy123/Leroy123/231
 http://xtv.ooo:8080/09448630/09888785/221260.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
+http://starshare.live:8080//Leroy123/Leroy123/231
 http://xtv.ooo:8080/09448630/09888785/66183.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/09448630/09888785/206271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-CINEMA
+/http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-CINEMA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",76.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/09448630/09888785/66187.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
