@@ -24,7 +24,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" group-title="News",11.Ekushey ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="News",12.MY TV HD
-http://xtv.ooo:8080/live/09448630/09888785/245964.ts
+http://xtv.ooo:8080/kamran800/800kamran/245964.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" group-title="News",13.JAMUNA TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=89b4zb3d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" group-title="News",14.SOMOY TV
@@ -40,7 +40,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" group-title="News",19.BOISHAKHI TV
 http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" group-title="News",20.MOHONA TV
-http://xtv.ooo:8080/live/09448630/09888785/245920.ts
+http://xtv.ooo:8080/kamran800/800kamran/245920.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" group-title="News",21.CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
@@ -56,7 +56,7 @@ http://xtv.ooo:8080/live/09448630/09888785/245915.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" group-title="News",27.BIJOY TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=8abe5348
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" group-title="News",28.NEWS 24 HD
-http://xtv.ooo:8080/live/09448630/09888785/245903.ts
+http://xtv.ooo:8080/kamran800/800kamran/245903.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" group-title="News",29.NEXUS TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="News",30.EKHON TV
