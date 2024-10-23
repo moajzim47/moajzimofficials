@@ -150,26 +150,34 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Entertainment",70.AND TV HD
 http://xtv.ooo:8080/kamran800/800kamran/221253.ts
+https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",76.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10" group-title="Movie",78.ZEE BOLLYWOOD
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",79.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
+https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi68vzg9g9WaK668AC_gemkHFDDHjeAxmjJQ&usqp=CAU" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
 https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|Referer=https://neestreamtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf24F3FC0yQh9aRNHxD93x6vQqvNj8Zl5kLA&usqp=CAU" group-title="Movie",82.COLORS CINEPLEX 
