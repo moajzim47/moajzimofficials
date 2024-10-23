@@ -45,6 +45,7 @@ http://xtv.ooo:8080/kamran800/800kamran/245920.ts
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=GTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" group-title="News",24.BANGLA TV HD
@@ -83,8 +84,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=T-SPORTS
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-SPORTS-1
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-SPORTS-1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
@@ -98,12 +101,15 @@ http://xtv.ooo:8080/kamran800/800kamran/167579.ts
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten1hd-185x278.png" group-title="Sports",48.SONY SPORTS TEN 1 HD
 http://xtv.ooo:8080/kamran800/800kamran/167570.ts
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-1
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-1
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten2hd-150x150.png" group-title="Sports",49.SONY SPORTS TEN 2 HD
 http://xtv.ooo:8080/kamran800/800kamran/167571.ts
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-2
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-2
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/ten3hd-150x150.png" group-title="Sports",50.SONY SPORTS TEN 3 HD
 http://xtv.ooo:8080/kamran800/800kamran/167572.ts
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-3
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-3
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2023/06/sony5hd-150x150.jpg" group-title="Sports",51.SONY SPORTS TEN 5 HD
 http://xtv.ooo:8080/kamran800/800kamran/167580.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",52.PTV SPORTS HD
@@ -176,6 +182,7 @@ http://xtv.ooo:8080/kamran800/800kamran/112983.ts
 https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAT-GOLD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
@@ -188,6 +195,7 @@ http://xtv.ooo:8080/kamran800/800kamran/66213
 http://172.105.123.238:18002/play/a01n
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",94.GOLDMINES MOVIES
