@@ -124,11 +124,11 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist_w1688898732.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/167569.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",55.WILLOW HD
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/08/images-1-1-1.png" group-title="Sports",56.ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2021/08/images-1-1-1.png" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/11/SKYSPCRICKET.webp" group-title="Sports",57.SKY SPORTS CRICKET
 http://xtv.ooo:8080/kamran800/800kamran/167594.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2021/09/SKYFOOTBALL.webp" group-title="Sports",58.SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2021/09/SKYFOOTBALL.webp" group-title="Sports",58.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" group-title="Sports",59.SPORTS 18 HD 1
 http://172.105.123.238:18002/play/a00r
@@ -158,9 +158,9 @@ https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/02/andflixhdtv-150x150.webp " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
