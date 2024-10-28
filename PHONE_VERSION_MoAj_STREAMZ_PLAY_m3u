@@ -144,13 +144,13 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/pixhd.png" group-title="Movie",65.SONY PIX HD
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGxEr9QSyQy-mZgkvHWL8FIqwbrOLEeZQD_UTHJ7uoQ&s" group-title="Entertainment",66.SONY SAB HD
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/sabd-185x278.png" group-title="Entertainment",66.SONY SAB HD
 https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/sonyhd.png" group-title="Entertainment",67.SONY HD
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/10/kal.png" group-title="Entertainment",68.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2020/01/pal-185x278.png" group-title="Entertainment",69.SONY PAL
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/pal-185x278.png" group-title="Entertainment",69.SONY PAL
 https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" group-title="Entertainment",70.AND TV HD
 http://xtv.ooo:8080/kamran800/800kamran/221253.ts
