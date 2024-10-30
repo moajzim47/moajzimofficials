@@ -46,6 +46,7 @@ http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379
 http://xtv.ooo:8080/kamran800/800kamran/245920.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" group-title="News",21.CHANNEL 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=GTV
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
@@ -66,6 +67,7 @@ http://xtv.ooo:8080/kamran800/800kamran/245903.ts
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="News",30.EKHON TV
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" group-title="News",31.ANANDA TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" group-title="News",32.SATV HD
