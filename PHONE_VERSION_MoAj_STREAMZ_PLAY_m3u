@@ -102,20 +102,20 @@ http://xtv.ooo:8080/kamran800/800kamran/167579.ts
 http://xtv.ooo:8080/kamran800/800kamran/167570.ts
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-1
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-1
-https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2023/06/ten2hd-185x278.png" group-title="Sports",49.SONY SPORTS TEN 2 HD
 http://xtv.ooo:8080/kamran800/800kamran/167571.ts
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-2
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-2
-https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/
 https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2023/06/ten3hd-185x278.png" group-title="Sports",50.SONY SPORTS TEN 3 HD
 http://xtv.ooo:8080/kamran800/800kamran/167570.ts
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=SONY-TEN-3
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-TEN-3
-https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/
 https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2023/06/sony5hd-185x278.jpg" group-title="Sports",51.SONY SPORTS TEN 5 HD
 http://xtv.ooo:8080/kamran800/800kamran/167580.ts
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/
@@ -210,6 +210,7 @@ http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 http://xtv.ooo:8080/kamran800/800kamran/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
+http://172.105.123.238:18002/play/a01h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s" group-title="Movie",90.STAR MOVIES HD
 http://xtv.ooo:8080/kamran800/800kamran/66213
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",91.STAR UTSAV MOVIES
@@ -221,10 +222,13 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",94.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
+http://172.105.123.238:18002/play/a01j
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
 http://xtv.ooo:8080/kamran800/800kamran/374980.ts
+http://172.105.123.238:18002/play/a00i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
+http://172.105.123.238:18002/play/a019
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
