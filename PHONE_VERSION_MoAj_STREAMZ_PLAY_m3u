@@ -174,11 +174,13 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/andpicsdd-150x150.webp" group-title="Movie",72.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-pictures|Referer=https://mhdmaxtv.me/
+https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/01/andpichdd-150x150.webp" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
