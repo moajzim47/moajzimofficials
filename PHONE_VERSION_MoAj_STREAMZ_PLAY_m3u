@@ -9,7 +9,7 @@ http://xtv.ooo:8080/kamran800/800kamran/245940.ts
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=ae559a27
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="News",4.ATN NEWS
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d1bcbbc6
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_rW65Y6eQIgy-1Qe7dgau_z0YzzsS_n2tQ&s" group-title="News",5.NAGARIK TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSjq44oFjuF1EzEohxj_feNvHGQ2bW1mOgF9brTzBN11bFdlDSDV4V0M&s=10" group-title="News",5.NAGARIK TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=KJgwqJDsYCf4OsPPXSm1yA&expires=1730529979&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
