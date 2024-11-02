@@ -140,6 +140,7 @@ http://xtv.ooo:8080/kamran800/800kamran/167569.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",55.WILLOW HD
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://nowsports.co.in/cric/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|Referer=https://nowsports.co.in/
+https://fr.globalplay.live/Sports-19/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLcMGxbri_1aPvDRkbAK9ww1McTsqKbXUt4YA6WsU4g&s" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
 https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8
