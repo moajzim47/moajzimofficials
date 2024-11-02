@@ -154,8 +154,7 @@ https://fr.globalplay.live/Sports-2/tracks-v1a1/mono.m3u8
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001|Referer=https://mhdlivetv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/live/32031/33285/2380.ts
-http://172.105.123.238:18002/play/a03d
-http://172.105.123.238:18002/play/a02b
+http://xtv.ooo:8080/kamran800/800kamran/167588.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
 https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
