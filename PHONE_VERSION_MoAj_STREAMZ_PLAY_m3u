@@ -207,9 +207,10 @@ https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10" group-title="Movie",78.ZEE BOLLYWOOD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUHQGrbbQT662V5bsSmg7i74oTYkgs0m10VghHKT4Xpg&s" group-title="Movie",78.ZEE ANMOL CINEMA 2
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
 https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+https://la.drmlive.au/tp/zee-bigganga.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",79.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
