@@ -175,7 +175,9 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEjeR9JB8bnCyZmUOeEFajtWSLGIAGmB4hQ&s" group-title="Entertainment",70.AND TV HD
 http://xtv.ooo:8080/kamran800/800kamran/221253.ts
+https://mhdmaxtv.me/nowmelive/play.php?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
 https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8zMq-113BIXuTBMfALXOYffnJT7ns2wSnQ&s " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
@@ -185,7 +187,9 @@ https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-pictures|Referer=https://mhdmaxt
 https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me/
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
