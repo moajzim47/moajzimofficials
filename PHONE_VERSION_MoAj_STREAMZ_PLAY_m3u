@@ -192,12 +192,15 @@ https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",76.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10" group-title="Movie",78.ZEE BOLLYWOOD
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
 https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
@@ -207,6 +210,7 @@ https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
 https://neestreamtv.com/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3479683|Referer=https://neestreamtv.com/
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movie",82.COLORS CINEPLEX 
