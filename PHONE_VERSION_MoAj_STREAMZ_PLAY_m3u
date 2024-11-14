@@ -250,6 +250,7 @@ https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3694429
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-GOLD
+http://103.175.242.10:8080/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
@@ -261,9 +262,10 @@ http://172.105.123.238:18002/play/a01h
 http://xtv.ooo:8080/kamran800/800kamran/66213
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",91.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
+http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 http://172.105.123.238:18002/play/a00z
