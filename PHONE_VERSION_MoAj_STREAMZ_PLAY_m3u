@@ -61,6 +61,7 @@ http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245908.ts
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhj2tXpv/Bangla-TV-HD.png" group-title="News",24.BANGLA TV HD
 http://xtv.ooo:8080/kamran800/800kamran/245910.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VCmHJDN33WZ7TPM3VYoXsrxEAMBD7vjKXw&usqp=CAU" group-title="Movie",25.MOVIE BANGLA
