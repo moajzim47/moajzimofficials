@@ -57,7 +57,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=GTV
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
-http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245908.ts
