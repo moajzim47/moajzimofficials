@@ -29,6 +29,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=01eabe3c
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" group-title="News",11.Ekushey ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+http://xtv.ooo:8080/kamran800/800kamran/245937.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" group-title="News",12.MY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/245964.ts
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
@@ -89,6 +90,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" group-title="News",32.SATV HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1938a86s
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+http://xtv.ooo:8080/kamran800/800kamran/245945.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" group-title="News",33.DIPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7aGoIUFJH8lviHSQAn88POKnPU4ujDpQwg&s" group-title="Entertainment",34.AMAR BANGLA
