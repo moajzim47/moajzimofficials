@@ -350,7 +350,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUdIgAXazA1JEf14tz21o0NsLJ3qxRPbSE35Df9lJbQ&s" group-title="Cartoon",116.WOW KIDS
 http://xtv.ooo:8080/kamran800/800kamran/307079.ts
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Cartoon",117.KIDS CREATION
-http://xtv.ooo:8080/kamran800/800kamran/314753.ts
+http://xtv.ooo:8080//kamran800/800kamran/329247.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iaYZ17nCD4uG44rjLPTMmjWxLQd1FBKsEwOTUmGTyQ&s" group-title="Music",118.9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",119.9X JALWA
