@@ -112,15 +112,14 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=T-SPORTS
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
-http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
-https://musajeeb.com/T-Sports/tracks-v1a1/mono.m3u8
+http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-SPORTS-1
-http://103.175.242.10:8080/starsports1/index.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
 https://hex-op.tiiny.io/play.php?id=star1in
+http://103.175.242.10:8080/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 http://webhop.xyz:8080/shoaib/shoaib/211
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
@@ -276,10 +275,10 @@ https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3694429
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-GOLD
-http://103.175.242.10:8080/stargold/index.m3u8
 http://webhop.xyz:8080/shoaib/shoaib/194
 http://xtv.ooo:8080/kamran800/800kamran/112982.ts
 https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+http://103.175.242.10:8080/stargold/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
@@ -297,8 +296,8 @@ http://172.105.123.238:18002/play/a01n
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
-http://bapatv.live:8080/jalshamovies/index.m3u8
 http://webhop.xyz:8080/shoaib/shoaib/23304
+http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 http://172.105.123.238:18002/play/a00z
