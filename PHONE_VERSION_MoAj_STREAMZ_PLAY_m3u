@@ -14,6 +14,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d1bcbbc6
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5zKO1pEKC1BKswAS0GM70xYJ0N6e3SKWLQ&s" group-title="News",5.NAGARIK TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TpDe7BWQO73KHOi2pRlPxA&expires=1732654773&user=811838a63b224e85b02b925b31d0fece
+http://webhop.xyz:8080/live/shoaib/shoaib/3802.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="News",7.DESH TV HD
@@ -286,8 +287,8 @@ http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 http://webhop.xyz:8080/shoaib/shoaib/210
 http://xtv.ooo:8080/kamran800/800kamran/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
-http://xtv.ooo:8080/kamran800/800kamran/221258.ts
 http://172.105.123.238:18002/play/a01h
+http://xtv.ooo:8080/kamran800/800kamran/221258.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s" group-title="Movie",90.STAR MOVIES HD
 http://webhop.xyz:8080/shoaib/shoaib/979
 http://xtv.ooo:8080//kamran800/800kamran/66315.ts
@@ -301,15 +302,16 @@ http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 http://172.105.123.238:18002/play/a00z
+http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",94.GOLDMINES MOVIES
-http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 http://172.105.123.238:18002/play/a01j
+http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
-http://xtv.ooo:8080/kamran800/800kamran/374980.ts
 http://172.105.123.238:18002/play/a00i
+http://xtv.ooo:8080/kamran800/800kamran/374980.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
-http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 http://172.105.123.238:18002/play/a019
+http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
