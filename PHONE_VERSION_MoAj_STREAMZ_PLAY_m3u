@@ -123,8 +123,8 @@ https://hex-op.tiiny.io/play.php?id=star1in
 http://103.175.242.10:8080/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 http://webhop.xyz:8080/shoaib/shoaib/211
-http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 https://hex-op.tiiny.io/play.php?id=starhindi
+http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://xtv.ooo:8080/kamran800/800kamran/109988.ts
@@ -165,8 +165,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://fr.globalplay.live/Sports-19/index.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
-https://nowsports.co.in/cric/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|Referer=https://nowsports.co.in/
 https://hex-op.tiiny.io/play.php?id=willowusa
+https://nowsports.co.in/cric/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|Referer=https://nowsports.co.in/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLcMGxbri_1aPvDRkbAK9ww1McTsqKbXUt4YA6WsU4g&s" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
 https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8
@@ -175,9 +175,9 @@ https://nowsports.co.in/cric/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10|Ref
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGA9ND-MGrzIXSPfKuWG5H5Vnq1layowvXDQ&s" group-title="Sports",57.SKY SPORTS CRICKET
 http://xtv.ooo:8080/kamran800/800kamran/167594.ts
 https://fr.globalplay.live/Sports-1/tracks-v1a1/mono.m3u8
-https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://hex-op.tiiny.io/play.php?id=skyscric
+https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_bbbt2tKIeEIXGgkv-jJZwo8u2MsBlpFAg&s" group-title="Sports",58.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://fr.globalplay.live/Sports-2/tracks-v1a1/mono.m3u8
