@@ -14,7 +14,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d1bcbbc6
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5zKO1pEKC1BKswAS0GM70xYJ0N6e3SKWLQ&s" group-title="News",5.NAGARIK TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TpDe7BWQO73KHOi2pRlPxA&expires=1732654773&user=811838a63b224e85b02b925b31d0fece
-http://webhop.xyz:8080/live/shoaib/shoaib/3802.ts
+http://starshare.live/anita123/anita123/3802.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="News",7.DESH TV HD
@@ -131,8 +131,8 @@ http://webhop.xyz:8080/shoaib/shoaib/211
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://xtv.ooo:8080/kamran800/800kamran/109988.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxwvRQ8J_-0I6sP84YE0LPDINa9cKV6f4uukWxd68WTy_HIX10_D2luY&s" group-title="Sports",45.STAR SPORTS 3
-http://webhop.xyz:8080/shoaib/shoaib/1080
 http://xtv.ooo:8080/kamran800/800kamran/167577.ts
+http://starshare.live/anita123/anita123/1080
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="Sports",46.STAR SPORTS SELECT 1 HD
 http://webhop.xyz:8080/shoaib/shoaib/238
 http://xtv.ooo:8080/kamran800/800kamran/167578.ts
@@ -302,7 +302,7 @@ http://172.105.123.238:18002/play/a01n
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
 http://bapatv.live:8080/jalshamovies/index.m3u8
-http://webhop.xyz:8080/shoaib/shoaib/23304
+http://starshare.live/anita123/anita123/425
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://172.105.123.238:18002/play/a00z
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
