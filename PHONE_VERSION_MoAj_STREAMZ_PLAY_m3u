@@ -124,9 +124,9 @@ http://103.175.242.10:8080/starsports1/index.m3u8
 https://neestreamtv.com/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://neestreamtv.com/
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
-http://webhop.xyz:8080/shoaib/shoaib/211
 https://hex-op.tiiny.io/play.php?id=starhindi
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
+http://webhop.xyz:8080/shoaib/shoaib/211
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://xtv.ooo:8080/kamran800/800kamran/109988.ts
