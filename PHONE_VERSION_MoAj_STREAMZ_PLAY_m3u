@@ -381,7 +381,9 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Music",124.MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="Music",125.SANGEET BANGLA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=1087600.m3u8?sessionid=yupptvott_61_-1_c352d1a5-25f8-312d-698c-f2157bb00877_BD_103.100.235.95_dishtv_1_channel_40_-1&token=st=1702740210~exp=1702826610~hmac=4a56e048deb7db5c67e916d95de4ea93560dd3e02610d10f250156ba110611d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+http://starshare.live/anita123/anita123/405
+http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",126.GAAN BANGLA
 https://cdn3.pishow.tv/live/279/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
