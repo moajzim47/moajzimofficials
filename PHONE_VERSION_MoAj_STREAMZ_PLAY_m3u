@@ -368,10 +368,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",119.9X JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8?sessionid=yupptvott_61_-1_c352d1a5-25f8-312d-698c-f2157bb00877_BD_37.111.243.86_dishtv_1_channel_13_-1&token=st=1703672699~exp=1703759099~hmac=8562390de93a10d4c9ca82228cdb4eebc4ef50f0cd843f8576d28a79178f8eea
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/353c48b2-233c-49b0-a221-0bcb57e71500_180x180_9X_Tashan.jpg" group-title="Music",120.8XM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTym2Q6jZHMkfDWDvu1Ph5lXXDK8pAf24DQ5g&usqp=CAU" group-title="Music",120.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/353c48b2-233c-49b0-a221-0bcb57e71500_180x180_9X_Tashan.jpg" group-title="Music",121.JALWA
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jKtnvVI0DiwGM4THIGFs7ktViNzJbhfacQ&s" group-title="Music",121.JALWA
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FmNp2bCn-SCu4YiUasN-qH7OUkE-XYk410Z1rbSx0g&s" group-title="Music",122.MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
