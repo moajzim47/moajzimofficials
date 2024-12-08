@@ -131,14 +131,14 @@ https://neestreamtv.com/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://hex-op.tiiny.io/play.php?id=starhindi
-http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 http://webhop.xyz:8080/shoaib/shoaib/211
+http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://xtv.ooo:8080/kamran800/800kamran/109988.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxwvRQ8J_-0I6sP84YE0LPDINa9cKV6f4uukWxd68WTy_HIX10_D2luY&s" group-title="Sports",45.STAR SPORTS 3
 http://xtv.ooo:8080/kamran800/800kamran/167577.ts
-http://starshare.live/anita123/anita123/1080
+http://starshare.live/KVSingh/KVSingh/1080
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="Sports",46.STAR SPORTS SELECT 1 HD
 http://webhop.xyz:8080/shoaib/shoaib/238
 http://xtv.ooo:8080/kamran800/800kamran/167578.ts
@@ -308,7 +308,7 @@ http://172.105.123.238:18002/play/a01n
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
 http://bapatv.live:8080/jalshamovies/index.m3u8
-http://starshare.live/anita123/anita123/425
+http://starshare.live/KVSingh/KVSingh/425
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
