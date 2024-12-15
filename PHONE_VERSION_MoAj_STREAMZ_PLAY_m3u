@@ -15,7 +15,7 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=d1bcbbc6
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5zKO1pEKC1BKswAS0GM70xYJ0N6e3SKWLQ&s" group-title="News",5.NAGARIK TV
 http://starshare.live/anita123/anita123/3802
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7ggQSqVbrUiPyjfvt2Blqw&expires=1734416352&user=811838a63b224e85b02b925b31d0fece
+https://jadoo.iptvbd.xyz/jadoo.php?id=nagorik_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" group-title="News",6.RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="News",7.DESH TV HD
@@ -129,6 +129,7 @@ http://103.240.4.59:8080/tsports/index.m3u8
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-SPORTS-1
 https://hex-op.tiiny.io/play.php?id=star1in
 http://103.175.242.10:8080/starsports1/index.m3u8
+https://bajimath.com/php/stream.m3u8?id=STAR-SPORTS-1&e=.m3u8
 https://neestreamtv.com/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://neestreamtv.com/
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
@@ -204,6 +205,7 @@ http://172.105.123.238:18002/play/a03d
 https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
 https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",63.SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",64.SONY WAH
@@ -286,11 +288,11 @@ http://xtv.ooo:8080/kamran800/800kamran/112983.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSY264sY/IMG-1731091311887-2.png" group-title="Entertainment",85.COLORS HD
 https://neestreamtv.com/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-GOLD
 http://webhop.xyz:8080/shoaib/shoaib/194
 http://103.175.242.10:8080/stargold/index.m3u8
 https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+https://bajimath.com/php/stream.m3u8?id=STAR-GOLD&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/112982.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
@@ -307,7 +309,7 @@ http://xtv.ooo:8080//kamran800/800kamran/66315.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",91.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+https://bajimath.com/php/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=JALSHA-MOVIES
 http://bapatv.live:8080/jalshamovies/index.m3u8
 http://starshare.live/KVSingh/KVSingh/425
