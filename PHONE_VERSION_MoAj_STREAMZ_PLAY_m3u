@@ -125,7 +125,7 @@ http://103.96.235.18:8080/sports1/index.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=VOLhsqoSXBqGULbBCKAeNw&expires=1734416366&user=811838a63b224e85b02b925b31d0fece
 http://103.240.4.59:8080/tsports/index.m3u8
-https://nowlivetv.com/ayna/stream.php?id=28&ip=27.147.204.216|Referer=https://nowlivetv.com/
+https://nowlivetv.com/ayna/stream.php?id=27&ip=27.147.204.216|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-SPORTS-1
 https://hex-op.tiiny.io/play.php?id=star1in
@@ -147,9 +147,11 @@ http://starshare.live/KVSingh/KVSingh/1080
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="Sports",46.STAR SPORTS SELECT 1 HD
 http://webhop.xyz:8080/shoaib/shoaib/238
 http://xtv.ooo:8080/kamran800/800kamran/167578.ts
+https://nowlivetv.com/ayna/stream.php?id=48&ip=27.147.204.216|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" group-title="Sports",47.STAR SPORTS SELECT 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/148801
 http://xtv.ooo:8080/kamran800/800kamran/167579.ts
+https://nowlivetv.com/ayna/stream.php?id=49&ip=27.147.204.216|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",48.SONY SPORTS TEN 1 HD
 http://xtv.ooo:8080/kamran800/800kamran/167570.ts
 https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/
