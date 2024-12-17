@@ -118,7 +118,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 http://103.96.235.18:8080/sports1/index.m3u8
