@@ -126,12 +126,11 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=VOLhsqoSXBqGUL
 http://103.240.4.59:8080/tsports/index.m3u8
 https://nowlivetv.com/ayna/stream.php?id=27&ip=27.147.204.216|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
-http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-SPORTS-1
 https://hex-op.tiiny.io/play.php?id=star1in
 http://103.175.242.10:8080/starsports1/index.m3u8
 https://bajimath.com/php/stream.m3u8?id=STAR-SPORTS-1&e=.m3u8
-https://neestreamtv.com/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://neestreamtv.com/
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
+https://nowlivetv.com/ayna/stream.php?id=44&ip=27.147.204.216|Referer=https://nowlivetv.com/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://hex-op.tiiny.io/play.php?id=starhindi
 http://webhop.xyz:8080/shoaib/shoaib/211
