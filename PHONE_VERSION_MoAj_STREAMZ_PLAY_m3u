@@ -322,7 +322,7 @@ https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://n
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 http://172.105.123.238:18002/play/a01j
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJU4eb09SBIb2khQ7snvj28FygVAVkRChe0DBgpf6oNw&s" group-title="Movie",94.BFLIX MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s" group-title="Movie",94.BFLIX MOVIES
 http://172.105.123.238:18002/play/a01n
 https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
