@@ -316,23 +316,23 @@ http://starshare.live/KVSingh/KVSingh/425
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",92.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
-http://172.105.123.238:18002/play/a00z
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
+http://172.105.123.238:18002/play/a00z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",93.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
-http://172.105.123.238:18002/play/a01j
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
+http://172.105.123.238:18002/play/a01j
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s" group-title="Movie",94.BFLIX MOVIES
 http://172.105.123.238:18002/play/a01n
 https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
 http://xtv.ooo:8080/kamran800/800kamran/374980.ts
-http://172.105.123.238:18002/play/a00i
 https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://nowlivetv.com/
+http://172.105.123.238:18002/play/a00i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
-http://172.105.123.238:18002/play/a019
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
+http://172.105.123.238:18002/play/a019
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
