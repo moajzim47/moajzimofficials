@@ -203,6 +203,7 @@ https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001|Referer=https://mhdlivetv
 http://watchindia.net:8880/49387/51659/2380.ts
 http://xtv.ooo:8080/kamran800/800kamran/167588.ts
 http://172.105.123.238:18002/play/a03d
+http://172.105.123.238:18002/play/a07q
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
 https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
@@ -305,34 +306,40 @@ http://xtv.ooo:8080/kamran800/800kamran/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a01h
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
+http://172.105.123.238:18002/play/a06z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s" group-title="Movie",90.STAR MOVIES HD
 http://webhop.xyz:8080/shoaib/shoaib/979
 http://xtv.ooo:8080//kamran800/800kamran/66315.ts
 http://xtv.ooo:8080//kamran800/800kamran/66213.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",91.JALSHA MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s" group-title="Movie",91.STAR UTSAV MOVIES
+http://172.105.123.238:18002/play/a01n
+https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
+http://172.105.123.238:18002/play/a075
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
 https://bajimath.com/php/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
 http://bapatv.live:8080/jalshamovies/index.m3u8
 http://starshare.live/KVSingh/KVSingh/425
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",92.GOLDMINES
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a00z
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",93.GOLDMINES MOVIES
+http://172.105.123.238:18002/play/a06h
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",94.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a01j
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s" group-title="Movie",94.BFLIX MOVIES
-http://172.105.123.238:18002/play/a01n
-https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
+http://172.105.123.238:18002/play/a071
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
 http://xtv.ooo:8080/kamran800/800kamran/374980.ts
 https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a00i
+http://172.105.123.238:18002/play/a065
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a019
+http://172.105.123.238:18002/play/a06s
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
