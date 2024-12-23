@@ -313,7 +313,7 @@ http://172.105.123.238:18002/play/a06z
 http://webhop.xyz:8080/shoaib/shoaib/979
 http://xtv.ooo:8080//kamran800/800kamran/66213.ts
 http://xtv.ooo:8080//kamran800/800kamran/66315.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHTkXKNjwMTBzeEt-5U9Erf0U0lAPhDDzmkw&s" group-title="Movie",91.STAR UTSAV MOVIES
+#EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",91.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
 https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
 http://172.105.123.238:18002/play/a075
