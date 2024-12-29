@@ -119,13 +119,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
-http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 http://103.96.235.18:8080/sports1/index.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 http://103.240.4.59:8080/tsports/index.m3u8
 https://nowlivetv.com/ayna/stream.php?id=27&ip=27.147.204.216|Referer=https://nowlivetv.com/
-https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
 https://the-nayeemparvez.xyz/jadoo/stream.php?id=t_sports
+https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 https://hex-op.tiiny.io/play.php?id=star1in
 http://103.175.242.10:8080/starsports1/index.m3u8
