@@ -401,6 +401,7 @@ http://xtv.ooo:8080/kamran800/800kamran/167551.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="Cartoon",115.DISCOVERY KIDS
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
+http://baskardo.vip/IN_DiscoveryKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUdIgAXazA1JEf14tz21o0NsLJ3qxRPbSE35Df9lJbQ&s" group-title="Cartoon",116.WOW KIDS
 http://xtv.ooo:8080/kamran800/800kamran/307079.ts
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Cartoon",117.KIDS CREATION
