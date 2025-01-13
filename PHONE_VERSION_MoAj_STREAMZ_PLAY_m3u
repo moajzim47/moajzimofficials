@@ -71,7 +71,6 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" group-title="News",22.GTV HD
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
-https://musajeeb.com/Gazi/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibd.stream/playlist.m3u8
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=GTV&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
@@ -125,13 +124,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
 http://103.96.235.18:8080/sports1/index.m3u8
-http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 http://103.240.4.59:8080/tsports/index.m3u8
 https://nowlivetv.com/ayna/stream.php?id=27&ip=27.147.204.216|Referer=https://nowlivetv.com/
 https://the-nayeemparvez.xyz/jadoo/stream.php?id=t_sports
 https://jadoo.iptvbd.xyz/jadoo.php?id=t_sports&e=.m3u8
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=LIVE-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=T-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 https://hex-op.tiiny.io/play.php?id=star1in
 http://103.175.242.10:8080/starsports1/index.m3u8
@@ -290,11 +289,11 @@ https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetvhd|Referer=https://mhdmaxtv
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NDMs4v3/IMG-1731090997556-2.png" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=3479683|Referer=https://mhdlivetv.com/
 https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqJ0zXQ2/IMG-1731090905566-2.png" group-title="Movie",82.COLORS CINEPLEX HD
 http://xtv.ooo:8080/kamran800/800kamran/104191.ts
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774155|Referer=https://mhdlivetv.com/
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfBwRCS3/IMG-1731512012439-2.png" group-title="Movie",83.COLORS BANGLA CINEMA
 https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com/
@@ -302,14 +301,14 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqZx4YZg/IMG-1731090707710-2.png" group-title="Movie",84.COLORS CINEPLEX BOLLYWOOD
 http://xtv.ooo:8080/kamran800/800kamran/112983.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSY264sY/IMG-1731091311887-2.png" group-title="Entertainment",85.COLORS HD
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=3694429|Referer=https://mhdlivetv.com/
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-GOLD
 http://webhop.xyz:8080/shoaib/shoaib/194
 https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
 https://bajimath.com/php/stream.m3u8?id=STAR-GOLD&e=.m3u8
-http://xtv.ooo:8080/kamran800/800kamran/112982.ts
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=STAR-GOLD&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+http://xtv.ooo:8080/kamran800/800kamran/112982.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
@@ -332,8 +331,8 @@ http://172.105.123.238:18002/play/a075
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
 https://bajimath.com/php/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
 http://bapatv.live:8080/jalshamovies/index.m3u8
-http://starshare.live/KVSingh/KVSingh/425
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
+http://starshare.live/KVSingh/KVSingh/425
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
@@ -435,8 +434,8 @@ https://playyonogames.in/live.php?id=250&extension=.m3u8|Referer=https://playyon
 http://baskardo.vip/IN_MusicIndia/tracks-v1a1/mono.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia2.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA7JqsXPfa3P4pdK9l3IUlONvakemionmBHqtrwSCFg&s" group-title="Music",123.MTV BEATS HD
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774153|Referer=https://mhdlivetv.com/
 https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
+https://moonkerala.xyz/jiocinema/stream.m3u8?id=3774153|Referer=https://moonkerala.xyz/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWf5ChZQL6PFzfy4CPKGs0BQsCfrJAWM9Ng&s" group-title="Music",124.SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Music",125.MASTII
