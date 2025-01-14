@@ -210,6 +210,7 @@ https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?id=35|Referer=http
 https://topsps.shop/stream.m3u8?id=35a90115115b&e=.m3u8|Referer=https://topsps.shop/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" group-title="Sports",59.SPORTS 18 HD 1
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001|Referer=https://mhdlivetv.com/
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/49387/51659/2380.ts
 http://xtv.ooo:8080/kamran800/800kamran/167588.ts
@@ -442,11 +443,11 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="Music",126.SANGEET BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
-http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 http://starshare.live/anita123/anita123/405
 https://colorsscreen.com/live.php?id=740&extension=.m3u8|Referer=https://colorsscreen.com/
 https://playyonogames.in/live.php?id=740&extension=.m3u8|Referer=https://playyonogames.in/
 https://cdn1.pishow.tv/live/214/master.m3u8
+http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",127.GAAN BANGLA
 https://cdn3.pishow.tv/live/279/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
