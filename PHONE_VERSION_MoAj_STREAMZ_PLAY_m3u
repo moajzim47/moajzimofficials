@@ -225,24 +225,24 @@ http://xtv.ooo:8080/kamran800/800kamran/167588.ts
 http://172.105.123.238:18002/play/a03d
 http://172.105.123.238:18002/play/a07q
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
-https://keralamaxtv.com/sliv/stream.m3u8?id=96|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=96|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
 https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",63.SONY AATH
-https://keralamaxtv.com/sliv/stream.m3u8?id=195|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",64.SONY WAH
-https://keralamaxtv.com/sliv/stream.m3u8?id=75|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=75|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",65.SONY PIX HD
-https://keralamaxtv.com/sliv/stream.m3u8?id=785|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=785|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Entertainment",66.SONY SAB HD
-https://keralamaxtv.com/sliv/stream.m3u8?id=1201|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=1201|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",67.SONY HD
-https://keralamaxtv.com/sliv/stream.m3u8?id=1100|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=1100|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-BVH9eJj6x7xsvLO2m4Nblf99Dgb8CPuiYffJsLU4HV7kw5pBR55yXtU&s=10" group-title="Entertainment",68.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3kjZT8CrJYcLDjnY65MuYR1mNat3Cmt3cw&s" group-title="Entertainment",69.SONY PAL
-https://keralamaxtv.com/sliv/stream.m3u8?id=1894|Referer=https://keralamaxtv.com/
+https://keralamaxtv.com/sliv/stream.php?id=1894|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEjeR9JB8bnCyZmUOeEFajtWSLGIAGmB4hQ&s" group-title="Entertainment",70.AND TV HD
 http://xtv.ooo:8080/kamran800/800kamran/221253.ts
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
