@@ -201,10 +201,10 @@ https://topsps.shop/stream.m3u8?id=dc5c4f605943&e=.m3u8|Referer=https://topsps.s
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGA9ND-MGrzIXSPfKuWG5H5Vnq1layowvXDQ&s" group-title="Sports",57.SKY SPORTS CRICKET
 https://fr.globalplay.live/Sports-1/tracks-v1a1/mono.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
-https://hex-op.tiiny.io/play.php?id=skyscric
 https://mhdtvstream.com/stream.m3u8?id=3c0fcd766ba09ec75d9e8c1cb685d0d6|Referer=https://mhdtvstream.com/
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
 http://xtv.ooo:8080/kamran800/800kamran/167594.ts
+https://cric-hex.tiiny.io/play.php?id=skyscric
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_bbbt2tKIeEIXGgkv-jJZwo8u2MsBlpFAg&s" group-title="Sports",58.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://fr.globalplay.live/Sports-2/tracks-v1a1/mono.m3u8
@@ -251,7 +251,7 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 https://la.drmlive.au/tp/zee-pictures.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-pictures.m3u8
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-pictures|Referer=https://mhdmaxtv.me/
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-pictures|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtP5MTmC23CcjMvsIq7xIJPffElXtp3tTq0g&usqp=CAU" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me/
@@ -260,7 +260,7 @@ https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me/
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeecinema|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me/
@@ -284,8 +284,8 @@ https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",79.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://live.drmlive-02.workers.dev/zee/zee-bangla-cinema.m3u8
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetvhd|Referer=https://mhdmaxtv.me/
