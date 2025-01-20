@@ -125,7 +125,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
-http://103.96.235.18:8080/sports1/index.m3u8
 http://103.240.4.59:8080/tsports/index.m3u8
 https://nowlivetv.com/ayna/stream.php?id=27&ip=27.147.204.216|Referer=https://nowlivetv.com/
 https://the-nayeemparvez.xyz/jadoo/stream.php?id=t_sports
@@ -135,6 +134,7 @@ http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 https://nayeemparvez.online/novasports/watch.php?id=4ZstVTNS&format=.m3u8
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=T-SPORTS&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 https://nayeemparvez.online/novasports/watch.php?id=4ZstVTNS&format=.m3u8
+http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://103.175.242.10:8080/starsports1/index.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
@@ -195,10 +195,10 @@ https://cric-hex.tiiny.io/play.php?id=tenspk
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://fr.globalplay.live/Sports-19/index.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
-https://hex-op.tiiny.io/play.php?id=willowusa
 https://neestreamtv.com/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|Referer=https://neestreamtv.com/
 https://nowsports.co.in/cric/stream.m3u8?id=497e140e2da647b56759358a7cd58f32|Referer=https://nowsports.co.in/
 https://topsps.shop/stream.m3u8?id=fc5f5de08eae&e=.m3u8|Referer=https://topsps.shop/
+https://cric-hex.tiiny.io/play.php?id=willowusa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLcMGxbri_1aPvDRkbAK9ww1McTsqKbXUt4YA6WsU4g&s" group-title="Sports",56.ASTRO CRICKET
 http://watchindia.net:8880/live/32031/33285/2174.ts
 https://criccoder.pages.dev/astro.m3u8
