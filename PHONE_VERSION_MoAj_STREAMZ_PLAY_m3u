@@ -246,14 +246,14 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://keralamaxtv.com/sliv/stream.php?id=1894|Referer=https://keralamaxtv.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEjeR9JB8bnCyZmUOeEFajtWSLGIAGmB4hQ&s" group-title="Entertainment",70.AND TV HD
 http://xtv.ooo:8080/kamran800/800kamran/221253.ts
-https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
 https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8zMq-113BIXuTBMfALXOYffnJT7ns2wSnQ&s " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
 https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-channel_2105335046|Referer=https://mhdmaxtv.me/
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://mhdmaxtv.me/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPG1oU_Uwv6cw73DqClreDQ-6d1fNr_GMebQ&usqp=CAU" group-title="Movie",72.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 https://la.drmlive.au/tp/zee-pictures.m3u8
