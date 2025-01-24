@@ -291,17 +291,19 @@ https://la.drmlive.au/tp/zee-zeeaction.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeeaction|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZeeActionHD/index.m3u8
+https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Referer=https://live.drmlive.in/|Origin=https://live.drmlive.in
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Movie",78.ZEE ANMOL CINEMA 2
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
 https://la.drmlive.au/tp/zee-bigganga.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-bigganga|Referer=https://mhdmaxtv.me/
+https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Referer=https://live.drmlive.in/|Origin=https://live.drmlive.in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",79.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://live.drmlive-02.workers.dev/zee/zee-bangla-cinema.m3u8
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
-https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
+https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Referer=https://live.drmlive.in/|Origin=https://live.drmlive.in
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
