@@ -353,10 +353,9 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://nayeemparvez.just.biz.id/bdtv/stream.php?id=STAR-GOLD
 http://webhop.xyz:8080/shoaib/shoaib/194
-https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
-https://bajimath.com/php/stream.m3u8?id=STAR-GOLD&e=.m3u8
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=STAR-GOLD&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://xtv.ooo:8080/kamran800/800kamran/112982.ts
+http://45.148.145.57/IN_STGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
@@ -451,6 +450,7 @@ http://xtv.ooo:8080//kamran800/800kamran/150482.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv-UEwhkmBxPuPdv7VhQ07hVTIVuvmvLb3sI3NZvQfA&s" group-title="Cartoon",111.POGO
 https://bdixtv24.site/toffee/live.php?id=38060f0d4077&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/150483.ts
+http://45.148.145.57/IND_POGO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Cartoon",112.SONY YAY
 http://xtv.ooo:8080/kamran800/800kamran/26187.ts
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
@@ -462,6 +462,7 @@ http://xtv.ooo:8080/kamran800/800kamran/167551.ts
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/76723.ts
+http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUdIgAXazA1JEf14tz21o0NsLJ3qxRPbSE35Df9lJbQ&s" group-title="Cartoon",116.WOW KIDS
 http://xtv.ooo:8080/kamran800/800kamran/307079.ts
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Cartoon",117.Rongeen
@@ -492,6 +493,7 @@ https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3774153|Referer=https://moonkerala.xyz/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWf5ChZQL6PFzfy4CPKGs0BQsCfrJAWM9Ng&s" group-title="Music",124.SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Music",125.MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="Music",126.SANGEET BANGLA
