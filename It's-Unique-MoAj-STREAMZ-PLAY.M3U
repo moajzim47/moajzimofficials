@@ -199,9 +199,9 @@ https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/217968.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 https://cric-hex.tiiny.io/play.php?id=ptvpk
-https://nowsports.co.in/nova/live.php?id=3256e4a088876b941e74615a75ebe8f9&format=.m3u8
 https://nayeemparvez.online/novasports/live.php?id=3256e4a088876b941e74615a75ebe8f9&format=.m3u8
 http://45.148.145.57/ptvS/tracks-v1a1/mono.m3u8
+https://nayeemparvez.online/novasports/live.m3u8?id=3256e4a088876b941e74615a75ebe8f9&vtoken=iptv_m3u|Referer=https://secureplayer.sportstvn.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s" group-title="Sports",53. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
@@ -244,6 +244,7 @@ https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001|Referer=https://mhdlivetv
 https://nayeemparvez.online/novasports/watch.php?id=n0wNB7Of&format=.m3u8
 https://nayeemparvez.online/novasports/live.php?id=b840943750fd3decab04ffd201424451&format=.m3u8
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
+https://nayeemparvez.online/novasports/live.m3u8?id=b840943750fd3decab04ffd201424451&vtoken=iptv_m3u|Referer=https://secureplayer.sportstvn.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/49387/51659/2380.ts
 http://xtv.ooo:8080/kamran800/800kamran/167588.ts
