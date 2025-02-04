@@ -285,11 +285,13 @@ https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_FLIX/index.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPG1oU_Uwv6cw73DqClreDQ-6d1fNr_GMebQ&usqp=CAU" group-title="Movie",72.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 https://la.drmlive.au/tp/zee-pictures.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-pictures.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-pictures|Referer=https://mhdmaxtv.me/
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-pictures
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtP5MTmC23CcjMvsIq7xIJPffElXtp3tTq0g&usqp=CAU" group-title="Movie",73.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
 https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
@@ -300,6 +302,7 @@ http://45.148.145.57/IN_PICURES/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeecinema|Referer=https://mhdmaxtv.me/
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeecinema
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",75.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
@@ -325,6 +328,7 @@ https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-bigganga|Referer=https://mhdmaxtv.me/
 https://la.drmlive.au/tp/zee-bigganga.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-bigganga
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",79.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://live.drmlive-02.workers.dev/zee/zee-bangla-cinema.m3u8
