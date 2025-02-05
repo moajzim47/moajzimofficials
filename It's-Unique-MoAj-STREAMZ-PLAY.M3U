@@ -160,6 +160,7 @@ http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=STAR-SPORTS-2&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxwvRQ8J_-0I6sP84YE0LPDINa9cKV6f4uukWxd68WTy_HIX10_D2luY&s" group-title="Sports",45.STAR SPORTS 3
 http://xtv.ooo:8080/kamran800/800kamran/167577.ts
 http://starshare.live/KVSingh/KVSingh/1080
+http://176.97.123.29/live.ts?channelId=39098&uid=3309&deviceMac=00:1A:79:17:BE:BB
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" group-title="Sports",46.STAR SPORTS SELECT 1 HD
 http://webhop.xyz:8080/shoaib/shoaib/238
 https://nowlivetv.com/ayna/stream.php?id=48&ip=27.147.204.216|Referer=https://nowlivetv.com/
@@ -371,12 +372,15 @@ http://webhop.xyz:8080/shoaib/shoaib/194
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=STAR-GOLD&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://xtv.ooo:8080/kamran800/800kamran/112982.ts
 http://45.148.145.57/IN_STGOLD/tracks-v1a1/mono.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=3309&deviceMac=00:1A:79:17:BE:BB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
+http://176.97.123.29/live.ts?channelId=33165&uid=3309&deviceMac=00:1A:79:17:BE:BB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
 http://webhop.xyz:8080/shoaib/shoaib/210
 http://xtv.ooo:8080/kamran800/800kamran/221257.ts
+http://tv.cloudcdn.me/live.ts?channelId=197&uid=3309&deviceMac=00:1A:79:17:BE:BB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a06z
