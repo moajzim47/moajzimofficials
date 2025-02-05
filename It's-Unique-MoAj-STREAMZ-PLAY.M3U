@@ -248,6 +248,7 @@ http://watchindia.net:8880/49387/51659/2380.ts
 http://xtv.ooo:8080/kamran800/800kamran/167588.ts
 http://172.105.123.238:18002/play/a03d
 http://172.105.123.238:18002/play/a07q
+http://tv.cloudcdn.me/live.ts?channelId=74567&uid=3309&deviceMac=00:1A:79:43:32:4E
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
 https://keralamaxtv.com/sliv/stream.php?id=96|Referer=https://keralamaxtv.com/
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
@@ -378,8 +379,8 @@ http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 http://176.97.123.29/live.ts?channelId=33165&uid=3309&deviceMac=00:1A:79:17:BE:BB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
 http://webhop.xyz:8080/shoaib/shoaib/210
-http://xtv.ooo:8080/kamran800/800kamran/221257.ts
 http://tv.cloudcdn.me/live.ts?channelId=197&uid=3309&deviceMac=00:1A:79:17:BE:BB
+http://xtv.ooo:8080/kamran800/800kamran/221257.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a06z
@@ -422,6 +423,7 @@ http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a019
 http://172.105.123.238:18002/play/a06s
+http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:EE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
@@ -473,6 +475,7 @@ http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=NICK&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=38060f0d4077&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/150483.ts
 http://45.148.145.57/IND_POGO/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=256&uid=3309&deviceMac=00:1A:79:0F:A1:EE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Cartoon",112.SONY YAY
 http://xtv.ooo:8080/kamran800/800kamran/26187.ts
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
