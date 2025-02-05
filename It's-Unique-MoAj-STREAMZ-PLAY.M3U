@@ -279,6 +279,7 @@ https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_And/index.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-tvhd_0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8zMq-113BIXuTBMfALXOYffnJT7ns2wSnQ&s " group-title="Movie",71.AND FLIX HD
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
 https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
@@ -298,6 +299,7 @@ https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_PICURES/index.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",74.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
@@ -309,12 +311,14 @@ https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",76.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeeanmolcinema|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
@@ -322,6 +326,7 @@ https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeeaction|Referer=https://mhdma
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
 https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 http://45.148.145.57/IN_ZeeActionHD/index.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeaction
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Movie",78.ZEE ANMOL CINEMA 2
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
@@ -336,12 +341,14 @@ https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZEBC/index.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeebanglacinema
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",80.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeetvhd|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IS_ZE/tracks-v1a1/mono.m3u8
+https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeetvhd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NDMs4v3/IMG-1731090997556-2.png" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
 https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
