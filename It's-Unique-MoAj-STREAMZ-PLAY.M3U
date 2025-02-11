@@ -444,11 +444,11 @@ https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://n
 http://172.105.123.238:18002/play/a019
 http://172.105.123.238:18002/play/a06s
 http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:EE
+https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-https://cdn-toffee.iptvbd.xyz/live.php?id=animal_planet_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/206282
 http://45.148.145.57/IN_ANIMALHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",99.DISCOVERY HD
@@ -457,6 +457,7 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://c
 http://xtv.ooo:8080//kamran800/800kamran/245966
 http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=DISCOVERY&e=.m3u8
+https://mhdtvstream.com/live.php?id=573&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",100.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
@@ -465,8 +466,8 @@ https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamax
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="Information",102.DISCOVERY SCIENCE 
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_science&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/206289.ts
+https://mhdtvstream.com/live.php?id=568&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Information",103.DISCOVERY INVESTIGATION
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovary_investigation_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
@@ -476,6 +477,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=205&uid=4507&deviceMac=00:1A:79:6A:43:86
+https://mhdtvstream.com/live.php?id=571&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",105.HISTORY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/206294.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T-Zx-zt3IYtE05UCsFjKFdtlZt6XtaW-NA&usqp=CAU" group-title="Information",106.LOVE NATURE
@@ -485,6 +487,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Cartoon",108.CARTOON NETWORK 
 https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
 http://xtv.ooo:8080/kamran800/800kamran/150478.ts
+https://mhdtvstream.com/live.php?id=816&extension=.m3u8|Referer=https://mhdtvstream.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepgkS9Bhb-b9gO62tSddTm2AGsf7ZBZi2aQ&usqp=CAU" group-title="Cartoon",109.SONIC
 https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
 http://xtv.ooo:8080/kamran800/800kamran/34011.ts
