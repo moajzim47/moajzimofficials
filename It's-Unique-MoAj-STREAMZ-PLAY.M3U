@@ -408,6 +408,7 @@ https://cdn.hoichoi24.com/StarGoldHD/index.m3u8
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://176.97.123.29/live.ts?channelId=33165&uid=3309&deviceMac=00:1A:79:17:BE:BB
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
+http://opplex.tv:8080/live/315587154/331264554/106133.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
 http://webhop.xyz:8080/shoaib/shoaib/210
 http://tv.cloudcdn.me/live.ts?channelId=197&uid=3309&deviceMac=00:1A:79:17:BE:BB
@@ -417,6 +418,7 @@ http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a06z
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
 http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
+http://opplex.tv:8080/live/315587154/331264554/221258.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s" group-title="Movie",90.STAR MOVIES HD
 http://webhop.xyz:8080/shoaib/shoaib/979
 http://xtv.ooo:8080//kamran800/800kamran/66213.ts
@@ -428,6 +430,7 @@ https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=1
 http://172.105.123.238:18002/play/a075
 http://45.148.145.57/IN_UTS/index.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/112971.ts
+http://opplex.tv:8080/live/315587154/331264554/112971.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
 http://bapatv.live:8080/jalshamovies/index.m3u8
 http://starshare.live/KVSingh/KVSingh/425
@@ -449,6 +452,7 @@ https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://n
 http://172.105.123.238:18002/play/a00i
 http://172.105.123.238:18002/play/a065
 http://xtv.ooo:8080//kamran800/800kamran/374980.ts
+http://opplex.tv:8080/live/315587154/331264554/374980.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
