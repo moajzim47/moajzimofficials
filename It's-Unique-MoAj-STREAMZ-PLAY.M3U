@@ -136,9 +136,9 @@ https://nowsports.co.in/nova/live.php?id=31bfc52f61722e1e4b568bf55dba67c8&format
 http://103.96.235.18:8080/sports1/index.m3u8
 http://176.97.123.29/live.ts?channelId=48010&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://cdn.hoichoi24.com/TSportsHD/video.m3u8
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 https://cdn.hoichoi24.com/LIVE/video.m3u8
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://103.175.242.10:8080/starsports1/index.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
@@ -212,8 +212,8 @@ http://xtv.ooo:8080/kamran800/800kamran/217968.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 https://cric-hex.tiiny.io/play.php?id=ptvpk
 https://nayeemparvez.online/novasports/live.php?id=3256e4a088876b941e74615a75ebe8f9&format=.m3u8
-https://fifabd.site/OPLLXX/play.m3u8?id=217968|Referer=RANAPK
 http://45.148.145.57/ptvS/tracks-v1a1/mono.m3u8
+https://fifabd.site/OPLLXX/play.m3u8?id=217968|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s" group-title="Sports",53. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
