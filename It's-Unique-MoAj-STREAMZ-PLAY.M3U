@@ -378,14 +378,13 @@ http://45.148.145.57/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeanmolcinema
-https://its-ferdos-alom.top/Zee5/re.php?cid=0-9-zeeanmolcinema&e=.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=209&uid=4507&deviceMac=00:1A:79:6A:43:86
+http://45.148.145.57/IN_ZEAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeaction
-https://its-ferdos-alom.top/Zee5/re.php?cid=0-9-zeeaction&e=.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=207&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeeaction|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZeeActionHD/index.m3u8
@@ -417,6 +416,7 @@ https://its-ferdos-alom.top/Zee5/re.php?cid=0-9-zeetvhd&e=.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=217&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeetvhd|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IS_ZE/tracks-v1a1/mono.m3u8
+https://fifabd.site/OPLLX3/play.m3u8?id=66163|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkhWtT6y/images-8.png" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
 https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
