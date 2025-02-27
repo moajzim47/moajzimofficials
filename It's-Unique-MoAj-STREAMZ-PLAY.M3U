@@ -482,7 +482,6 @@ http://xtv.ooo:8080//kamran800/800kamran/66315.ts
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=STAR-MOVIE&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/1019034
-http://atg100.xyz//UL33K17/SYC4T9D/72171
 #EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",91.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
 https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
@@ -523,9 +522,10 @@ http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:EE
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9SXy46z7XZlTuf1lzo9Mk8uUB5K75l3X2V-_xmfCrPK1fh3kBXNC8mc&s" group-title="Movie",97.BOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpe8mHt83YUJ_b7xVhwscIjdYesnuSMZ80tA&usqp=CAU" group-title="Movie",97.BFLIX MOVIES
 http://45.148.145.57/IN_StarGold2/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+http://atg100.xyz//UL33K17/SYC4T9D/72171
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
