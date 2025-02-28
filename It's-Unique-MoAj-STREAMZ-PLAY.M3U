@@ -451,7 +451,11 @@ http://176.97.123.29/live.ts?channelId=33165&uid=3309&deviceMac=00:1A:79:17:BE:B
 http://xtv.ooo:8080/kamran800/800kamran/106133.ts
 http://opplex.tv:8080/live/315587154/331264554/106133.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=106133|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",88.STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgxGybX0/IMG-1740776346737-3.png" group-title="Movie",89.STAR GOLD ROMANCE
+http://xtv.ooo:8080/kamran800/800kamran/106133.ts
+http://opplex.tv:8080/live/315587154/331264554/66186.ts
+https://fifabd.site/OPLLX3/play.m3u8?id=66186|Referer=RANAPK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kEFy1peSzszTH0uNVwjGcDgDhZk7ie94SVHlKu0gKA&s" group-title="Movie",90.STAR GOLD SELECT HD
 http://webhop.xyz:8080/shoaib/shoaib/210
 http://tv.cloudcdn.me/live.ts?channelId=197&uid=3309&deviceMac=00:1A:79:17:BE:BB
 http://xtv.ooo:8080/kamran800/800kamran/221257.ts
@@ -459,20 +463,20 @@ http://atg100.xyz//UL33K17/SYC4T9D/72142
 http://opplex.tv:8080//315587154/331264554/66176
 http://opplex.tv:8080/live/315587154/331264554/221257.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=66176|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",89.STAR GOLD THRILLS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-qIdIcyHAamvAd7KRUTnE_wXMmlhDssOpA&usqp=CAU" group-title="Movie",91.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a06z
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=221258|Referer=RANAPK
 http://opplex.tv:8080/live/315587154/331264554/221258.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqTqxgyn/IMG-1739523308486-2.png" group-title="Movie",90.STAR UTSAV GOLD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqTqxgyn/IMG-1739523308486-2.png" group-title="Movie",92.STAR UTSAV GOLD
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s
 http://xtv.ooo:8080//kamran800/800kamran/66213.ts
 http://xtv.ooo:8080//kamran800/800kamran/66315.ts
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=STAR-MOVIE&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://atg100.xyz//UL33K17/SYC4T9D/1019034
 http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",91.STAR UTSAV MOVIES
+#EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",93.STAR UTSAV MOVIES
 http://172.105.123.238:18002/play/a01n
 https://moaj-zim-official-aynaott.vercel.app//api/aynaott/play.m3u8?channel_id=118
 http://172.105.123.238:18002/play/a075
@@ -480,31 +484,35 @@ http://45.148.145.57/IN_UTS/index.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/112971.ts
 http://opplex.tv:8080/live/315587154/331264554/112971.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=112971|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",92.JALSHA MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q1Ry4Qz/IMG-1740776676624-2.png" group-title="Movie",94.STAR BHARAT HD
+http://xtv.ooo:8080/kamran800/800kamran/66170.ts
+http://opplex.tv:8080/live/315587154/331264554/66170.ts
+https://fifabd.site/OPLLX3/play.m3u8?id=66170|Referer=RANAPK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkvidt00BnGOMQRUqA7xVIuFGzis_ZXfF7w&usqp=CAU" group-title="Movie",95.JALSHA MOVIES
 http://bapatv.live:8080/jalshamovies/index.m3u8
 http://starshare.live/KVSingh/KVSingh/425
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",93.GOLDMINES
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",96.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a06h
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=112972|Referer=RANAPK
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",94.GOLDMINES MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",97.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a071
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",95.DHINCHAK  
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",98.DHINCHAK  
 https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a00i
 http://172.105.123.238:18002/play/a065
 http://xtv.ooo:8080//kamran800/800kamran/374980.ts
 http://opplex.tv:8080/live/315587154/331264554/374980.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=374980|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",96.B4U MOVIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",99.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a019
@@ -512,16 +520,16 @@ http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:EE
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8mJB3Cf/images-1-3.png" group-title="Movie",97.BFLIX MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8mJB3Cf/images-1-3.png" group-title="Movie",100.BFLIX MOVIES
 http://45.148.145.57/IN_StarGold2/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/72171
 https://fifabd.site/OPLLX3/play.m3u8?id=104190|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",98.ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",101.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
 http://45.148.145.57/IN_ANIMALHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",99.DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",102.DISCOVERY HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/245966
@@ -530,59 +538,59 @@ http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=DISCOVERY&e=.m3u8
 http://opplex.tv:8080/live/315587154/331264554/245966.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=245966|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=573&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",100.NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80yv8FTTFxoIB6ZGVXSnJeAwxGnz4skjM_Q&s" group-title="Information",101.SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80yv8FTTFxoIB6ZGVXSnJeAwxGnz4skjM_Q&s" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="Information",102.DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206289.ts
 http://opplex.tv:8080/live/315587154/331264554/206289.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=206289|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=568&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Information",103.DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovary_investigation_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/206291.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=206291|Referer=RANAPK
 http://opplex.tv:8080/live/315587154/331264554/206291.ts
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" group-title="Information",104.TLC HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" group-title="Information",107.TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://tv.cloudcdn.me/live.ts?channelId=205&uid=4507&deviceMac=00:1A:79:6A:43:86
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 https://mhdtvstream.com/live.php?id=571&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",105.HISTORY TV HD
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",108.HISTORY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/206294.ts
 http://opplex.tv:8080/live/315587154/331264554/206294.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=206294|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T-Zx-zt3IYtE05UCsFjKFdtlZt6XtaW-NA&usqp=CAU" group-title="Information",106.LOVE NATURE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T-Zx-zt3IYtE05UCsFjKFdtlZt6XtaW-NA&usqp=CAU" group-title="Information",109.LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRipDF18amRcUYVAdaslXoKo3gk0QaRvj4FOyrYyvA&s" group-title="information",107.NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRipDF18amRcUYVAdaslXoKo3gk0QaRvj4FOyrYyvA&s" group-title="information",110.NAT GEO WILD
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://opplex.tv:8080//315587154/331264554/206286
 https://fifabd.site/OPLLX3/play.m3u8?id=206286|Referer=moajstreamplay
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Cartoon",108.CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Cartoon",111.CARTOON NETWORK 
 https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
 http://xtv.ooo:8080/kamran800/800kamran/150478.ts
 http://opplex.tv:8080/live/315587154/331264554/150478.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=150478|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=816&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepgkS9Bhb-b9gO62tSddTm2AGsf7ZBZi2aQ&usqp=CAU" group-title="Cartoon",109.SONIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepgkS9Bhb-b9gO62tSddTm2AGsf7ZBZi2aQ&usqp=CAU" group-title="Cartoon",112.SONIC
 https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
 http://xtv.ooo:8080/kamran800/800kamran/34011.ts
 http://opplex.tv:8080/live/315587154/331264554/34011.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=34011|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=815&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20240226050529" group-title="Cartoon",110.NICK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20240226050529" group-title="Cartoon",113.NICK
 http://watchindia.net:8880/49387/51659/2182
 http://xtv.ooo:8080//kamran800/800kamran/150482.ts
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=NICK&e=.m3u8
 http://opplex.tv:8080/live/315587154/331264554/150482.ts
 https://mhdtvstream.com/live.php?id=545&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv-UEwhkmBxPuPdv7VhQ07hVTIVuvmvLb3sI3NZvQfA&s" group-title="Cartoon",111.POGO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv-UEwhkmBxPuPdv7VhQ07hVTIVuvmvLb3sI3NZvQfA&s" group-title="Cartoon",114.POGO
 https://bdixtv24.site/toffee/live.php?id=38060f0d4077&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/150483.ts
 http://tv.cloudcdn.me/live.ts?channelId=256&uid=3309&deviceMac=00:1A:79:0F:A1:EE
@@ -590,20 +598,20 @@ http://45.148.145.57/IND_POGO/index.m3u8
 http://opplex.tv:8080/live/315587154/331264554/150483.ts
 https://fifabd.site/OPLLXX/play.m3u8?id=150483|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=559&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Cartoon",112.SONY YAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Cartoon",115.SONY YAY
 http://xtv.ooo:8080/kamran800/800kamran/26187.ts
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvswhnm9/image-Content-57985-khvdchrs-m2.png" group-title="Cartoon",113.GUBBARE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvswhnm9/image-Content-57985-khvdchrs-m2.png" group-title="Cartoon",116.GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 http://45.148.145.57/IN__KG/tracks-v1a1/mono.m3u8
 http://opplex.tv:8080//315587154/331264554/150480
 https://fifabd.site/OPLLX3/play.m3u8?id=150480|Referer=moajzimofficial
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgKIddUmnYNAQ4ECPHVbBj3rx4KD3ygP9WA&usqp=CAU" group-title="Cartoon",114.DISNEY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgKIddUmnYNAQ4ECPHVbBj3rx4KD3ygP9WA&usqp=CAU" group-title="Cartoon",117.DISNEY HD
 http://xtv.ooo:8080/kamran800/800kamran/167551.ts
 http://opplex.tv:8080/live/315587154/331264554/167551.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=167551|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="Cartoon",115.DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/76723.ts
@@ -611,27 +619,27 @@ http://45.148.145.57/IN_DiscoveryKids/tracks-v1a1/mono.m3u8
 http://opplex.tv:8080/live/315587154/331264554/76723.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=76723|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=554&extension=.m3u8|Referer=https://mhdtvstream.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUdIgAXazA1JEf14tz21o0NsLJ3qxRPbSE35Df9lJbQ&s" group-title="Cartoon",116.WOW KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUdIgAXazA1JEf14tz21o0NsLJ3qxRPbSE35Df9lJbQ&s" group-title="Cartoon",119.WOW KIDS
 http://xtv.ooo:8080/kamran800/800kamran/307079.ts
 http://opplex.tv:8080/live/315587154/331264554/307079.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=307079|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Cartoon",117.Rongeen
+#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="Cartoon",120.Rongeen
 http://xtv.ooo:8080//kamran800/800kamran/329247.ts
 http://xtv.ooo:8080//kamran800/800kamran/308282.ts
 http://opplex.tv:8080/live/315587154/331264554/308282.ts
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iaYZ17nCD4uG44rjLPTMmjWxLQd1FBKsEwOTUmGTyQ&s" group-title="Music",118.9XM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iaYZ17nCD4uG44rjLPTMmjWxLQd1FBKsEwOTUmGTyQ&s" group-title="Music",121.9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",119.9X JALWA
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",122.9X JALWA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4eW-IOuwvr9faXAUxd1RQatEmqqgg2ZxhFtBXB_Fnk3wAqSgGWbERyw&s" group-title="Music",120.8XM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4eW-IOuwvr9faXAUxd1RQatEmqqgg2ZxhFtBXB_Fnk3wAqSgGWbERyw&s" group-title="Music",123.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jKtnvVI0DiwGM4THIGFs7ktViNzJbhfacQ&s" group-title="Music",121.JALWA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jKtnvVI0DiwGM4THIGFs7ktViNzJbhfacQ&s" group-title="Music",124.JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FmNp2bCn-SCu4YiUasN-qH7OUkE-XYk410Z1rbSx0g&s" group-title="Music",122.MUSIC INDIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FmNp2bCn-SCu4YiUasN-qH7OUkE-XYk410Z1rbSx0g&s" group-title="Music",125.MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 http://watchindia.net:8880/49387/51659/2293
 http://baskardo.vip/IN_MusicIndia/tracks-v1a1/mono.m3u8
@@ -639,20 +647,20 @@ https://colorsscreen.com/live.php?id=250&extension=.m3u8|Referer=https://colorss
 https://playyonogames.in/live.php?id=250&extension=.m3u8|Referer=https://playyonogames.in/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/Musicindia2.mpd
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA7JqsXPfa3P4pdK9l3IUlONvakemionmBHqtrwSCFg&s" group-title="Music",123.MTV BEATS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA7JqsXPfa3P4pdK9l3IUlONvakemionmBHqtrwSCFg&s" group-title="Music",126.MTV BEATS HD
 https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3774153|Referer=https://moonkerala.xyz/
 https://playyonogames.in/jiocinema/stream.m3u8?id=3774153|Referer=https://playyonogames.in/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWf5ChZQL6PFzfy4CPKGs0BQsCfrJAWM9Ng&s" group-title="Music",124.SHOW BOX MUSIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWf5ChZQL6PFzfy4CPKGs0BQsCfrJAWM9Ng&s" group-title="Music",127.SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/383529.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=383529|Referer=RANAPK
 http://opplex.tv:8080/live/315587154/331264554/383529.ts
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Music",125.MASTII
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" group-title="Music",128.MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="Music",126.SANGEET BANGLA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvD5ZgTH/Sangeet-Bangla.png" group-title="Music",129.SANGEET BANGLA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 http://starshare.live/anita123/anita123/405
 https://colorsscreen.com/live.php?id=740&extension=.m3u8|Referer=https://colorsscreen.com/
@@ -661,18 +669,18 @@ https://cdn1.pishow.tv/live/214/master.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 http://opplex.tv:8080/live/315587154/331264554/245933.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=245933|Referer=moajzimofficial
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",127.GAAN BANGLA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",130.GAAN BANGLA
 https://cdn3.pishow.tv/live/279/master.m3u8
 https://cdn-4.pishow.tv/live/1144/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
 http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 https://fifabd.site/OPLLX3/play.m3u8?id=245921|Referer=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10" group-title="Music",128.YRF MUSIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10" group-title="Music",131.YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" group-title="Music",129.E24 MUSIC
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" group-title="Music",132.E24 MUSIC
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSo7110wCfYEdnSWR0Qg1qgTPrOyRcSZvdZ70EzlFFdFxEASnjJ0q1IuhB&s=10" group-title="Music",130.ZOOM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSo7110wCfYEdnSWR0Qg1qgTPrOyRcSZvdZ70EzlFFdFxEASnjJ0q1IuhB&s=10" group-title="Music",133.ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/66190.ts
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
