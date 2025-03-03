@@ -80,8 +80,8 @@ http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=GTV&e=.m3u8|Referer=http
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=GTV&e=.m3u8
 https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=58015
 https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 https://amrbdixcdn.nayeem-parvez.workers.dev/stream-token12.m3u8?id=GTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245908.ts
@@ -145,10 +145,9 @@ http://103.96.235.18:8080/sports1/index.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 https://cdn.hoichoi24.com/SP-LIVE-SPORTS-hoichoi24.com/video.m3u8
-https://m+l@jadoo-iptv.tiiny.io/m3u8.php?id=t_sports&e=.m3u8
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
 https://amrbdixcdn.nayeem-parvez.workers.dev/stream-token12.m3u8?id=T-SPORTS
-http://kst.moonplex.net:8080/CH2/index.m3u8
+https://m+l@jadoo-iptv.tiiny.io/m3u8.php?id=t_sports&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" group-title="Sports",42.STAR SPORTS 1 HD
 http://103.175.242.10:8080/starsports1/index.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
@@ -268,14 +267,15 @@ http://xtv.ooo:8080/kamran800/800kamran/167594.ts
 https://cric-hex.tiiny.io/play.php?id=skyscric
 http://opplex.tv:8080/live/315587154/331264554/167594.ts
 http://atg100.xyz//UL33K17/SYC4T9D/348307
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skycric
 https://fifabd.site/OPLLX3/play.m3u8?id=346379|Referer=RANAPK
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_bbbt2tKIeEIXGgkv-jJZwo8u2MsBlpFAg&s" group-title="Sports",58.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
 http://opplex.tv:8080/live/315587154/331264554/346241.ts
 http://atg100.xyz//UL33K17/SYC4T9D/365035
 https://fifabd.site/OPLLX3/play.m3u8?id=346241|Referer=RANAPK
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" group-title="Sports",59.SPORTS 18 HD 1
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=0000001|Referer=https://mhdlivetv.com/
 https://nowsports.co.in/nova/live.php?id=b840943750fd3decab04ffd201424451&format=.m3u8
