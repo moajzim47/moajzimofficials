@@ -554,6 +554,7 @@ https://fifabd.site/OPLLX3/play.m3u8?id=104190|Referer=RANAPK
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
 http://45.148.145.57/IN_ANIMALHD/index.m3u8
+https://fifabd.site/OPLLX3/play.m3u8?id=206282|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",102.DISCOVERY HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
@@ -566,6 +567,7 @@ https://mhdtvstream.com/live.php?id=573&extension=.m3u8|Referer=https://mhdtvstr
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
+https://fifabd.site/OPLLX3/play.m3u8?id=206285|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80yv8FTTFxoIB6ZGVXSnJeAwxGnz4skjM_Q&s" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
