@@ -754,8 +754,10 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iaYZ17nCD4uG44rjLPTMmjWxLQd1FBKsEwOTUmGTyQ&s" group-title="Music",121.9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+https://mix.drmlive.au/mix/xiaomi-66080.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",122.9X JALWA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+https://mix.drmlive.au/mix/playboxtv.m3u8?id=698018216
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4eW-IOuwvr9faXAUxd1RQatEmqqgg2ZxhFtBXB_Fnk3wAqSgGWbERyw&s" group-title="Music",123.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
@@ -793,12 +795,14 @@ https://playyonogames.in/live.php?id=740&extension=.m3u8|Referer=https://playyon
 https://cdn1.pishow.tv/live/214/master.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 http://opplex.tv:8080/live/315587154/331264554/245933.ts
-https://fifabd.site/OPLLX3/play.m3u8?id=245933|Referer=moajzimofficial
+https://fifabd.site/OPLLX3/play.m3u8?id=245933|Referer=RANAPK
+https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="Music",130.GAAN BANGLA
 https://cdn3.pishow.tv/live/279/master.m3u8
 https://cdn-4.pishow.tv/live/1144/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
 http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
+https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1456
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 https://fifabd.site/OPLLX3/play.m3u8?id=245921|Referer=RANAPK
 http://146.59.253.52:8080/hindihitshd/index.m3u8
