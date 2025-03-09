@@ -803,13 +803,13 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4eW-IOuwvr9faXAUxd1RQatEmqqgg2ZxhFtBXB_Fnk3wAqSgGWbERyw&s" group-title="Music",129.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10" group-title="Music",130.YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" group-title="Music",131.E24 MUSIC
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jKtnvVI0DiwGM4THIGFs7ktViNzJbhfacQ&s" group-title="Music",132.JALWA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jKtnvVI0DiwGM4THIGFs7ktViNzJbhfacQ&s" group-title="Music",130.JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTat9kpBLOlEBpw0BAhgGaW4hwDKcvhB7VPCClMdZvb9Oa5Xiq5T-qIa_c6&s=10" group-title="Music",131.YRF MUSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" group-title="Music",132.E24 MUSIC
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSo7110wCfYEdnSWR0Qg1qgTPrOyRcSZvdZ70EzlFFdFxEASnjJ0q1IuhB&s=10" group-title="Music",133.ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/66190.ts
