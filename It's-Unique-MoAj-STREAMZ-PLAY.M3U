@@ -665,8 +665,8 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206289.ts
 http://opplex.tv:8080/live/315587154/331264554/206289.ts
-https://fifabd.site/OPLLXX/play.m3u8?id=206289|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=568&extension=.m3u8|Referer=https://mhdtvstream.com/
+https://fifabd.site/OPLLX3/play.m3u8?id=206289|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovary_investigation_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
@@ -679,6 +679,7 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8|Referer=https://cdn-tof
 http://tv.cloudcdn.me/live.ts?channelId=205&uid=4507&deviceMac=00:1A:79:6A:43:86
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 https://mhdtvstream.com/live.php?id=571&extension=.m3u8|Referer=https://mhdtvstream.com/
+https://colorsscreen.com/live.php?id=571&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",108.HISTORY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/206294.ts
 http://opplex.tv:8080/live/315587154/331264554/206294.ts
