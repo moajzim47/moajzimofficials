@@ -692,9 +692,9 @@ http://opplex.tv:8080/live/315587154/331264554/206291.ts
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://tv.cloudcdn.me/live.ts?channelId=205&uid=4507&deviceMac=00:1A:79:6A:43:86
-http://45.148.145.57/IND_TLCHIND/index.m3u8
 https://mhdtvstream.com/live.php?id=571&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://colorsscreen.com/live.php?id=571&extension=.m3u8|Referer=https://colorsscreen.com/
+http://45.148.145.57/IND_TLCHIND/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",108.HISTORY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/206294.ts
 http://opplex.tv:8080/live/315587154/331264554/206294.ts
@@ -715,10 +715,10 @@ https://fifabd.site/OPLLX3/play.m3u8?id=150478|Referer=RANAPK
 https://moonkerala.xyz/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
 http://xtv.ooo:8080/kamran800/800kamran/34011.ts
 http://opplex.tv:8080/live/315587154/331264554/34011.ts
-https://fifabd.site/OPLLXX/play.m3u8?id=34011|Referer=RANAPK
 https://mhdtvstream.com/live.php?id=815&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://playyonogames.in/jiohotstar/playit.php?id=3774149&format=.m3u8|referer=https://playyonogames.in/
 https://moonkerala.xyz/jiohotstar/playit.php?id=3774149&format=.m3u8|Referer=https://moonkerala.xyz/
+https://fifabd.site/OPLLX3/play.m3u8?id=34011|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20240226050529" group-title="Cartoon",113.NICK
 http://watchindia.net:8880/49387/51659/2182
 http://xtv.ooo:8080//kamran800/800kamran/150482.ts
@@ -727,6 +727,7 @@ http://opplex.tv:8080/live/315587154/331264554/150482.ts
 https://mhdtvstream.com/live.php?id=545&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://playyonogames.in/jiohotstar/playit.php?id=3989195&format=.m3u8|referer=https://playyonogames.in/
 https://moonkerala.xyz/jiohotstar/playit.php?id=3989195&format=.m3u8|Referer=https://moonkerala.xyz/
+https://fifabd.site/OPLLXX/play.m3u8?id=150482|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv-UEwhkmBxPuPdv7VhQ07hVTIVuvmvLb3sI3NZvQfA&s" group-title="Cartoon",114.POGO
 https://bdixtv24.site/toffee/live.php?id=38060f0d4077&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/150483.ts
