@@ -668,12 +668,13 @@ http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a06h
 http://xtv.ooo:8080/kamran800/800kamran/112972.ts
-https://fifabd.site/OPLLX2/play.m3u8?id=112972|Referer=RANAPK
 https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://fifabd.site/OPLLX2/play.m3u8?id=112972|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",97.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a071
+https://fifabd.site/OPLLX2/play.m3u8?id=104190|Referer=RANAPK
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",98.DHINCHAK  
 https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://nowlivetv.com/
@@ -691,6 +692,7 @@ http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:EE
 https://cdn-2.pishow.tv/live/227/master.m3u8
+https://fifabd.site/OPLLX2/play.m3u8?id=104199|Referer=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8mJB3Cf/images-1-3.png" group-title="Movie",100.BFLIX MOVIES
 http://45.148.145.57/IN_StarGold2/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -855,7 +857,7 @@ https://playyonogames.in/live.php?id=740&extension=.m3u8|Referer=https://playyon
 https://cdn1.pishow.tv/live/214/master.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/245933.ts
 http://opplex.tv:8080/live/315587154/331264554/245933.ts
-https://fifabd.site/OPLLX3/play.m3u8?id=245933|Referer=RANAPK
+https://fifabd.site/OPLLX2/play.m3u8?id=245933|Referer=RANAPK
 https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1143
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA7JqsXPfa3P4pdK9l3IUlONvakemionmBHqtrwSCFg&s" group-title="Music",125.MTV BEATS HD
 https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
