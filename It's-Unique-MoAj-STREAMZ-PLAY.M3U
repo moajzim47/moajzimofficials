@@ -285,6 +285,7 @@ http://45.148.145.57/IN_ST3_HD/tracks-v1a1/mono.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/1090638
 https://fifabd.site/OPLLX2/play.m3u8?id=167577|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=167577
+https://allinonereborn.live/str.m3u8?id=1080
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="Sports",47.STAR SPORTS SELECT 1 HD
 https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg
 http://xtv.ooo:8080/kamran800/800kamran/167578.ts
@@ -295,6 +296,7 @@ http://45.148.145.57/SS1_IND/index.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/1090639
 https://fifabd.site/OPLLX2/play.m3u8?id=167578|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=167578
+https://allinonereborn.live/str.m3u8?id=238
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfTX2z3/IMG-1741986511576-2.png" group-title="Sports",48.STAR SPORTS SELECT 2 HD
 https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg
 http://webhop.xyz:8080/shoaib/shoaib/148801
@@ -338,19 +340,19 @@ https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 https://cric-hex.tiiny.io/play.php?id=asportshd
 https://nayeemparvez.online/novasports/live.php?id=50a9981d1bac64e3da4976631f10d1c8&format=.m3u8
 https://nayeemparvez.online/novasports/watch.php?id=AE5bXnhj&format=.m3u8
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://45.148.145.57/AS_PK/index.m3u8
 http://opplex.tv:8080/live/315587154/331264554/219689.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=219689|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=219689
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FkG793lR5ovP598yQQmUZevZwvdFztjWKA&usqp=CAU" group-title="Sports",55.TEN SPORTS HD
 https://cric-hex.tiiny.io/play.php?id=tenspk
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://45.148.145.57/Pak_tenSP/index.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/63176
 http://opplex.tv:8080//315587154/331264554/167569.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=167569|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=167569
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",56.WILLOW HD
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
