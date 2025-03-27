@@ -442,7 +442,6 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEjeR9JB8bnCyZmUOeEFajtWSLGIAGmB4hQ&s" group-title="Entertainment",71.AND TV HD
 http://opplex.tv:8080//315587154/331264554/66172
 https://la.drmlive.au/tp/zee-tvhd_0.m3u8
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=140&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_And/index.m3u8
@@ -450,11 +449,13 @@ https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48130
 https://fifabd.site/OPLLX2/play.m3u8?id=66172|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=66172
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-tvhd_0|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2X7x1K0Z0zRMssDImVAkpPqouLTkOyBCQkLPoMQ9MuA&s" group-title="Movie",72.AND PRIVE HD
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8zMq-113BIXuTBMfALXOYffnJT7ns2wSnQ&s
 http://xtv.ooo:8080/kamran800/800kamran/109962.ts
 https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-channel_2105335046
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-channel_2105335046|Referer=https://mhdmaxtv.me/
@@ -462,10 +463,10 @@ http://45.148.145.57/IN_FLIX/index.m3u8
 https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48128
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-209
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-209|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPG1oU_Uwv6cw73DqClreDQ-6d1fNr_GMebQ&usqp=CAU" group-title="Movie",73.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
 https://la.drmlive.au/tp/zee-pictures.m3u8
-https://live.drmlive-02.workers.dev/zee/zee-pictures.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-pictures
 https://allinonereborn.com/tata-tv1.php?id=11619
 http://tv.cloudcdn.me/live.ts?channelId=132225&uid=4507&deviceMac=00:1A:79:6A:43:86
@@ -473,11 +474,11 @@ https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-pictures|Referer=https://mhdmax
 http://45.148.145.57/IN_PRIVEHD/index.m3u8
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-pictures
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-pictures|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtP5MTmC23CcjMvsIq7xIJPffElXtp3tTq0g&usqp=CAU" group-title="Movie",74.AND PICTURE HD
 http://starshare.live:8080//Leroy123/Leroy123/231
 http://opplex.tv:8080//315587154/331264554/66181
 https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=139&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me/
 https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48135
@@ -486,6 +487,7 @@ https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=51272
 https://fifabd.site/OPLLX2/play.m3u8?id=66181|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=66181
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-tvpictureshd|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oFjlH9kzRBUEoprU6OsxUUc2KsfYZDcxIQ&usqp=CAU" group-title="Movie",75.ZEE CINEMA
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeecinema
@@ -494,11 +496,11 @@ http://opplex.tv:8080/live/315587154/331264554/206271.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=206271|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=206271
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-zeecinema|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFCRIzC0iLhEuXABhb4cS8WfmvFw1JlA3kKQdgDJnm2wkKaExoErYTELG&s=10" group-title="Movie",76.ZEE CINEMA HD
 http://starshare.live:8080//Leroy123/Leroy123/230
 http://opplex.tv:8080//315587154/331264554/206307
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=12359&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me/
 http://45.148.145.57/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8
@@ -507,18 +509,18 @@ https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48113
 https://fifabd.site/OPLLX2/play.m3u8?id=206307|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=206307
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-zeecinemahd|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XiIF54CTYuq2xZCJb7p-tGXYE_oSNcMINl3793WYoQ&s" group-title="Movie",77.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeanmolcinema
 http://tv.cloudcdn.me/live.ts?channelId=209&uid=4507&deviceMac=00:1A:79:6A:43:86
 http://45.148.145.57/IN_ZEAN/index.m3u8
 https://fifabd.site/OPLLX2/play.m3u8?id=66187|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=66187
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-zeeanmolcinema|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVjutH1esSMunvSjquBxERPFT6t3EC7PR7zMqckcNe_inv_GidsYfUyUe&s=10" group-title="Movie",78.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 https://zee5.drmlive.in/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8|Origin=https://live.drmlive.in
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeeaction
 http://tv.cloudcdn.me/live.ts?channelId=207&uid=4507&deviceMac=00:1A:79:6A:43:86
@@ -528,10 +530,10 @@ http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 https://fifabd.site/OPLLX2/play.m3u8?id=66191|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=66191
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-zeeaction|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Movie",79.ZEE ANMOL CINEMA 2
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 https://la.drmlive.au/tp/zee-bigganga.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=210&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-bigganga|Referer=https://mhdmaxtv.me/
@@ -539,18 +541,18 @@ https://fifabd.site/STAR7x25/RANAPK/play.m3u8?id=48303
 http://45.148.145.57/IN_ZEEBOLLYWOODHD/tracks-v1a1/mono.m3u8
 https://amit-1.allinonereborn.in/zee40/index.php?id=0-9-bigganga
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-bigganga|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGHYf86f/Zee-Bangla-Cinema.png" group-title="Movie",80.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
-https://live.drmlive-02.workers.dev/zee/zee-bangla-cinema.m3u8
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeebanglacinema
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/
 https://fifabd.site/OPLLX3/play.m3u8?id=245897|Referer=RANAPK
 http://45.148.145.57/IN_ZEBC/index.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" group-title="Movie",81.ZEE TV HD
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
-https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 https://adda.aneplaymax.online/leokicokiea/stream.m3u8?id=0-9-zeetvhd
 https://its-ferdos-alom.top/Zee5/re.php?cid=0-9-zeetvhd&e=.m3u8
@@ -560,6 +562,7 @@ http://45.148.145.57/IS_ZE/tracks-v1a1/mono.m3u8
 https://fifabd.site/OPLLX2/play.m3u8?id=66163|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=66163
 https://play.denver1769.fun/Play/Z5/index3.php?id=0-9-zeetvhd|User-Agent=Denver1769
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkhWtT6y/images-8.png" group-title="Movie",82.COLORS CINEPLEX SUPERHIT
 https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
 https://playyonogames.in/jiocinema/stream.m3u8?id=3479683|Referer=https://playyonogames.in/
