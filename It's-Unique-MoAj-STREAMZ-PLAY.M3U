@@ -201,15 +201,15 @@ http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=58173
-http://208.86.19.13:81/514.stream/index.m3u8
 http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7aGoIUFJH8lviHSQAn88POKnPU4ujDpQwg&s" group-title="Entertainment",34.AMAR BANGLA
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6VCpPecPg8ahP4IYObzafydiFmlYziMkDpCoc2AEzQ&s" group-title="Entertainment",35.MATRIBHUMI TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcMcWNcflNjmDwQlltqcueBL_hS4X28IYQve6zZdhZorU1WF3WuddrWlw&s=10" group-title="Entertainment",34.DESHI TV
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
 https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7aGoIUFJH8lviHSQAn88POKnPU4ujDpQwg&s" group-title="Entertainment",35.AMAR BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-oIoDju8PQfC0VTknzQld7n87SUi3Q8COaquR33XYg&s" group-title="Entertainment",36.BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0zSc30y/TV9-Bangla.png" group-title="News",37.TV 9 BANGLA
