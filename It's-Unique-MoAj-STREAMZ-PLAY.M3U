@@ -730,7 +730,7 @@ http://bapatv.live:8080/jalshamovies/index.m3u8
 http://starshare.live/KVSingh/KVSingh/425
 http://nayeemparvez.emart.biz.id/amrbd-x/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8|Referer=https://nayeemparvez.emart.biz.id/
 http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" group-title="Movie",96.GOLDMINES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjDFVWx/Goldmines.jpg" group-title="Movie",96.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a06h
@@ -738,14 +738,14 @@ http://xtv.ooo:8080/kamran800/800kamran/112972.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=112972|Referer=RANAPK
 http://202.164.50.194:8000/play/a08j/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18GGPgzyTLnqP50A4NlwOMtrkrr2VZE9qhw&s" group-title="Movie",97.GOLDMINES MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg" group-title="Movie",97.GOLDMINES MOVIES
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 https://nowlivetv.com/ayna/stream.php?id=151&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a071
 https://fifabd.site/OPLLX2/play.m3u8?id=104190|Referer=RANAPK
 http://202.164.50.194:8000/play/a087/index.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" group-title="Movie",98.DHINCHAK  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3CWYT9H/Dhinchak.jpg" group-title="Movie",98.DHINCHAK  
 https://nowlivetv.com/ayna/stream.php?id=148&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a00i
 http://172.105.123.238:18002/play/a065
@@ -754,7 +754,7 @@ http://opplex.tv:8080/live/315587154/331264554/374980.ts
 https://its-ferdos-alom.top/iptv/Op/live.php?id=374980
 https://fifabd.site/OPLLX2/play.m3u8?id=374980|Referer=RANAPK
 http://202.164.50.194:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QGKAgDJbQh2N6dWWsQJb7e0ihbKhr4Qtbg&s" group-title="Movie",99.B4U MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",99.B4U MOVIE
 http://xtv.ooo:8080/kamran800/800kamran/104199.ts
 https://nowlivetv.com/ayna/stream.php?id=145&ip=27.147.204.216|Referer=https://nowlivetv.com/
 http://172.105.123.238:18002/play/a019
@@ -764,7 +764,7 @@ http://tv.cloudcdn.me/live.ts?channelId=35383&uid=3309&deviceMac=00:1A:79:0F:A1:
 https://fifabd.site/OPLLX2/play.m3u8?id=104199|Referer=RANAPK
 http://202.164.50.194:8000/play/a070/index.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8mJB3Cf/images-1-3.png" group-title="Movie",100.BFLIX MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zdnwMbG/Bflix.jpg" group-title="Movie",100.BFLIX MOVIES
 http://45.148.145.57/IN_StarGold2/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/72171
