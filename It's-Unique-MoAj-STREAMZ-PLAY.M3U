@@ -220,7 +220,8 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" group-title="Sports",41.T SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS HD
+https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png
 https://fifabd.site/OPLLX3/play.m3u8?id=167590|Referer=RANAPK
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 http://kst.moonplex.net:8080/CH2/index.m3u8
@@ -334,7 +335,8 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/167580.ts
 https://mhdstream.com/sliv/stream.m3u8?id=985663256|Referer=https://mhdstream.com/sliv/
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",53.PTV SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",53.PTV SPORTS HD
+https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg
 http://xtv.ooo:8080/kamran800/800kamran/217968.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 https://cric-hex.tiiny.io/play.php?id=ptvpk
@@ -343,7 +345,7 @@ http://45.148.145.57/ptvS/tracks-v1a1/mono.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/63126
 https://fifabd.site/OPLLX2/play.m3u8?id=217968|Referer=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s" group-title="Sports",54. A SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prtg9Jdk/A-Sports-2.png" group-title="Sports",54. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 https://cric-hex.tiiny.io/play.php?id=asportshd
@@ -354,7 +356,7 @@ http://opplex.tv:8080/live/315587154/331264554/219689.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=219689|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=219689
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6FkG793lR5ovP598yQQmUZevZwvdFztjWKA&usqp=CAU" group-title="Sports",55.TEN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBxLfJG/Ten-Sports-2.png" group-title="Sports",55.TEN SPORTS HD
 https://cric-hex.tiiny.io/play.php?id=tenspk
 http://45.148.145.57/Pak_tenSP/index.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/63176
@@ -362,7 +364,7 @@ http://opplex.tv:8080//315587154/331264554/167569.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=167569|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=167569
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" group-title="Sports",56.WILLOW HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pfmgg967/Willow-Sports-2.png" group-title="Sports",56.WILLOW HD
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
 https://cric-hex.tiiny.io/play.php?id=willowusa
@@ -370,7 +372,7 @@ http://opplex.tv:8080/live/315587154/331264554/347333.ts
 http://atg100.xyz//UL33K17/SYC4T9D/1090644
 https://fifabd.site/OPLLX2/play.m3u8?id=347333|Referer=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYLcMGxbri_1aPvDRkbAK9ww1McTsqKbXUt4YA6WsU4g&s" group-title="Sports",57.ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvx6xfw8/Astro-Cricket.png" group-title="Sports",57.ASTRO CRICKET
 https://criccoder.pages.dev/astro.m3u8
 http://opplex.tv:8080//315587154/331264554/167581.ts
 http://atg100.xyz//UL33K17/SYC4T9D/1052392
@@ -383,7 +385,7 @@ https://fifabd.site/OPLLX2/play.m3u8?id=167581|Referer=RANAPK
 http://watchindia.net:8880/live/06864/31245/2174.ts
 https://allinonereborn.live/test.m3u8?id=65082
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGA9ND-MGrzIXSPfKuWG5H5Vnq1layowvXDQ&s" group-title="Sports",58.SKY SPORTS CRICKET
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",58.SKY SPORTS CRICKET
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
 http://xtv.ooo:8080/kamran800/800kamran/167594.ts
@@ -392,14 +394,14 @@ http://opplex.tv:8080/live/315587154/331264554/167594.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=346379|Referer=RANAPK
 http://atg100.xyz:80/0C61D0216480/08360415DD6D/348307
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_bbbt2tKIeEIXGgkv-jJZwo8u2MsBlpFAg&s" group-title="Sports",59.SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhLNQzH8/Sky-Football.png" group-title="Sports",59.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
 http://opplex.tv:8080/live/315587154/331264554/346241.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=346241|Referer=RANAPK
 http://atg100.xyz:80/0C61D0216480/08360415DD6D/365035
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd8Z3klWHSySypEDi8mQkc9wqttyAAIkOL-dLYyb6How&s" group-title="Sports",60.DD SPORTS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSGVbsGb/DD-Sports-2.png" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/49387/51659/2380.ts
 http://172.105.123.238:18002/play/a07q
 http://xtv.ooo:8080/kamran800/800kamran/167588.ts
