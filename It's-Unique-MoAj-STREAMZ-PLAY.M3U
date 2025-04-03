@@ -144,8 +144,8 @@ http://bostv.one:8080/Abhijeet/Abhijeet/96002
 https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=GTV&e=.m3u8
 https://allinonereborn.com/star.m3u8?id=767
 http://kingtom-001-site1.otempurl.com/My/Share.php?id=767
-http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 https://aynaxpranto.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" group-title="News",23.ASIAN TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245908.ts
@@ -224,7 +224,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS HD
-https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png
 https://fifabd.site/OPLLX3/play.m3u8?id=167590|Referer=RANAPK
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 http://kst.moonplex.net:8080/CH2/index.m3u8
@@ -233,12 +232,12 @@ http://bostv.one:8080/Abhijeet/Abhijeet/94406
 https://m+l@jadoo-iptv.tiiny.io/m3u8.php?id=t_sports&e=.m3u8
 https://fifabd.site/OPLLX3/play.m3u8?id=245901|Referer=RANAPK
 https://allinonereborn.com/tata-tv1.php?id=12104
-https://amr44.nayeem-parvez.workers.dev/stream.m3u8?id=T-SPORTS&e=.m3u8
+https://amrbdix.nayeem-parvez.workers.dev/stream.m3u8?id=T-SPORTS&e=.m3u8
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
 https://allinonereborn.com/star.m3u8?id=113069
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 https://its-ferdos-alom.top/fredflix.fun/ayna/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/playlist.m3u8
 https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg
 http://103.175.242.10:8080/starsports1/index.m3u8
@@ -280,11 +279,11 @@ http://atg100.xyz//UL33K17/SYC4T9D/1090653
 https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Sports18_1_HD_voot_MOB
 https://playyonogames.in/jiohotstar/playit.php?id=3000001&format=.m3u8|Referer=https://playyonogames.in/
 https://moonkerala.xyz/jiohotstar/playit.php?id=3000001&format=.m3u8|Referer=https:RANAPK
-https://play.denver1769.fun/Play/v18/index.php?id=1033|User-Agent=Denver1769 (Linux; U; Android 14;) AppleWebKit/537.36
 http://watchindia.net:8880/live/06864/31245/2423.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=382205|Referer=RANAPK
 https://its-ferdos-alom.top/fredflix.fun/ayna/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e/playlist.m3u8
 https://aynaxpranto.vercel.app/api/stream/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e.m3u8
+https://play.denver1769.fun/Play/v19/index.php?id=1033|User-Agent=Denver1769 (Linux; U; Android 14;) AppleWebKit/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6q8Wh9cD/IMG-1741986354900-2.png" group-title="Sports",46.STAR SPORTS 3
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxwvRQ8J_-0I6sP84YE0LPDINa9cKV6f4uukWxd68WTy_HIX10_D2luY&s
 http://xtv.ooo:8080/kamran800/800kamran/167577.ts
