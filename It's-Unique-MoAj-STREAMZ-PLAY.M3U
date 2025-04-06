@@ -238,6 +238,7 @@ https://allinonereborn.com/star.m3u8?id=113069
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
 https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
+http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg
 http://103.175.242.10:8080/starsports1/index.m3u8
