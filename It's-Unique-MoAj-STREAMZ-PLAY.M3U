@@ -960,11 +960,11 @@ http://opplex.tv:8080/live/315587154/331264554/308282.ts
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iaYZ17nCD4uG44rjLPTMmjWxLQd1FBKsEwOTUmGTyQ&s" group-title="Music",121.9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-https://mix.drmlive.au/mix/xiaomi-66080.m3u8
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=PBha-10591
+https://mix.drmlive.net/mix/xiaomi-66080.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10591
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" group-title="Music",122.9X JALWA
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=698018216
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=698018216
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1FmNp2bCn-SCu4YiUasN-qH7OUkE-XYk410Z1rbSx0g&s" group-title="Music",123.MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -983,19 +983,19 @@ https://colorsscreen.com/live.php?id=740&extension=.m3u8|Referer=https://colorss
 https://playyonogames.in/live.php?id=740&extension=.m3u8|Referer=https://playyonogames.in/
 http://opplex.tv:8080/live/315587154/331264554/245933.ts
 http://202.164.50.194:8000/play/a06m/index.m3u8
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1143
 http://port.denver1769.fun/oplx5.m3u8?id=245933|User-Agent=Denver1769
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="Music",125.B4U MUSIC
 https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
 http://opplex.tv:8080//315587154/331264554/66203
 https://playyonogames.in/jiohotstar/playit.php?id=3774153&format=.m3u8|referer=https://playyonogames.in/
 https://moonkerala.xyz/jiohotstar/playit.php?id=3774153&format=.m3u8|Referer=https://moonkerala.xyz/
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=PBha-10545
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-415
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-415
 https://bdixiptvbd.com/tf/live.php?id=b4u_music&e=.m3u8
 http://port.denver1769.fun/oplx5.m3u8?id=66203|User-Agent=Denver1769
 https://cdn-2.pishow.tv/live/415/master.m3u8
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10545
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWf5ChZQL6PFzfy4CPKGs0BQsCfrJAWM9Ng&s" group-title="Music",126.SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/383529.ts
@@ -1009,7 +1009,7 @@ https://cdn3.pishow.tv/live/279/master.m3u8
 https://cdn-4.pishow.tv/live/1144/master.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
 http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
-https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1456
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1456
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://fifabd.site/OPLLX3/play.m3u8?id=245921|Referer=RANAPK
 http://146.59.253.52:8080/hindihitshd/index.m3u8
