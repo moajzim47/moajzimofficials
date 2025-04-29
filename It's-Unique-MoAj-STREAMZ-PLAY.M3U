@@ -262,28 +262,24 @@ https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=T-SPORTS
 http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/index.m3u8
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=12104
 https://tv.mymoviebazar.net/stream/stream56.m3u8|Referer=https://tv.mymoviebazar.net/
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=12104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
-https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg
-http://103.175.242.10:8080/starsports1/index.m3u8
-https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6|Referer=https://nowsports.co.in/
 https://cric-hex.tiiny.io/play.php?id=star1in
 http://45.148.145.57/S_Eng/index.m3u8
-https://streamcdn2.nayeem-parvez.workers.dev/StarSports1HDx/index.m3u8
-http://103.115.126.26:8000/play/a03l/index.m3u8
-http://atg100.xyz//UL33K17/SYC4T9D/1090635
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=STAR-SPORTS-1
 https://re.fredflix.fun/playlist/f064e069-8861-43d5-ac79-828b029a50a1/playlist.m3u8
 https://aynaxpranto.vercel.app/api/stream/f064e069-8861-43d5-ac79-828b029a50a1.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+http://atg100.xyz:80/443432469215731/4362020837/10906361090635
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qx85GcT/IMG-1741985990388.png" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
 http://45.148.145.57/In_Hin/tracks-v1a1/mono.m3u8
 https://fifabd.site/OPLLXX/play.m3u8?id=167573|Referer=RANAPK
-http://atg100.xyz//UL33K17/SYC4T9D/1090636
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+http://port.denver1769.fun/oplx5.m3u8?id=167573|User-Agent=Denver1769
+http://atg100.xyz:80/443432469215731/4362020837/1090636
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRXydGdk/IMG-1741985795847-2.png" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://opplex.tv:8080//315587154/331264554/167576-109988
@@ -343,15 +339,12 @@ http://xtv.ooo:8080/kamran800/800kamran/167580.ts
 https://mhdstream.com/sliv/stream.m3u8?id=985663256|Referer=https://mhdstream.com/sliv/
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",53.PTV SPORTS HD
-https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg
 http://xtv.ooo:8080/kamran800/800kamran/217968.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 https://cric-hex.tiiny.io/play.php?id=ptvpk
-https://nayeemparvez.online/novasports/live.php?id=3256e4a088876b941e74615a75ebe8f9&format=.m3u8
-http://45.148.145.57/ptvS/tracks-v1a1/mono.m3u8
-http://atg100.xyz//UL33K17/SYC4T9D/63126
-https://fifabd.site/OPLLX2/play.m3u8?id=217968|Referer=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+http://port.denver1769.fun/oplx5.m3u8?id=217968|User-Agent=Denver1769
+http://atg100.xyz:80/443432469215731/4362020837/63126
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prtg9Jdk/A-Sports-2.png" group-title="Sports",54. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
@@ -363,6 +356,7 @@ http://opplex.tv:8080/live/315587154/331264554/219689.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=219689|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=219689
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://port.denver1769.fun/oplx5.m3u8?id=219689|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBxLfJG/Ten-Sports-2.png" group-title="Sports",55.TEN SPORTS HD
 http://45.148.145.57/Pak_tenSP/index.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/63176
@@ -371,6 +365,7 @@ https://fifabd.site/OPLLX2/play.m3u8?id=167569|Referer=RANAPK
 https://its-ferdos-alom.top/iptv/Op/live.php?id=167569
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+http://port.denver1769.fun/oplx5.m3u8?id=167569|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pfmgg967/Willow-Sports-2.png" group-title="Sports",56.WILLOW HD
 http://xtv.ooo:8080/kamran800/800kamran/347333.ts
 https://crichd.onlinetvbd.com/m3u8.php/willowusa.m3u8
@@ -379,6 +374,7 @@ http://opplex.tv:8080/live/315587154/331264554/347333.ts
 http://atg100.xyz//UL33K17/SYC4T9D/1090644
 https://fifabd.site/OPLLX2/play.m3u8?id=347333|Referer=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+http://port.denver1769.fun/oplx5.m3u8?id=347333|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kvx6xfw8/Astro-Cricket.png" group-title="Sports",57.ASTRO CRICKET
 https://criccoder.pages.dev/astro.m3u8
 http://opplex.tv:8080//315587154/331264554/167581.ts
@@ -389,9 +385,9 @@ http://watchindia.net:8880/live/06864/31245/2174.ts
 https://allinonereborn.live/test.m3u8?id=65082
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
 http://port.denver1769.fun/Share0804.m3u8?id=2494|User-Agent=Denver1769
-http://atg100.xyz:80/443432469215731/4362020837/1052392
 http://port.denver1769.fun/bost.m3u8?id=92704|User-Agent=Denver1769
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
+http://atg100.xyz:80/443432469215731/4362020837/1052392
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",58.SKY SPORTS CRICKET
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
