@@ -769,15 +769,9 @@ http://port.denver1769.fun/oplx5.m3u8?id=206282|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",102.DISCOVERY HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
-http://xtv.ooo:8080//kamran800/800kamran/245966
-http://nayeemparvez.emart.biz.id/amrbd-x/stream.php?id=DISCOVERY&e=.m3u8
 http://opplex.tv:8080/live/315587154/331264554/245966.ts
 https://mhdtvstream.com/live.php?id=573&extension=.m3u8|Referer=https://mhdtvstream.com/
-https://fifabd.site/OPLLX2/play.m3u8?id=245966|Referer=RANAPK
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245966
 http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
-https://fifabd.site/CDNBDIX/STARX/play.m3u8?id=9393
-http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=discovery_hd|User-Agent=Denver1769 (Linux; U; Android 14;) AppleWebKit/537.36
 http://port.denver1769.fun/oplx5.m3u8?id=245966|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",103.NATIONAL GEOGRAPHIC HD
@@ -861,7 +855,7 @@ https://its-ferdos-alom.top/jion/live.php?ferdos=815&e=.m3u8|Referer=https://its
 https://fifabd.site/JIOBE/play.m3u8?id=1134
 https://amit-1.allinonereborn.in/jiobe19.m3u8?id=1134
 http://103.122.74.6:8888/hls/SONIC.m3u8
-https://play.denver1769.fun/Play/v19/index.m3u8?id=127|User-Agent=Denver1769
+https://play.denver1769.fun/Play/v19/index3.m3u8?id=127|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Nick_Splat_2023.png/revision/latest/scale-to-width-down/250?cb=20240226050529" group-title="Cartoon",113.NICK
 http://watchindia.net:8880/49387/51659/2182
 http://xtv.ooo:8080//kamran800/800kamran/150482.ts
@@ -874,7 +868,7 @@ https://allinonereborn.com/tata-tv40.php?id=11662
 https://its-ferdos-alom.top/jion/live.php?ferdos=545&e=.m3u8|Referer=https://its-ferdos-alom.top/
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=NICK
 http://103.122.74.6:8888/hls/NICK.m3u8
-https://play.denver1769.fun/Play/v19/index.m3u8?id=138|User-Agent=Denver1769
+https://play.denver1769.fun/Play/v19/index3.m3u8?id=138|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv-UEwhkmBxPuPdv7VhQ07hVTIVuvmvLb3sI3NZvQfA&s" group-title="Cartoon",114.POGO
 https://bdixtv24.site/toffee/live.php?id=38060f0d4077&e=.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/150483.ts
