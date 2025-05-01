@@ -826,7 +826,7 @@ http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
 http://port.denver1769.fun/oplx5.m3u8?id=206294|User-Agent=Denver1769
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T-Zx-zt3IYtE05UCsFjKFdtlZt6XtaW-NA&usqp=CAU" group-title="Information",109.LOVE NATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRipDF18amRcUYVAdaslXoKo3gk0QaRvj4FOyrYyvA&s" group-title="information",110.NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRipDF18amRcUYVAdaslXoKo3gk0QaRvj4FOyrYyvA&s" group-title="information",110.WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://opplex.tv:8080//315587154/331264554/206286
 https://fifabd.site/OPLLX2/play.m3u8?id=206286|Referer=moajstreamplay
@@ -834,6 +834,7 @@ https://its-ferdos-alom.top/iptv/Op/live.php?id=206286
 https://fifabd.site/CDNBDIX/STARX/play.m3u8?id=7344
 http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 http://port.denver1769.fun/oplx5.m3u8?id=206286|User-Agent=Denver1769
+https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" group-title="Cartoon",111.CARTOON NETWORK 
 https://colorsscreen.com/live.php?id=816&extension=.m3u8|Referer=https://colorsscreen.com/
 http://xtv.ooo:8080/kamran800/800kamran/150478.ts
