@@ -795,7 +795,7 @@ http://202.164.50.194:8000/play/a0cr/index.m3u8
 https://allinonereborn.com/test.m3u8?id=99851
 https://amit-1.allinonereborn.in/jiobe9.m3u8?id=7903
 https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" group-title="information",101.ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
 http://45.148.145.57/IN_ANIMALHD/index.m3u8
@@ -804,7 +804,7 @@ https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=animal_planet_sd|User-
 http://port.denver1769.fun/oplx5.m3u8?id=206282|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206282.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206282&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB7w8PWV/Discovery.png" group-title="information",102.DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50w2C4xM/Discovery.jpg" group-title="information",102.DISCOVERY HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://opplex.tv:8080/live/315587154/331264554/245966.ts
@@ -815,18 +815,18 @@ https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=discovery_hd|User-Agen
 http://port.denver1769.fun/oplx5.m3u8?id=245966|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206287.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206287&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxN15rLcjnZVvAR77YoE8-IfitHwL2T8iXdQRGfISAA&s" group-title="Information",103.NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 https://allinonereborn.com/test.m3u8?id=100571
 http://port.denver1769.fun/oplx5.m3u8?id=245967|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/245967.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=245967&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80yv8FTTFxoIB6ZGVXSnJeAwxGnz4skjM_Q&s" group-title="Information",104.SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHMdJFmx/Discovery-Science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206289.ts
 https://mhdtvstream.com/live.php?id=568&extension=.m3u8|Referer=https://mhdtvstream.com/
@@ -835,7 +835,7 @@ https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=discovery_science|User
 http://port.denver1769.fun/oplx5.m3u8?id=206289|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206289.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206289&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0dk6jZT/Invest-Discovery.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovary_investigation_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://xtv.ooo:8080//kamran800/800kamran/206291
@@ -844,23 +844,23 @@ https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=discovary_investigatio
 http://port.denver1769.fun/oplx5.m3u8?id=206291|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206291.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206291&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" group-title="Information",107.TLC HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pX1RyhDF/TLC.jpg" group-title="Information",107.TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://tv.cloudcdn.me/live.ts?channelId=205&uid=4507&deviceMac=00:1A:79:6A:43:86
 https://mhdtvstream.com/live.php?id=571&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://colorsscreen.com/live.php?id=571&extension=.m3u8|Referer=https://colorsscreen.com/
 http://45.148.145.57/IND_TLCHIND/index.m3u8
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" group-title="Information",108.HISTORY TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGb5hzjP/History.jpg" group-title="Information",108.HISTORY TV HD
 http://xtv.ooo:8080/kamran800/800kamran/206294.ts
 http://port.denver1769.fun/oplx5.m3u8?id=206294|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206294.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206294&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjBFyvBT0547yzcsOS2bO6vnr3-Loan94nQPYcxvUdf9STTuOYvjfys4&s=10" group-title="Information",109.LOVE NATURE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7HzgHP/Nat-Geo-Wild.jpg" group-title="Information",109.LOVE NATURE
 http://opplex.ch/inderjeet_hodal/987654321/206286
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://fifabd.site/OPLLX7/play.m3u8?id=206286&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxRipDF18amRcUYVAdaslXoKo3gk0QaRvj4FOyrYyvA&s" group-title="information",110.WILD EARTH
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="information",110.WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://opplex.tv:8080//315587154/331264554/206286
 https://fifabd.site/OPLLX2/play.m3u8?id=206286|Referer=moajstreamplay
