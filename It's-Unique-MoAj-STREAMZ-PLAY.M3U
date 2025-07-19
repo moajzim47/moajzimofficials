@@ -811,16 +811,14 @@ http://port.denver1769.fun/oplx5.m3u8?id=206282|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/206282.m3u8
 https://fifabd.site/OPLLX8/play.m3u8?id=206282&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50w2C4xM/Discovery.jpg" group-title="information",102.DISCOVERY HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
 http://opplex.tv:8080/live/315587154/331264554/245966.ts
 http://opplex.tv:8080//Jawad1994/03112371534/206287
 https://mhdtvstream.com/live.php?id=573&extension=.m3u8|Referer=https://mhdtvstream.com/
 http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 https://play.denver1769.fun/Play/Toffee/get/index.m3u8?id=discovery_hd|User-Agent=Denver1769 (Linux; U; Android 14;) AppleWebKit/537.36
 http://port.denver1769.fun/oplx5.m3u8?id=245966|User-Agent=Denver1769
-https://rex-streaming.vercel.app/api/x/206287.m3u8
 https://fifabd.site/OPLLX8/play.m3u8?id=206287&|User-Agent=RANAPK
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
