@@ -473,26 +473,7 @@ http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",63.SONY AATH
-https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
-http://atg100.xyz//UL33K17/SYC4T9D/78972
-https://mhdtvstream.com/sliv/stream.php?id=195|Referer=https://mhdtvstream.com/
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",64.SONY HD
-https://keralamaxtv.com/sliv/stream.php?id=1100|Referer=https://keralamaxtv.com/
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8
-https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",65.SONY WAH
-https://keralamaxtv.com/sliv/stream.php?id=75|Referer=https://keralamaxtv.com/
-https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",66.SONY PIX HD
-https://keralamaxtv.com/sliv/stream.php?id=785|Referer=https://keralamaxtv.com/
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg" group-title="Entertainment",67.SONY SAB HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg" group-title="Movie",63.SONY MAX 1
 https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png
 https://keralamaxtv.com/sliv/stream.php?id=1201|Referer=https://keralamaxtv.com/
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
@@ -501,6 +482,25 @@ http://filex.me:8080/live/444476/444476/512328.m3u8
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 http://port.denver1769.fun/flex/index.m3u8?id=512328|User-Agent=Denver1769
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12650.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
+https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
+http://atg100.xyz//UL33K17/SYC4T9D/78972
+https://mhdtvstream.com/sliv/stream.php?id=195|Referer=https://mhdtvstream.com/
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",65.SONY HD
+https://keralamaxtv.com/sliv/stream.php?id=1100|Referer=https://keralamaxtv.com/
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8
+https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",66.SONY WAH
+https://keralamaxtv.com/sliv/stream.php?id=75|Referer=https://keralamaxtv.com/
+https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",67.SONY PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785|Referer=https://keralamaxtv.com/
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="Movie",68.SONY MAX 2
 https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
 https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8
