@@ -278,6 +278,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtg30Vgf/Abp-Ananda.jpg" group-title="News",38.ABP ANANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTPxwKmy/Dw.jpg" group-title="News",39.DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmwYdWXG/Aljajeera.jpg" group-title="News",40.ALJAJEERA
