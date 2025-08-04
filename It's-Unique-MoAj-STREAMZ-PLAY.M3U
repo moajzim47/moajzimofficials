@@ -480,7 +480,7 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8|Referer=https://otttv.co.in/
 http://filex.me:8080/live/444476/444476/512328.m3u8
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
-http://port.denver1769.fun/flex/index.m3u8?id=512328|User-Agent=Denver1769
+https://m3u.denver1769.fun/Port/Flex/index.m3u8?id=512328|User-Agent=Denver1769
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12650.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
@@ -687,8 +687,8 @@ http://port.denver1769.fun/oplx5.m3u8?id=106133|User-Agent=Denver1769
 https://rex-streaming.vercel.app/api/x/106133.m3u8
 https://fifabd.site/OPLLXv/play.m3u8?id=106133&|User-Agent=RANAPK
 http://m3u.denver1769.fun/Port/star.m3u8?id=157081|User-Agent=Denver1769
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2/master.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgxGybX0/IMG-1740776346737-3.png" group-title="Movie",88.STAR GOLD ROMANCE
 http://kingtom-001-site1.otempurl.com/Test/Share.php?id=972
 http://opplex.tv:8080/315587154/331264554/66186
