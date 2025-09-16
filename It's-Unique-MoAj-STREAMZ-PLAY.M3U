@@ -1075,7 +1075,3 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 http://xtv.ooo:8080/kamran800/800kamran/66190.ts
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-id="willow" tvg-name="Willow" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png" group-title="CricHD",Willow
-#EXTVLCOPT:http-referrer=https://dlolcast.com/
-#EXTVLCOPT:http-origin=https://dlolcast.com
-https://biz3.dlolcast.com:7059/hls/willowuse.m3u8?md6=nl6iFIEnVWnOjEz7d-OdYA&expires=1758004077|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
