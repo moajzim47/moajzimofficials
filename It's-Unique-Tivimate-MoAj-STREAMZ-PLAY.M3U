@@ -73,7 +73,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gt0Vgf/Abp-Ananda.jpg" group-title="News",38.ABP ANANDA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtg30Vgf/Abp-Ananda.jpg" group-title="News",38.ABP ANANDA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTPxwKmy/Dw.jpg" group-title="News",39.DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -130,7 +130,7 @@ https://topsports.watch/sonyliv/stream.php?id=sony-aath&format=.m3u8
 https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",65.SONY WAH
 https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_28741200166678602.png" group-title="Movie",66.SONY PIX HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",66.SONY PIX HD
 https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Movie",67.SONY SAB HD
 https://topsports.watch/sonyliv/stream.php?id=sony-sab-hd&format=.m3u8
@@ -176,7 +176,7 @@ https://fifabd.site/OPLLXc/play.m3u8?id=112982&|User-Agent=RANAPK
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgxGybX0/IMG-1740776346737-3.png" group-title="Movie",88.STAR GOLD ROMANCE
 https://fifabd.site/OPLLXc/play.m3u8?id=66186&|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R6qMVk/Star-Gold-Select.jpg" group-title="Movie",89.STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R6qMMVk/Star-Gold-Select.jpg" group-title="Movie",89.STAR GOLD SELECT HD
 https://fifabd.site/OPLLXc/play.m3u8?id=221257&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L51b2CFN/Star-Gold-Thirils.jpg" group-title="Movie",90.STAR GOLD THRILLS
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
@@ -241,6 +241,8 @@ https://fifabd.site/OPLLXc/play.m3u8?id=307079&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brvnqShv/Kid-Creation.jpg" group-title="Cartoon",120.Rongeen
 https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8|Referer=https://otttv.co.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbJNZwX/9xm.jpg" group-title="Music",121.9XM
+https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MmBfHV/9x-Jalwa.jpg" group-title="Music",122.9X JALWA
 https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvj4vVf/Music-India.jpg" group-title="Music",123.MUSIC INDIA
 https://cdn-2.pishow.tv/live/226/master.m3u8
