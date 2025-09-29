@@ -160,15 +160,15 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-bigganga|Referer=https://oxolive.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://oxolive.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+https://playyonogames.in/live.php?id=1450&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vL8Y4D/Colors-Cineplex.jpg" group-title="Movie",82.COLORS CINEPLEX
 https://fifabd.site/OPLLXc/play.m3u8?id=104191&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XnftPfD/Colors-Cineplex-Hd.jpg" group-title="Movie",83.COLORS CINEPLEX HD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtssCfj5/IMG-1745301793301-2.png" group-title="Movie",84.COLORS BANGLA CINEMA
 https://playyonogames.in/live.php?id=1657&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 https://fifabd.site/OPLLXc/play.m3u8?id=112982&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
