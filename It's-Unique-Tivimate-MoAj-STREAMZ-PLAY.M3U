@@ -165,15 +165,15 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-bigganga|Referer=https://oxolive.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://oxolive.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
-https://playyonogames.in/live.php?id=1450&format=.m3u8|Referer=https://playyonogames.in/
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vL8Y4D/Colors-Cineplex.jpg" group-title="Movie",82.COLORS CINEPLEX
 https://fifabd.site/OPLLXc/play.m3u8?id=104191&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XnftPfD/Colors-Cineplex-Hd.jpg" group-title="Movie",83.COLORS CINEPLEX HD
-https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtssCfj5/IMG-1745301793301-2.png" group-title="Movie",84.COLORS BANGLA CINEMA
-https://playyonogames.in/live.php?id=1657&format=.m3u8|Referer=https://playyonogames.in/
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_1657.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
-https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 https://fifabd.site/OPLLXc/play.m3u8?id=112982&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
@@ -205,32 +205,42 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zdnwMbG/Bflix.jpg" group-title="Movie",100.BFLIX MOVIES
 https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_566.m3u8
 https://playyonogames.in/live.php?id=566&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50w2C4xM/Discovery.jpg" group-title="information",102.DISCOVERY HD
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_573.m3u8
 https://playyonogames.in/live.php?id=573&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHMdJFmx/Discovery-Science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_568.m3u8
 https://playyonogames.in/live.php?id=568&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0dk6jZT/Invest-Discovery.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_527.m3u8
 https://playyonogames.in/live.php?id=527&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX1RyhDF/TLC.jpg" group-title="Information",107.TLC HD
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_479.m3u8
 https://playyonogames.in/live.php?id=479&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGb5hzjP/History.jpg" group-title="Information",108.HISTORY TV HD
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_578.m3u8
 https://playyonogames.in/live.php?id=578&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7HzgHP/Nat-Geo-Wild.jpg" group-title="Information",109.NAT GEO WILD
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="information",110.WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmrCKp0/CN.jpg" group-title="Cartoon",111.CARTOON NETWORK 
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_816.m3u8
 https://playyonogames.in/live.php?id=816&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFbx4wgK/Sonic.jpg" group-title="Cartoon",112.SONIC
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_815.m3u8
 https://playyonogames.in/live.php?id=815&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7QTr7N/Nick.jpg" group-title="Cartoon",113.NICK
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_545.m3u8
 https://playyonogames.in/live.php?id=545&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX4PjRGT/Pogo.jpg" group-title="Cartoon",114.POGO
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_595.m3u8
 https://playyonogames.in/live.php?id=559&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRDd8pjT/Sony-Yay.jpg" group-title="Cartoon",115.SONY YAY
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/
@@ -239,6 +249,7 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpSxjLjq/Disney.jpg" group-title="Cartoon",117.DISNEY HD
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKpB7W9/Discovery-Kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
+https://mini.allinonereborn.online/jiotv-ww/app/ts_live_554.m3u8
 https://playyonogames.in/live.php?id=554&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1ts6YY7w/Wow-Kids.jpg" group-title="Cartoon",119.WOW KIDS
 https://fifabd.site/OPLLXc/play.m3u8?id=307079&|User-Agent=RANAPK
