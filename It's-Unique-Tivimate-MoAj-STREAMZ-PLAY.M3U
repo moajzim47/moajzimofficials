@@ -80,6 +80,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmwYdWXG/Aljajeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS HD
+https://xfireflix.fun/Ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167590&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 https://fifabd.site/OPLLXc/play.m3u8?id=167575&|User-Agent=RANAPK
@@ -96,12 +97,16 @@ https://fifabd.site/OPLLXc/play.m3u8?id=167578&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfTX2z3/IMG-1741986511576-2.png" group-title="Sports",48.STAR SPORTS SELECT 2 HD
 https://fifabd.site/OPLLXc/play.m3u8?id=167579&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",49.SONY SPORTS TEN 1 HD
+https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports",50.SONY SPORTS TEN 2 HD
+https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports",51.SONY SPORTS TEN 3 HD
+https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports",52.SONY SPORTS TEN 5 HD
+https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",53.PTV SPORTS HD
 https://fifabd.site/OPLLXc/play.m3u8?id=217968&|User-Agent=RANAPK
