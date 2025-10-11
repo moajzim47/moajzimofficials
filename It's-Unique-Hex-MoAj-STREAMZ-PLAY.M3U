@@ -313,12 +313,12 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/218.m3u8
 https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 https://xfireflix.fun/live/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167590&|User-Agent=RANAPK
-http://147.93.154.65/Bein3/index.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 https://api.shliv.fun/cast/crichd/stream.php?id=tenspk&format=.m3u8|Referer=https://api.shliv.fun/
 https://xfireflix.fun/Ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2
 https://cdn.bdixtv24.vip/tsports/tracks-v1a1/mono.ts.m3u8
+http://147.93.154.65/Bein3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 http://opplex.tv:8080//Jawad1994/03112371534/167575
 http://opplex.ch/3873620/9312/109987
@@ -332,6 +332,7 @@ https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167575&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
 https://api.shliv.fun/cast/crichd/stream.php?id=star1in&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167575&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qx85GcT/IMG-1741985990388.png" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
@@ -343,6 +344,7 @@ https://topstream.space/crhd/stream.php?id=starhindi
 https://fifabd.site/OPLLXt/play.m3u8?id=167573&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
 https://api.shliv.fun/cast/crichd/stream.php?id=starhindi&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167573&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRXydGdk/IMG-1741985795847-2.png" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://opplex.tv:8080//315587154/331264554/167576-109988
@@ -450,6 +452,7 @@ https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 https://fifabd.site/OPLLXt/play.m3u8?id=217968&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
 https://api.shliv.fun/cast/crichd/stream.php?id=ptvpk&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=217968&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prtg9Jdk/A-Sports-2.png" group-title="Sports",54. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
@@ -463,6 +466,7 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 https://fifabd.site/OPLLXt/play.m3u8?id=219689&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 https://api.shliv.fun/cast/crichd/stream.php?id=asportshd&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=217968&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBxLfJG/Ten-Sports-2.png" group-title="Sports",55.TEN SPORTS HD
 http://45.148.145.57/Pak_tenSP/index.m3u8
 http://atg100.xyz//UL33K17/SYC4T9D/63176
@@ -486,6 +490,7 @@ https://topstream.space/crhd/stream.php?id=willowusa
 https://fifabd.site/OPLLXt/play.m3u8?id=167583&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
 https://api.shliv.fun/cast/crichd/stream.php?id=willowusa&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167583&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",57.WILLOW 2 HD
 https://criccoder.pages.dev/astro.m3u8
 http://opplex.tv:8080//315587154/331264554/167592/238475.ts
@@ -496,6 +501,7 @@ https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://fifabd.site/OPLLXt/play.m3u8?id=167582&|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 https://api.shliv.fun/cast/crichd/stream.php?id=willowextra&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=167582&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",58.SKY SPORTS CRICKET
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
@@ -506,6 +512,7 @@ https://fifabd.site/OPLLXz/play.m3u8?id=346379|User-Agent=RANAPK
 https://topstream.space/crhd/stream.php?id=skyscric
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
 https://api.shliv.fun/cast/crichd/stream.php?id=skyscric&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=346379&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhLNQzH8/Sky-Football.png" group-title="Sports",59.SKY SPORTS FOOTBALL
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
@@ -516,6 +523,7 @@ https://xfireflix.fun/opflix/stream.php?id=3813347&e=.m3u8
 https://fifabd.site/OPLLXzz/play.m3u8?id=381334|User-Agent=RANAPK
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
 https://api.shliv.fun/cast/crichd/stream.php?id=skysfott&format=.m3u8|Referer=https://api.shliv.fun/
+https://xfireflix.fun/file/opplex/stream.m3u8?id=3813347&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSGVbsGb/DD-Sports-2.png" group-title="Sports",60.DD SPORTS
 http://watchindia.net:8880/49387/51659/2380.ts
 http://172.105.123.238:18002/play/a07q
