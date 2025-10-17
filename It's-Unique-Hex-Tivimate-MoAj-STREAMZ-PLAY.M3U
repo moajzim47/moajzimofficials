@@ -83,6 +83,7 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 https://xfireflix.fun/Ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167590&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
+https://topstream.space/crhd/stream.php?id=star1in&format=.m3u8
 https://fifax2bd.xyz/OPPLEX/play.php?id=167575&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qx85GcT/IMG-1741985990388.png" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=167573&format=.m3u8|User-Agent=RANAPK
@@ -165,31 +166,31 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-bigganga|Referer=https://oxolive.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://oxolive.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+https://playyonogames.in/live.php?id=1450&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vL8Y4D/Colors-Cineplex.jpg" group-title="Movie",82.COLORS CINEPLEX
 https://fifax2bd.xyz/OPPLEX/play.php?id=104191&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XnftPfD/Colors-Cineplex-Hd.jpg" group-title="Movie",83.COLORS CINEPLEX HD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtssCfj5/IMG-1745301793301-2.png" group-title="Movie",84.COLORS BANGLA CINEMA
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_1657.m3u8
+https://playyonogames.in/live.php?id=1657&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HDhttps://fifabd.site/OPLLXc/play.m3u8?id=112982&|User-Agent=RANAPK
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=112982&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=106133&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tgxGybX0/IMG-1740776346737-3.png" group-title="Movie",88.STAR GOLD ROMANCE
 https://fifax2bd.xyz/OPPLEX/play.php?id=66186&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R6qMMVk/Star-Gold-Select.jpg" group-title="Movie",89.STAR GOLD SELECT HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=221257&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L51b2CFN/Star-Gold-Thirils.jpg" group-title="Movie",90.STAR GOLD THRILLS
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=221258&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRcVYJgv/IMG-1754078225644-2.jpg" group-title="Movie",91.STAR MOVIES HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=66213&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqTqxgyn/IMG-1739523308486-2.png" group-title="Movie",92.STAR UTSAV GOLD
 http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",93.STAR UTSAV MOVIES
-https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=112977&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q1Ry4Qz/IMG-1740776676624-2.png" group-title="Movie",94.STAR BHARAT HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=66171&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="Movie",95.JALSHA MOVIES
@@ -201,32 +202,28 @@ https://fifax2bd.xyz/OPPLEX/play.php?id=275337&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",98.ALL TIME MOVIES  
 https://xfireflix.fun/Ayna/stream.php?id=353f1b20-3f65-4477-8251-6c3c58a3a12e&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",99.B4U MOVIE
+https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zdnwMbG/Bflix.jpg" group-title="Movie",100.BFLIX MOVIES
-https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_566.m3u8
 https://playyonogames.in/live.php?id=566&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50w2C4xM/Discovery.jpg" group-title="information",102.DISCOVERY HD
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_573.m3u8
 https://playyonogames.in/live.php?id=573&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=245967&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHMdJFmx/Discovery-Science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
 https://playyonogames.in/live.php?id=568&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0dk6jZT/Invest-Discovery.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_527.m3u8
 https://playyonogames.in/live.php?id=527&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX1RyhDF/TLC.jpg" group-title="Information",107.TLC HD
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_479.m3u8
 https://playyonogames.in/live.php?id=479&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGb5hzjP/History.jpg" group-title="Information",108.HISTORY TV HD
-https://mini.allinonereborn.online/jiotv-ww/app/ts_live_578.m3u8
 https://playyonogames.in/live.php?id=578&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7HzgHP/Nat-Geo-Wild.jpg" group-title="Information",109.NAT GEO WILD
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=206286&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="information",110.WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmrCKp0/CN.jpg" group-title="Cartoon",111.CARTOON NETWORK 
@@ -242,7 +239,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L54th0z2/Gubbare.jpg" group-title="Cartoon",116.GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpSxjLjq/Disney.jpg" group-title="Cartoon",117.DISNEY HD
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+https://fifax2bd.xyz/OPPLEX/play.php?id=167551&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKpB7W9/Discovery-Kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
 https://playyonogames.in/live.php?id=554&format=.m3u8|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1ts6YY7w/Wow-Kids.jpg" group-title="Cartoon",119.WOW KIDS
