@@ -1219,7 +1219,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://fifabangladesh.live/VHOD/go.php?id=MTV_Beats_HD_voot_MOB
 http://opplex.tv:8080//315587154/331264554/66203
 https://playyonogames.in/jiohotstar/playit.php?id=3774153&format=.m3u8|referer=https://playyonogames.in/
-https://moonkerala.xyz/jiohotstar/playit.php?id=3774153&format=.m3u8|Referer=https://moonkerala.xyz/
+https://moonkerala.xyz/jiohotstar/playit.php?id=3774153&format=.m3u8|Referer=|Referer=://moonkerala.xyz/
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-415
 https://bdixiptvbd.com/tf/live.php?id=b4u_music&e=.m3u8
 http://port.denver1769.fun/oplx5.m3u8?id=66203|User-Agent=Denver1769
@@ -1235,7 +1235,8 @@ http://opplex.tv:8080/live/315587154/331264554/383529.ts
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfj18VZH/Mastii.jpg" group-title="Music",127.MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vB5TPGXY/Dhoom-Music.jpg" group-title="Music",128.DHOOM MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHd0DJC4/IMG-1762538303345-2.jpg" group-title="Music",128.HINDI HITS HD
+https://i.postimg.cc/vB5TPGXY/Dhoom-Music.jpg
 http://xtv.ooo:8080/kamran800/800kamran/245921.ts
 http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1456
@@ -1246,6 +1247,7 @@ https://allinonereborn.com/test.m3u8?id=98993
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 https://play.denver1769.fun/Play/Z5/xMjpYz/index.m3u8?id=0-9-zing|User-Agent=Denver1769
 https://cdn-1.pishow.tv/live/1456/master.m3u8
+https://colorsportscreen.com/freetv/stream.m3u8?id=358a95e39026|Referer=https://colorsportscreen.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgB7qWjf/8xm.jpg" group-title="Music",129.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
