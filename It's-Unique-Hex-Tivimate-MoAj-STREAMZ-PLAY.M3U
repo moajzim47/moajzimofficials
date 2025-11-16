@@ -79,8 +79,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmwYdWXG/Aljajeera.jpg" group-title="News",40.ALJAJEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS HD
-https://xfireflix.fun/Ayna/stream.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS 
+https://live.mncdn.shop/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/index.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167590&|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=167575&format=.m3u8|User-Agent=RANAPK
@@ -98,16 +98,16 @@ https://fifax2bd.xyz/OPPLEX/play.php?id=167578&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgfTX2z3/IMG-1741986511576-2.png" group-title="Sports",48.STAR SPORTS SELECT 2 HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=167579&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",49.SONY SPORTS TEN 1 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009276|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009276|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports",50.SONY SPORTS TEN 2 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009277|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports",51.SONY SPORTS TEN 3 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009278|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-3-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports",52.SONY SPORTS TEN 5 HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009277|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",53.PTV SPORTS HDhttps://fifabd.site/OPLLXc/play.m3u8?id=217968&|User-Agent=RANAPK
 https://fifax2bd.xyz/OPPLEX/play.php?id=217968&format=.m3u8|User-Agent=RANAPK
@@ -120,40 +120,39 @@ https://fifax2bd.xyz/OPPLEX/play.php?id=167578&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",57.WILLOW 2 HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=167582&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",58.SKY SPORTS CRICKET
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+https://fifax2bd.xyz/OPPLEX/play.php?id=346379&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhLNQzH8/Sky-Football.png" group-title="Sports",59.SKY SPORTS FOOTBALL
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
+https://fifax2bd.xyz/OPPLEX/play.php?id=167592&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSGVbsGb/DD-Sports-2.png" group-title="Sports",60.DD SPORTS
 https://fifax2bd.xyz/OPPLEX/play.php?id=167588&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Movie",61.SONY MAX
-https://nxtlive.net/sliv/stream.m3u8?id=1000009249|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009249|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-max&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",63.SONY AATH
-https://nxtlive.net/sliv/stream.m3u8?id=1000009255|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009255|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-aath&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",64.SONY HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009246|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",65.SONY WAH
-https://nxtlive.net/sliv/stream.m3u8?id=1000009253|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009253|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-wah&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Movie",66.SONY PIX HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009258|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Movie",67.SONY SAB HD
-https://nxtlive.net/sliv/stream.m3u8?id=1000009248|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009248|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-sab-hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="Movie",68.SONY MAX 2
-https://nxtlive.net/sliv/stream.m3u8?id=1000044878|Referer=https://nxtlive.net/
-https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000044878|Referer=https://colorsportscreen.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yCwHQHc/IMG-1740774941854-2.png" group-title="Entertainment",69.SONY KAL
 https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yhCgRWJ/IMG-1740774880412-2.png" group-title="Entertainment",70.SONY PAL
-https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009273|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-pal&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8YiA52CsTkEmROetEbPCohv4kJMrL-SqJA&usqp=CAU" group-title="Entertainment",71.AND TV HD
 https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-tvhd_0|Referer=https://colorsportscreen.com/
@@ -209,41 +208,41 @@ https://fifax2bd.xyz/OPPLEX/play.php?id=245900&format=.m3u8|User-Agent=RANAPK
 https://fifax2bd.xyz/OPPLEX/play.php?id=112972&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y8wszpw/Goldmines-Movies.jpg"group-title="Movie",97.GOLDMINES MOVIES
 https://fifax2bd.xyz/OPPLEX/play.php?id=275337&format=.m3u8|User-Agent=RANAPK
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",98.ALL TIME MOVIES  
-https://xfireflix.fun/Ayna/stream.php?id=353f1b20-3f65-4477-8251-6c3c58a3a12e&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",98.ALL TIME MOVIES
+https://live.mncdn.shop/353f1b20-3f65-4477-8251-6c3c58a3a12e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",99.B4U MOVIE
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zdnwMbG/Bflix.jpg" group-title="Movie",100.BFLIX MOVIES
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
-https://playyonogames.in/live.php?id=566&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=566&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50w2C4xM/Discovery.jpg" group-title="information",102.DISCOVERY HD
-https://playyonogames.in/live.php?id=573&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=573&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=245967&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://nxtlive.net/sliv/stream.m3u8?id=1000009252|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHMdJFmx/Discovery-Science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
-https://playyonogames.in/live.php?id=568&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=568&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0dk6jZT/Invest-Discovery.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
-https://playyonogames.in/live.php?id=527&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=527&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX1RyhDF/TLC.jpg" group-title="Information",107.TLC HD
-https://playyonogames.in/live.php?id=479&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=479&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGb5hzjP/History.jpg" group-title="Information",108.HISTORY TV HD
-https://playyonogames.in/live.php?id=578&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=578&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3R7HzgHP/Nat-Geo-Wild.jpg" group-title="Information",109.NAT GEO WILD
 https://fifax2bd.xyz/OPPLEX/play.php?id=206286&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="information",110.WILD EARTH
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRmrCKp0/CN.jpg" group-title="Cartoon",111.CARTOON NETWORK 
-https://playyonogames.in/live.php?id=816&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=816&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NFbx4wgK/Sonic.jpg" group-title="Cartoon",112.SONIC
-https://playyonogames.in/live.php?id=815&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=815&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7QTr7N/Nick.jpg" group-title="Cartoon",113.NICK
-https://playyonogames.in/live.php?id=545&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=545&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sX4PjRGT/Pogo.jpg" group-title="Cartoon",114.POGO
-https://playyonogames.in/live.php?id=559&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=559&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRDd8pjT/Sony-Yay.jpg" group-title="Cartoon",115.SONY YAY
 https://nxtlive.net/sliv/stream.m3u8?id=1000001971|Referer=https://nxtlive.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L54th0z2/Gubbare.jpg" group-title="Cartoon",116.GUBBARE
@@ -251,7 +250,7 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpSxjLjq/Disney.jpg" group-title="Cartoon",117.DISNEY HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=167551&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKpB7W9/Discovery-Kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
-https://playyonogames.in/live.php?id=554&format=.m3u8|Referer=https://playyonogames.in/
+https://onezoo.net/leo/live.php?id=554&format=.m3u8|Referer=https://onezoo.net/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1ts6YY7w/Wow-Kids.jpg" group-title="Cartoon",119.WOW KIDS
 https://fifax2bd.xyz/OPPLEX/play.php?id=307079&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brvnqShv/Kid-Creation.jpg" group-title="Cartoon",120.Rongeen
