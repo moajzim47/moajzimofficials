@@ -295,6 +295,7 @@ https://live.sanonda.tv/sanonda/index.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream9/hls/sanandanewslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz1zWCmW/Amr-Bangla.jpg" group-title="Entertainment",35.AMAR BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
@@ -436,8 +437,8 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8|Referer=http
 https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167570&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-1-hd&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009276|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports",50.SONY SPORTS TEN 2 HD
 http://xtv.ooo:8080/kamran800/800kamran/167571.ts
 https://mhdstream.com/sliv/stream.m3u8?id=96585698|Referer=https://mhdstream.com/sliv/
@@ -445,8 +446,8 @@ https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8|Referer=http
 https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167571&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-2-hd&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009277|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports",51.SONY SPORTS TEN 3 HD
 http://xtv.ooo:8080/kamran800/800kamran/167570.ts
 https://mhdstream.com/sliv/stream.m3u8?id=36523652|Referer=https://mhdstream.com/sliv/
@@ -463,8 +464,8 @@ https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8|Referer=https://ott
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=167580&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-ten-5-hd&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009275|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zbxSQhk/Ptv-Sports-2.jpg" group-title="Sports",53.PTV SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/217968.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
@@ -587,8 +588,8 @@ https://otttv.co.in/d2h/livestream/sony-max/master.m3u8|Referer=https://otttv.co
 https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=221259&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-max&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009249|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
 https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
@@ -597,16 +598,16 @@ https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8|Referer=https://otttv.co.in/
 https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 https://topsports.watch/sonyliv/stream.php?id=sony-max-hd&format=.m3u8
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=66179&format=.m3u8|User-Agent=RANAPK
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009247|Referer=https://colorsportscreen.com/
+https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=66179&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",63.SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
 http://atg100.xyz//UL33K17/SYC4T9D/78972
 https://mhdtvstream.com/sliv/stream.php?id=195|Referer=https://mhdtvstream.com/
 https://dish.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://topsports.watch/sonyliv/stream.php?id=sony-aath&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sonyaath&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009255|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sonyaath&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Entertainment",64.SONY HD
 https://keralamaxtv.com/sliv/stream.php?id=1100|Referer=https://keralamaxtv.com/
 http://opplex.ch/23jan.waqar/992211/66164
@@ -614,9 +615,9 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8|Referer=https://otttv.co.in/
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=66164&|User-Agent=RANAPK
+https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246|Referer=https://colorsportscreen.com/
 https://topsports.watch/sonyliv/stream.php?id=sony-hd&format=.m3u8
 https://allottplay.com/tv/toffee/live.php?id=sonyentertainmnt_hd&format=.m3u8
-https://colorsportscreen.com/sliv/stream.m3u8?id=1000009246|Referer=https://colorsportscreen.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Entertainment",65.SONY WAH
 https://keralamaxtv.com/sliv/stream.php?id=75|Referer=https://keralamaxtv.com/
 https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8|Referer=https://otttv.co.in/
@@ -631,8 +632,8 @@ https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8|Referer=https://otttv
 https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=66224&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-pix-hd&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009258|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Movie",67.SONY SAB HD
 https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg
 https://keralamaxtv.com/sliv/stream.php?id=1201|Referer=https://keralamaxtv.com/
@@ -647,8 +648,8 @@ https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8|User-Agent=Mozill
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=66174&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-sab-hd&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sonysab_hd&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009248|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sonysab_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyVLYPQq/IMG-1740775080919-2.png" group-title="Movie",68.SONY MAX 2
 https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
 http://opplex.ch/23jan.waqar/992211/66189
@@ -656,8 +657,8 @@ https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8|Referer=https://otttv.
 https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=66189&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-max-2&format=.m3u8
-https://allottplay.com/tv/toffee/live.php?id=sonymax_2&format=.m3u8
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000044878|Referer=https://colorsportscreen.com/
+https://allottplay.com/tv/toffee/live.php?id=sonymax_2&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yCwHQHc/IMG-1740774941854-2.png" group-title="Entertainment",69.SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
@@ -669,8 +670,8 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8|Referer=https://otttv.co.in/
 https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://topsports.watch/sonyliv/stream.php?id=sony-pal&format=.m3u8
-https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=104192&format=.m3u8|User-Agent=RANAPK
 https://colorsportscreen.com/sliv/stream.m3u8?id=1000009273|Referer=https://colorsportscreen.com/
+https://fifabdm.xyz/OPPLEX/RANAPK/play.php?id=104192&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8YiA52CsTkEmROetEbPCohv4kJMrL-SqJA&usqp=CAU" group-title="Entertainment",71.AND TV HD
 http://opplex.tv:8080//315587154/331264554/66172
 https://la.drmlive.au/tp/zee-tvhd_0.m3u8
