@@ -1074,7 +1074,7 @@ http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=245967&e=.m3u8
 http://opplex.ch/23jan.waqar/992211/245967
-https://fifabdm.xyz/OPPLEX/RANAPK5/play.php?id=245967&format=.m3u8|User-Agent=RANAPK
+https://ranapk.onlineOPPLEX/RANAPK5/play.php?id=245967&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in/
@@ -1127,7 +1127,7 @@ https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=206286&e=.m3u8
 http://opplex.ch/23jan.waqar/992211/206286
-https://fifabdm.xyz/OPPLEX/RANAPK5/play.php?id=206286&format=.m3u8|User-Agent=RANAPK
+https://ranapk.online/OPPLEX/RANAPK5/play.php?id=206286&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T13v3f10/Wild-Earth.jpg" group-title="information",110.WILD EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 http://opplex.tv:8080//315587154/331264554/206286
@@ -1165,8 +1165,7 @@ http://xtv.ooo:8080//kamran800/800kamran/150482.ts
 https://mhdtvstream.com/live.php?id=545&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://moonkerala.xyz/jiohotstar/playit.php?id=3989195&format=.m3u8|Referer=https://moonkerala.xyz/
 https://play.denver1769.fun/Play/v19/index3.m3u8?id=138|User-Agent=Denver1769
-http://tv.bdiptv.store/live/restream/restreamkk/96.m3u8
-https://tv.mymoviebazar.net/stream/stream203.m3u8|Referer=https://tv.mymoviebazar.net/
+http://tv.bdiptv.store/live/restream/restreamkk/96.m3u8t/
 https://mintos.allinonereborn.xyz/jiotv-ww/app/live.php?id=545&e=.m3u8
 https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
@@ -1205,7 +1204,7 @@ https://fifabd.site/OPLLXz/play.m3u8?id=167551&|User-Agent=RANAPK
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8?id=167551&e=.m3u8
 http://opplex.ch/23jan.waqar/992211/167551
-https://fifabdm.xyz/OPPLEX/RANAPK5/play.php?id=167551&format=.m3u8|User-Agent=RANAPK
+https://ranapk.online/OPPLEX/RANAPK5/play.php?id=167551&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKpB7W9/Discovery-Kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovery_kids&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
@@ -1312,7 +1311,7 @@ https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="Music",130.JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmXThS6/Yrf-Music.jpg" group-title="Music",131.YRF MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmXThS6/Yrf-Music.https://ranapk.onlineusic",131.YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXSPJ0zh/E-24.jpg" group-title="Music",132.E24 MUSIC
