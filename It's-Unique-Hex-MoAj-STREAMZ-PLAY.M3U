@@ -34,8 +34,8 @@ http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 https://aynapubluc.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
 https://tvsen6.aynaott.com/atnnews/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfjQmZvy/IMG-20251228-201009.jpg" group-title="News",5.GLOBAL TV
-https://i.postimg.cc/mrW66Gky/Nagorik-Tv.jpg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrW66Gky/Nagorik-Tv.jpg" group-title="News",5.NAGORIK TV
+https://i.postimg.cc/NfjQmZvy/IMG-20251228-201009.jpg
 http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
 https://aynapubluc.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
 https://tvsen6.aynaott.com/nagoriktv/index.m3u8
@@ -48,6 +48,7 @@ http://fifabd.site/JOIN@TGxRANAPK33/STARSHARE/NEWx/play.php?id=3802
 http://172.31.235.10:8080/hls/32-nagorik/index.m3u8
 http://51.83.129.17/hls/Nagorik/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://bongoflixbd.top/stream.php?id=52774e7969ae768d0abf78b843d8bdb5&e=.m3u8|Referer=https://bongoflixbd.top/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MFbvXhZ/RTV.jpg" group-title="News",6.RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12111
@@ -898,13 +899,14 @@ https://xfireflix.fun/file/opplex/stream.m3u8?id=66171&e=.m3u8
 http://opplex.ch/23jan.waqar/992211/66171
 https://ranapk.online/OPPLEX/RANAPK3/play.php?id=66171&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDbMCBHK/Jalsha-Movies.jpg" group-title="Movie",95.JALSHA MOVIES
-http://opplex.tv:8080//315587154/331264554/245900
+http://opplex.tv:8080//315587154/331264554/24http://opp8080//315587154/331264554/245900
 http://atg100.xyz:80/443432469215731/4362020837/76205
 https://tv.mymoviebazar.net/stream/stream205.m3u8|Referer=https://tv.mymoviebazar.net/
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/543.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 http://opplex.ch/23jan.waqar/992211/245900
 https://ranapk.online/OPPLEX/RANAPK3/play.php?id=245900&format=.m3u8|User-Agent=RANAPK
+https://bongoflixbd.top/stream.php?id=52774e7969ae768d0abf78b843d8bdb5&e=.m3u8|Referer=https://bongoflixbd.top/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjDFVWx/Goldmines.jpg" group-title="Movie",96.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
@@ -954,8 +956,7 @@ https://live.mncdn.shop/353f1b20-3f65-4477-8251-6c3c58a3a12e/index.m3u8
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt03/ALLTIMEMOVIES/index.m3u8|Referer=https://oxolive.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",99.B4U MOVIE
-http://xtv.ooo:8080/kamran800/800kamran/104199.ts
-http://172.105.123.238:18002/play/a06s
+http:http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://fifabd.site/OPLLX2/play.m3u8?id=104199|Referer=RANAPK
 http://202.164.50.194:8000/play/a070/index.m3u8
