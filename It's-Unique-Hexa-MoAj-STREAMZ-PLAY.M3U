@@ -153,7 +153,6 @@ http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
 https://tvsen6.aynaott.com/channel9/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
-https://live.mncdn.shop/1f8a84b3-8079-4c29-9e73-f219664e9d4d/index.m3u8|Referer=https://tv.movienestbd.site/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
 https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -288,10 +287,10 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
 https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://live.sanonda.tv/sanonda/index.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream9/hls/sanandanewslive.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz1zWCmW/Amr-Bangla.jpg" group-title="Entertainment",35.AMAR BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
