@@ -548,7 +548,7 @@ http://opplex.ch/3873620/9312/347334
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
 https://ranapk.online/OPPLEX/RANAPK3/play.php?id=167582&format=.m3u8|User-Agent=RANAPK
-https://w1.drmstream.online/crhd/stream.m3u8?id=3ns9ia7s&format=.m3u8
+https://w1.drmstream.online/crhd/stream.m3u8?id=3ns9ia7s&format=.m3u8|Referer=https://w1.drmstream.online/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",58.SKY SPORTS CRICKET
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
