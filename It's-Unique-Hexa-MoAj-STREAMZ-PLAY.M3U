@@ -955,11 +955,22 @@ https://xfireflix.fun/Ayna/stream.php?id=1f8a84b3-8079-4c29-9e73-f219664e9d4d
 https://aynapubluc.vercel.app/api/stream/1f8a84b3-8079-4c29-9e73-f219664e9d4d.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=275337|User-Agent=RANAPK
 https://xfireflix.fun/file/opplex/stream.m3u8?id=275337&e=.m3u8
-https://cdn-2.pishow.tv/live/1461/master.m3u8
 http://38.127.8.116/OPPLEX2/play.php?id=275337&format=.m3u8|User-Agent=RANAPK
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
 https://live.mncdn.shop/1f8a84b3-8079-4c29-9e73-f219664e9d4d/index.m3u8|Referer=https://tv.movienestbd.site/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",98.ALL TIME MOVIES  
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPcqQmt6/Shemaroo-Josh.jpg" group-title="Movie",98.SHEMAROO JO$H
+https://i.postimg.cc/1zdnwMbG/Bflix.jpg
+https://allinonereborn.com/tata-tv1.php?id=1077
+http://port.denver1769.fun/oplx5.m3u8?id=104190|User-Agent=Denver1769
+http://202.164.50.194:8000/play/a0cr/index.m3u8
+https://allinonereborn.com/test.m3u8?id=99851
+https://amit-1.allinonereborn.in/jiobe9.m3u8?id=7903
+https://fifabd.site/OPLLXt/play.m3u8?id=104190&|User-Agent=RANAPK
+https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",99.ALL TIME MOVIES  
 https://cdn-2.pishow.tv/live/1454/master.m3u8
 http://opplex.tv:8080/live/315587154/331264554/374980.ts
 http://opplex.ch:8080/SHO2393/4702393/112973
@@ -974,7 +985,7 @@ http://202.164.50.194:8000/play/a02d/index.m3u8
 https://live.mncdn.shop/353f1b20-3f65-4477-8251-6c3c58a3a12e/index.m3u8
 https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt03/ALLTIMEMOVIES/index.m3u8|Referer=https://oxolive.com/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",99.B4U MOVIE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",100.B4U MOVIE
 http:http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
 https://fifabd.site/OPLLX2/play.m3u8?id=104199|Referer=RANAPK
@@ -982,16 +993,6 @@ http://202.164.50.194:8000/play/a070/index.m3u8
 https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zdnwMbG/Bflix.jpg" group-title="Movie",100.BFLIX MOVIES
-https://allinonereborn.com/tata-tv1.php?id=1077
-http://port.denver1769.fun/oplx5.m3u8?id=104190|User-Agent=Denver1769
-http://202.164.50.194:8000/play/a0cr/index.m3u8
-https://allinonereborn.com/test.m3u8?id=99851
-https://amit-1.allinonereborn.in/jiobe9.m3u8?id=7903
-https://fifabd.site/OPLLXt/play.m3u8?id=104190&|User-Agent=RANAPK
-https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
