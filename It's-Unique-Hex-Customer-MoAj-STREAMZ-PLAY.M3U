@@ -1102,6 +1102,7 @@ http://202.164.50.194:8000/play/a070/index.m3u8
 https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xdySR1z/Animal-Planet.jpg" group-title="information",101.ANIMAL PLANET HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206282
@@ -1123,8 +1124,8 @@ https://onezoo.net/leo/live.php?id=573&format=.m3u8|Referer=https://onezoo.net/
 https://allottplay.com/tv/toffee/live.php?id=discovery_hd&format=.m3u8
 https://m.xigzo.store/live.php?id=a1c4e01414e7&e=.m3u8|Referer=https://m.xigzo.store/
 https://hdabgh.mnbd.workers.dev/cdn/live/discovery_hd/playlist.m3u8|Referer=https://tv.movienestbd.site/
+https://m3uplay.com/leo/live.php?id=573&format=.m3u8|Referer=https://m3uplay.com/
 https://m.mxonlive.xyz/live/16559/toffeex/stream.php/KS6x-JQBv9knK3AHwDZy.m3u8|Referer=https://toffeex.wuaze.com/
-http://cdnd.sonyplex.com:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
@@ -1259,6 +1260,7 @@ http://45.148.145.57/IN__KG/tracks-v1a1/mono.m3u8
 http://opplex.tv:8080//315587154/331264554/150480
 https://fifabd.site/OPLLX5/play.m3u8?id=150480&|User-Agent=RANAPK
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+https://hls-coolxtream.vercel.app/channel/150480&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpSxjLjq/Disney.jpg" group-title="Cartoon",117.DISNEY HD
 http://opplex.tv:8080/live/315587154/331264554/167551.ts
 http://port.denver1769.fun/oplx5.m3u8?id=167551|User-Agent=Denver1769
@@ -1340,12 +1342,14 @@ https://bdixiptvbd.com/tf/live.php?id=bhttps://mix.drmlive.net/mix/playboxtv.m3u
 https://mix.drmlive.net/mix/xiaomi-66225.m3u8
 https://cdn-2.pishow.tv/live/415/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://fucking-tv-ott.keralive.workers.dev/mumt04/B4UMUSIC/index.m3u8|Referer=https://tulnit.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqV9zDJt/Show-Box.jpg" group-title="Music",126.SHOW BOX MUSIC
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/383529.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=383529|Referer=RANAPK
 http://opplex.tv:8080/live/315587154/331264554/383529.ts
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
+https://hls-coolxtream.vercel.app/channel/383529&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nfj18VZH/Mastii.jpg" group-title="Music",127.MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 https://colorsportscreen.com/freetv/stream.m3u8?id=a0756ba769dd|Referer=https://colorsportscreen.com/
