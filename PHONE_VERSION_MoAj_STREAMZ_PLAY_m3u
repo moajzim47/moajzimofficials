@@ -295,6 +295,8 @@ http://185.233.166.116/OPPLEX/play.php?id=307079&format=.m3u8|User-Agent=RANAPK
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbJNZwX/9xm.jpg" group-title="Music",121.9XM
 https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MmBfHV/9x-Jalwa.jpg" group-title="Music",122.9X JALWA
+https://wiselp.wiseplayout.com/9X_Jalwa/SD504/SD504.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wvj4vVf/Music-India.jpg" group-title="Music",123.MUSIC INDIA
 https://mumbai-edge.smartplaytv.in/Musicindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRXyjKQr/Sangeet-Bangla.jpg" group-title="Music",124.SANGEET BANGLA
