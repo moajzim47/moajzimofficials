@@ -854,8 +854,8 @@ https://xfireflix.my.id/Op.m3u8/?id=206271&e=.m3u8
 https://hls-coolxtream.vercel.app/channel/206271&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_484.m3u8
 https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
-http://185.233.166.116/OPPLEX/play.php?id=206271&format=.m3u8|User-Agent=RANAPK
 https://m3uplay.com/leo/live.php?id=484&format=.m3u8|Referer=https://m3uplay.com/
+http://185.233.166.116/OPPLEX/play.php?id=206271&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBvJ1XdF/Zee-Cinema-Hd.jpg" group-title="Movie",76.ZEE CINEMA HD
 http://opplex.tv:8080//315587154/331264554/206307
 https://allottplay.com/tv/toffee/live.php?id=zee_cinema_hd&format=.m3u8
@@ -905,6 +905,7 @@ https://m.xigzo.store/live.php?id=2ea95a9da2d7&e=.m3u8|Referer=https://m.xigzo.s
 https://hdabgh.mnbd.workers.dev/cdn/live/zee_bollywood/playlist.m3u8
 https://m.mxonlive.xyz/live/16559/toffeex/stream.php/OnSlPJYBcqxnFHJB6lFX.m3u8|Referer=https://toffeex.wuaze.com/
 http://110.39.27.47:8001/play/a03w/index.m3u8|User-Agent=CoolXStreamIPTV
+http://110.39.27.47:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://fifabd.site/OPLLXc/play.m3u8?id=245897|User-Agent=RANAPK
