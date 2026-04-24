@@ -722,8 +722,8 @@ https://dish.slivcdn.com/hls/live/2011745-b/SonyMaxSD/master.m3u8
 https://fifabd.site/OPLLXc/play.m3u8?id=221259&|User-Agent=RANAPK
 https://topsports.watch/sonyliv/stream.php?id=sony-max&format=.m3u8
 https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&format=.m3u8
-https://b4uplay.com/sliv/stream.m3u8?id=1000009249|Referer=https://b4uplay.com/
 https://hdabgh.mnbd.workers.dev/cdn/live/sony_max_hd/playlist.m3u8
+https://b4uplay.com/sliv/stream.m3u8?id=1000009249|Referer=https://b4uplay.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
 https://keralamaxtv.com/sliv/stream.php?id=878545|Referer=https://keralamaxtv.com/
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
@@ -1270,6 +1270,7 @@ https://hdabgh.mnbd.workers.dev/cdn/live/discovery_hd/playlist.m3u8|Referer=http
 https://m.mxonlive.xyz/live/16559/toffeex/stream.php/KS6x-JQBv9knK3AHwDZy.m3u8|Referer=https://toffeex.wuaze.com/
 https://m3uplay.com/leo/live.php?id=573&format=.m3u8|Referer=https://m3uplay.com/
 https://xfireflix.my.id/mac.php?id=908684.m3u8
+http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvs422zy/Nat-Geo.jpg" group-title="Information",103.NATIONAL GEOGRAPHIC HD
 http://xtv.ooo:8080/kamran800/800kamran/206285.ts
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
@@ -1308,6 +1309,7 @@ https://tulnit.fun/jiotv/app/ts_live_568.m3u8
 https://hls-coolxtream.vercel.app/channel/206289&format=.m3u8
 https://hdabgh.mnbd.workers.dev/cdn/live/discovery_science/playlist.m3u8|Referer=https://tv.movienestbd.site/
 https://m3uplay.com/leo/live.php?id=568&format=.m3u8|Referer=https://m3uplay.com/
+http://103.180.212.191:3500/live/568.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0dk6jZT/Invest-Discovery.jpg" group-title="Information",106.DISCOVERY INVESTIGATION
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discovary_investigation_hd&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
@@ -1562,15 +1564,15 @@ https://fucking-tv-ott.keralive.workers.dev/mumt01/HINDIHITS/index.m3u8|Referer=
 https://mumt01.tangotv.in/HINDIHITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgB7qWjf/8xm.jpg" group-title="Music",129.8XM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh6BJLr4/Jalwa.jpg" group-title="Music",130.JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbmXThS6/Yrf-Music.jpg" group-title="Music",131.YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXSPJ0zh/E-24.jpg" group-title="Music",132.E24 MUSIC
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
