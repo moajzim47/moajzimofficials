@@ -239,7 +239,8 @@ https://aynapubluc.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/asiantv.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRJrSKqw/Bangla-Tv.jpg" group-title="News",24.BANGLA TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zqmjnW/IMG-20260429-132404.jpg" group-title="News",24.CHANNEL 1 HD
+https://i.postimg.cc/qRJrSKqw/Bangla-Tv.jpg
 http://xtv.ooo:8080/kamran800/800kamran/245910.ts
 https://fifabd.site/OPLLX3/play.m3u8?id=245910|Referer=RANAPK
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
@@ -252,6 +253,7 @@ https://m.xigzo.store/live.php?id=e899095f3263&e=.m3u8|Referer=https://m.xigzo.s
 https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8|Referer=https://tv.movienestbd.site/
 https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/playlist.m3u8|Referer=https://banglatv.tv/live
 http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg" group-title="Movie",25.MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxB4bfF/Ekkattor.jpg" group-title="News",26.EKATTOR TV HD
