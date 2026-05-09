@@ -388,6 +388,7 @@ http://27.124.71.27/T-Sports/index.m3u8
 http://151.241.99.27/OPPLEX3/TATA/play.php?id=167590&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
+https://padmaonline.duckdns.org:8088/T-S-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 http://opplex.tv:8080//Jawad1994/03112371534/167575
 https://tv.mymoviebazar.net/stream/stream209.m3u8|Referer=https://tv.mymoviebazar.net/
@@ -424,8 +425,8 @@ https://api.shliv.fun/cricfirehd/stream.m3u8?id=fvo1416b&format=.m3u8|Referer=ht
 https://xfireflix.my.id/Op.m3u8/?id=167573&e=.m3u8
 https://restream-bay.vercel.app/?id=167573&e=.m3u8
 https://hls-coolxtream.vercel.app/channel/167573&format=.m3u8
-http://151.241.99.27/OPPLEX3/TATA/play.php?id=167573&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://allinonereborn.online/opplex/live128.php?id=167573&format=.m3u8
+http://151.241.99.191/TATABD/play.php?id=167573&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRXydGdk/IMG-1741985795847-2.png" group-title="Sports",44.STAR SPORTS 2 HD
 http://webhop.xyz:8080/shoaib/shoaib/239
 http://opplex.tv:8080//315587154/331264554/167576-109988
