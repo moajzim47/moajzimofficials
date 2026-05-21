@@ -955,7 +955,7 @@ http://185.233.166.116/OPPLEX/play.php?id=66187&format=.m3u8|User-Agent=RANAPK
 https://m3uplay.com/leo/live.php?id=415&format=.m3u8|Referer=https://m3uplay.com/
 https://xfireflix.my.id/mac.php?id=373000.m3u8
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=373000&format=.m3u8
-http://151.241.99.191/TATABD/play.php?id=66187&format=.m3u8
+http://151.241.99.191/TATABD/play.php?id=66187&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ymHMZpW/Zee-Anmol-Cinema-2.jpg" group-title="Movie",79.ZEE ANMOL CINEMA 2
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
@@ -1187,7 +1187,7 @@ https://restream-bay.vercel.app/?id=112977&e=.m3u8
 https://hls-coolxtream.vercel.app/channel/112977&format=.m3u8
 https://xfireflix.my.id/mac.php?id=737322.m3u8
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=737322&format=.m3u8
-http://151.241.99.191/TATABD/play.php?id=112971&format=.m3u8
+http://151.241.99.191/TATABD/play.php?id=112971&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q1Ry4Qz/IMG-1740776676624-2.png" group-title="Movie",94.STAR BHARAT HD
 http://opplex.tv:8080/live/315587154/331264554/66170.ts
 http://opplex.ch:8080/SHO2393/4702393/66171
