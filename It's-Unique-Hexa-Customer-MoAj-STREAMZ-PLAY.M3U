@@ -783,6 +783,7 @@ https://nxtlive.net/sliv/stream.m3u8?id=1000009248|Referer=https://nxtlive.net/
 http://103.175.73.12:8080/live/374/374_0.m3u8
 https://hdabgh.mnbd.workers.dev/cdn/live/sonysab_hd/playlist.m3u8
 https://tulnit.fun/jiotv/app/ts_live_3418.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=3418|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=3418&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195|Referer=https://keralamaxtv.com/
@@ -869,6 +870,7 @@ https://tulnit.fun/jiotv/app/ts_live_472.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=98852&format=.m3u8|User-Agent=CoolXStreamIPTV
 https://hdabgh.mnbd.workers.dev/cdn/live/and_tv_hd/playlist.m3u8
 https://xfireflix.my.id/mac.php?id=944622.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=472|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=472&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWzuMvBhfQj06cqcSWY033_O5LVHJakfumGQ&usqp=CAU" group-title="Movie",72.AND XPLOR HD
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8zMq-113BIXuTBMfALXOYffnJT7ns2wSnQ&s
@@ -881,6 +883,7 @@ https://hls-coolxtream.vercel.app/channel/109964&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_1668.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=4082&format=.m3u8|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=109964&format=.m3u8|User-Agent=RANAPK
+https://04jio.teachub.workers.dev/live.m3u8?id=1668|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=1668&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPG1oU_Uwv6cw73DqClreDQ-6d1fNr_GMebQ&usqp=CAU" group-title="Movie",73.AND PICTURE
 http://xtv.ooo:8080/kamran800/800kamran/221260.ts
@@ -893,6 +896,7 @@ https://tulnit.fun/jiotv/app/ts_live_1839.m3u8
 https://coolx-iptv.vercel.app/lkn/tv?id=618&format=.m3u8|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=66183&format=.m3u8|User-Agent=RANAPK
 https://hdabgh.mnbd.workers.dev/cdn/live/andpicture_hd/playlist.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=1839|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=1839&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtP5MTmC23CcjMvsIq7xIJPffElXtp3tTq0g&usqp=CAU" group-title="Movie",74.AND PICTURE HD
 http://opplex.tv:8080//315587154/331264554/66181
@@ -904,6 +908,7 @@ https://hls-coolxtream.vercel.app/channel/66181&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_185.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=98856&format=.m3u8|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=66181&format=.m3u8|User-Agent=RANAPK
+https://04jio.teachub.workers.dev/live.m3u8?id=185|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=185&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtSbxqY/Zee-Cinema.jpg" group-title="Movie",75.ZEE CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/206271.ts
@@ -915,6 +920,7 @@ https://hls-coolxtream.vercel.app/channel/206271&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_484.m3u8
 https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=206271&format=.m3u8|User-Agent=RANAPK
+https://04jio.teachub.workers.dev/live.m3u8?id=484|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=484&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBvJ1XdF/Zee-Cinema-Hd.jpg" group-title="Movie",76.ZEE CINEMA HD
 http://opplex.tv:8080//315587154/331264554/206307
@@ -927,6 +933,7 @@ https://hls-coolxtream.vercel.app/channel/206307&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_165.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=98860&format=.m3u8|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=206307&format=.m3u8|User-Agent=RANAPK
+https://04jio.teachub.workers.dev/live.m3u8?id=165|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=165&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CR33wcJ/Zee-Action.jpg" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
@@ -939,6 +946,7 @@ https://tulnit.fun/jiotv/app/ts_live_488.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=967&format=.m3u8|User-Agent=CoolXStreamIPTV
 https://hdabgh.mnbd.workers.dev/cdn/live/zee_action/playlist.m3u8
 https://xfireflix.my.id/mac.php?id=735400.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=488|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=488&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0qJQgp4/Zee-Anmol-Cinema.jpg" group-title="Movie",78.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
@@ -982,6 +990,7 @@ https://m.xigzo.store/live.php?id=3c1cc31a847f&e=.m3u8|Referer=https://m.xigzo.s
 https://m.mxonlive.xyz/live/16559/toffeex/stream.php/-C7MX5UBv9knK3AHdKOi.m3u8|Referer=https://toffeex.wuaze.com/
 http://185.233.166.116/OPPLEX/play.php?id=245897&format=.m3u8|User-Agent=RANAPK
 https://hdabgh.mnbd.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=3476|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=3476&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
 https://fifabangladesh.live/VHOD/go.php?id=Rishtey_Cineplex_voot_MOB
@@ -998,6 +1007,7 @@ https://coolx-iptv.vercel.app/iptv/live?id=172368|User-Agent=CoolXStreamIPTV
 http://185.233.166.116/OPPLEX/play.php?id=66199&format=.m3u8|User-Agent=RANAPK
 https://tulnit.fun/jiotv/app/ts_live_1450.m3u8
 https://hls-coolxtream.vercel.app/channel/66199&format=.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=1450|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=1450&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vL8Y4D/Colors-Cineplex.jpg" group-title="Movie",82.COLORS CINEPLEX
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
@@ -1010,6 +1020,7 @@ https://xfireflix.my.id/Op.m3u8/?id=104191&e=.m3u8
 https://hls-coolxtream.vercel.app/channel/104191&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_482.m3u8
 https://xfireflix.my.id/mac.php?id=733523.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=482|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=482&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XnftPfD/Colors-Cineplex-Hd.jpg" group-title="Movie",83.COLORS CINEPLEX HD
 https://colorsscreen.com/live.php?id=1477&extension=.m3u8|Referer=https://colorsscreen.com/
@@ -1027,6 +1038,7 @@ https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1477.m3u8
 http://185.233.166.116/OPPLEX/play.php?id=206315&format=.m3u8|User-Agent=RANAPK
 https://tulnit.fun/jiotv/app/ts_live_1477.m3u8
 https://xfireflix.my.id/mac.php?id=944627.m3u8
+https://04jio.teachub.workers.dev/live.m3u8?id=1477|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=1477&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtssCfj5/IMG-1745301793301-2.png" group-title="Movie",84.COLORS BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/66163.ts
@@ -1043,6 +1055,7 @@ https://mini.allinonereborn.fun/jiotv-ww/app/live.php?id=1657&e=.m3u8
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1657.m3u8
 https://tulnit.fun/jiotv/app/ts_live_1657.m3u8
 https://ranapk.online/starshare/play3.php?id=271038
+https://04jio.teachub.workers.dev/live.m3u8?id=1657|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=1657&format=.m3u8|Referer=https://m3uplay.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
 http://opplex.tv:8080/live/315587154/331264554/112983.ts
@@ -1062,6 +1075,7 @@ http://103.182.170.32:8888/play/a01o
 http://185.233.166.116/OPPLEX/play.php?id=112983&format=.m3u8|User-Agent=RANAPK
 https://hls-coolxtream.vercel.app/channel/112983&format=.m3u8
 https://m3uplay.com/leo/live.php?id=1763&format=.m3u8|Referer=https://m3uplay.com/
+https://04jio.teachub.workers.dev/live.m3u8?id=1763|Referer=https://04jio.teachub.workers.dev/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP2bHnjdu3MMngBGj7lba0nrDuM3S5f-S87w&usqp=CAU" group-title="Movie",86.STAR GOLD HD
 http://webhop.xyz:8080/shoaib/shoaib/194
 http://45.148.145.57/IN_STGOLD/tracks-v1a1/mono.m3u8
@@ -1173,10 +1187,10 @@ http://45.148.145.57/IN_STU/tracks-v1a1/mono.m3u8
 https://allinonereborn.online/iptv-web/live.php?id=737089&format=.m3u8|Referer=https://allinonereborn.online/
 https://xfireflix.my.id/Op.m3u8/?id=382224&e=.m3u8
 https://restream-bay.vercel.app/?id=382224&e=.m3u8
-http://151.241.99.27/OPPLEX/TATA/play.php?id=382224&format=.m3u8|User-Agent=RANAPK
 https://hls-coolxtream.vercel.app/channel/382224&format=.m3u8
 https://xfireflix.my.id/mac.php?id=372699.m3u8
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=372699&format=.m3u8
+http://151.241.99.191/TATABD/play.php?id=382224&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 #EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",93.STAR UTSAV MOVIES
 http://opplex.ch/3873620/9312/112977/112971
 http://45.148.145.57/IN_UTS/index.m3u8
@@ -1218,6 +1232,7 @@ https://allinonereborn.online/mix.m3u8/live4.php?id=277425&format=.m3u8
 https://ranapk.online/JIOBEE/play.php?id=2550&format=.m3u8
 https://xfireflix.my.id/mac.php?id=908656.m3u8
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=908656&format=.m3u8
+http://starhub.pro/live/Anthony2/Anthony123/425.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYjDFVWx/Goldmines.jpg" group-title="Movie",96.GOLDMINES
 http://webhop.xyz:8080/live/shoaib/shoaib/355478.ts
 https://nowlivetv.com/ayna/stream.php?id=149&ip=27.147.204.216|Referer=https://nowlivetv.com/
