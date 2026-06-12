@@ -393,7 +393,7 @@ https://padmaonline.duckdns.org:8088/T-S-HD/index.m3u8
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 http://starhub.pro/live/Anthony2/Anthony123/130714.ts
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
-http://198.195.239.50:8095/Tsports/index.m3u8
+http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDnL8XSB/IMG-20260612-005721.jpg" group-title="Sports",42.UNITE8 SPORTS HD 1
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
@@ -416,7 +416,6 @@ https://allinonereborn.online/opplex/live128.php?id=167592&format=.m3u8
 https://restream-bay.vercel.app/chuchhi?id=167592&format=.m3u8
 http://185.233.166.215/TATABD/play.php?id=167592&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://restream-bay.vercel.app/chuchhi?id=206315&format=.m3u8
-http://starhub.pro/live/Anthony2/Anthony123/745202.ts
 http://starhub.pro/live/Anthony2/Anthony123/741567.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",43.STAR SPORTS 1 HD
 http://opplex.tv:8080//Jawad1994/03112371534/167575
@@ -943,11 +942,11 @@ https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-zeecinema|Referer=https://
 https://xfireflix.my.id/Op.m3u8/?id=206271&e=.m3u8
 https://hls-coolxtream.vercel.app/channel/206271&format=.m3u8
 https://tulnit.fun/jiotv/app/ts_live_484.m3u8
-https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
 https://04jio.teachub.workers.dev/live.m3u8?id=484|Referer=https://04jio.teachub.workers.dev/
 https://m3uplay.com/leo/live.php?id=484&format=.m3u8|Referer=https://m3uplay.com/
 http://151.241.99.191/TATABD/play.php?id=206271&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://restream-bay.vercel.app/chuchhi?id=206271&format=.m3u8
+https://coolx-iptv.vercel.app/lkn/tv?id=583&format=.m3u8|User-Agent=CoolXStreamIPTV
 https://techtraveleat.in/leo/live.m3u8?id=484&format=.m3u8|Referer=https://techtraveleat.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vBvJ1XdF/Zee-Cinema-Hd.jpg" group-title="Movie",76.ZEE CINEMA HD
 http://opplex.tv:8080//315587154/331264554/206307
