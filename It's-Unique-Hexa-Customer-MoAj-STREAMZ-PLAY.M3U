@@ -145,7 +145,9 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 https://aynapubluc.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
 https://tvsen6.aynaott.com/somoytv/index.m3u8
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/422.ts
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvYCqJmx/DBC-News.jpg" group-title="News",15.DBC NEWS HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=19414441
 http://baskardo.vip/DB_DBCNEWS/tracks-v1a1/mono.m3u8
@@ -417,6 +419,7 @@ https://restream-bay.vercel.app/chuchhi?id=167592&format=.m3u8
 http://185.233.166.215/TATABD/play.php?id=167592&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://restream-bay.vercel.app/chuchhi?id=206315&format=.m3u8
 http://starhub.pro/live/Anthony2/Anthony123/741567.ts
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/741567.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",43.STAR SPORTS 1 HD
 http://opplex.tv:8080//Jawad1994/03112371534/167575
 https://tv.mymoviebazar.net/stream/stream209.m3u8|Referer=https://tv.mymoviebazar.net/
@@ -1337,6 +1340,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/in
 https://mumt04.tangotv.in/Shemaroojosh/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt04/Shemaroojosh/index.m3u8|Referer=https://b4uplay.com/
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8|Referer=https://bhoomtv.com/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",99.ALL TIME MOVIES  
 https://cdn-2.pishow.tv/live/1454/master.m3u8
 http://opplex.tv:8080/live/315587154/331264554/374980.ts
