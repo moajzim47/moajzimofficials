@@ -29,6 +29,7 @@ https://tvsen6.aynaott.com/btv_world/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
 http://198.195.239.50:8095/btv/index.m3u8
+http://103.165.93.31:8095/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPnBR3Fs/ATN-BANGLA.jpg" group-title="News",3.ATN BANGLA
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=11187
 https://fifabd.site/OPLLX2/play.m3u8?id=245909|Referer=RANAPK
@@ -152,6 +153,7 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/422.ts
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 http://198.195.239.50:8095/somoyTv/index.m3u8
+http://103.165.93.31:8095/somoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvYCqJmx/DBC-News.jpg" group-title="News",15.DBC NEWS HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=19414441
 http://baskardo.vip/DB_DBCNEWS/tracks-v1a1/mono.m3u8
@@ -397,6 +399,7 @@ http://185.233.166.215/TATABD/play.php?id=167590&format=.m3u8|referer=RANAPK|Use
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18452.ts
 https://trs1.aynaott.com/tsports/index.m3u8
 http://198.195.239.50:8095/tsports/index.m3u8
+http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdyRP2Sg/IMG-20260614-023554.jpg" group-title="Sports",42.UNITE8 SPORTS HD 1
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
