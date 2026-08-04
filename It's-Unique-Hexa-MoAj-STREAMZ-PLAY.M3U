@@ -14,8 +14,8 @@ http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_5.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxn2mPcf/BTV.jpg" group-title="News",2.BTV HD
 http://xtv.ooo:8080/kamran800/800kamran/245930.ts
 http://103.230.105.252:1935/live/btv/index.m3u8
@@ -27,7 +27,6 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051
 https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8
 https://tvsen6.aynaott.com/btv_world/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
 http://198.195.239.50:8095/btv/index.m3u8
 http://103.165.93.31:8095/btv/video.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
@@ -196,9 +195,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/maasrangatv.m3u8
-http://103.118.76.228/MAASRANGA-TVtest/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
+http://103.118.76.228/MAASRANGA-TVtest/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4MvDDqh/Boishakhi-Tv.jpg" group-title="News",19.BOISHAKHI TV
 http://tv.mototvlive.net:8880/TAJUL90/9001747424845/16379
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12114
@@ -230,9 +229,9 @@ http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
 https://tvsen6.aynaott.com/channel24/index.m3u8
 https://ch24cdn.ncare.live/channel24/ch24office/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://live.mncdn.shop/89247cb9-3c3e-465c-bbc7-d444b0d65424/index.m3u8|Referer=https://tv.movienestbd.site/
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX42rycV/GTV.jpg" group-title="News",22.GTV HD
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
@@ -268,8 +267,8 @@ https://m.xigzo.store/live.php?id=e899095f3263&e=.m3u8|Referer=https://m.xigzo.s
 https://live.mncdn.shop/addb7014-1d2e-41d8-982d-7cafbdc48770/index.m3u8|Referer=https://tv.movienestbd.site/
 https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/playlist.m3u8|Referer=https://banglatv.tv/live
 http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd/
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg" group-title="Movie",25.MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxB4bfF/Ekkattor.jpg" group-title="News",26.EKATTOR TV HD
@@ -280,8 +279,8 @@ https://fifabd.site/OPLLX3/play.m3u8?id=245915|Referer=RANAPK
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 https://aynapubluc.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28RYNg13/Bijoy-Tv.jpg" group-title="News",27.BIJOY TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=8abe5348
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=11214
@@ -304,9 +303,9 @@ https://fifabd.site/OPLLX3/play.m3u8?id=245903|Referer=RANAPK
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
 https://aynapubluc.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 https://tvsen6.aynaott.com/news24/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://aynaott.unosottor.workers.dev/bpk-tv/news24.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gk3tT8wV/Ekhon.jpg" group-title="News",29.EKHON TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
@@ -320,8 +319,8 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://live3.mnbd.workers.dev/cdn/live/ekhon_tv/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="News",30.DIPTO TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="News",31.ANANDA TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12093
