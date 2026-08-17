@@ -729,7 +729,7 @@ https://stream.kliv.in/ROPX/opp233/167583.m3u8
 http://ranapkz.site/TATABD/play.php?id=167583&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://hls-coolxtream.vercel.app/channel/167583&format=.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
-*EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",59.WILLOW 2 HD
+EXTINF:-1 tvg-logo="https://i.postimg.cc/qMt3vn2s/IMG-1755107458330-2.jpg" group-title="Sports",59.WILLOW 2 HD
 http://opplex.tv:8080//315587154/331264554/167582/238475.ts
 https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
@@ -747,6 +747,7 @@ https://xfireflix.my.id/mac.php?id=809387.m3u8
 https://ranapkz.site/RANAPK33k/TVD/play.php?id=809387&format=.m3u8
 https://stream.kliv.in/ROPX/opp233/167582.m3u8
 http://ranapkz.site/TATABD/play.php?id=167582&format=.m3u8|referer=RANAPK|User-Agent=Mozila
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MK5hTRJb/Sky-Cricket.png" group-title="Sports",59.SKY SPORTS CRICKET
 https://crichd.onlinetvbd.com/m3u8.php/skyscric.m3u8
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in/
