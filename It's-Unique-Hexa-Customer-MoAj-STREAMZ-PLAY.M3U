@@ -165,6 +165,7 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 http://103.165.93.31:8095/somoyTv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvYCqJmx/DBC-News.jpg" group-title="News",15.DBC NEWS HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=19414441
 http://baskardo.vip/DB_DBCNEWS/tracks-v1a1/mono.m3u8
@@ -186,8 +187,8 @@ https://ranapk.spidy.online/MACX/TATACC/play.php?id=12123
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1yJ22g0/Channel-9.jpg" group-title="News",17.CHANNEL 9
 https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=c904a146
@@ -200,8 +201,8 @@ https://aynapubluc.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3
 https://tvsen6.aynaott.com/channel9/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/channel9.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
-https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/maasrangatv.m3u8
@@ -243,8 +244,8 @@ https://tvsen6.aynaott.com/channel24/index.m3u8
 https://ch24cdn.ncare.live/channel24/ch24office/index.m3u8
 https://live.mncdn.shop/89247cb9-3c3e-465c-bbc7-d444b0d65424/index.m3u8|Referer=https://tv.movienestbd.site/
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pX42rycV/GTV.jpg" group-title="News",22.GTV HD
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
@@ -283,9 +284,7 @@ https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/playlist.m3u8|Referer=https://bangla
 http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg" group-title="Movie",25.MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxB4bfF/Ekkattor.jpg" group-title="News",26.EKATTOR TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjxB4bfF/Ekkattor.jpg" group-title="News",25.EKATTOR TV HD
 http://xtv.ooo:8080/kamran800/800kamran/245915.ts
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12122
@@ -296,7 +295,7 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28RYNg13/Bijoy-Tv.jpg" group-title="News",27.BIJOY TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28RYNg13/Bijoy-Tv.jpg" group-title="News",26.BIJOY TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=8abe5348
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=11214
 https://fifabd.site/OPLLXc/play.m3u8?id=245946|User-Agent=RANAPK
@@ -312,7 +311,7 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/408.ts
 https://live3.mnbd.workers.dev/cdn/live/bijoytv/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
 https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2WWrsh6/News-24.jpg" group-title="News",28.NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2WWrsh6/News-24.jpg" group-title="News",27.NEWS 24 HD
 http://xtv.ooo:8080/kamran800/800kamran/245903.ts
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12108
 https://fifabd.site/OPLLX3/play.m3u8?id=245903|Referer=RANAPK
@@ -323,7 +322,7 @@ https://aynaott.unosottor.workers.dev/bpk-tv/news24.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk3tT8wV/Ekhon.jpg" group-title="News",29.EKHON TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gk3tT8wV/Ekhon.jpg" group-title="News",28.EKHON TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=e3058b7d
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://fifabd.site/OPLLX3/play.m3u8?id=245943|Referer=RANAPK
@@ -332,14 +331,14 @@ https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/ekhontv.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://live3.mnbd.workers.dev/cdn/live/ekhon_tv/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="News",30.DIPTO TV
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRsMmLq/Depto-Tv.jpg" group-title="News",29.DIPTO TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="News",31.ANANDA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvVmtRMh/Ananda-Tv.jpg" group-title="News",30.ANANDA TV
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=zns9eha2
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=12093
 https://fifabd.site/OPLLX3/play.m3u8?id=245929|Referer=RANAPK
@@ -349,7 +348,7 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/anandatv.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCdD5bfD/SATV.jpg" group-title="News",32.SATV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCdD5bfD/SATV.jpg" group-title="News",31.SATV HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=1938a86s
 http://xtv.ooo:8080/kamran800/800kamran/245945.ts
 https://ranapk.spidy.online/MACX/TATACC/play.php?id=11204
@@ -363,13 +362,13 @@ https://live.mncdn.shop/d07563b0-7580-4cbd-a7c9-e67535c0164a/index.m3u8|Referer=
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N09g6Dsp/GLOBAL-TV.jpg" group-title="News",33.GLOBAL TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N09g6Dsp/GLOBAL-TV.jpg" group-title="News",32.GLOBAL TV
 https://i.postimg.cc/Dz1zWCmW/Amr-Bangla.jpg
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/maxbangla.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGL78KPY/Green-TV.jpg" group-title="News",34.GREEN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGL78KPY/Green-TV.jpg" group-title="News",33.GREEN TV
 https://i.postimg.cc/VsWbZNfS/Enterteen.jpg
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
@@ -381,6 +380,9 @@ https://colorsportscreen.com/freetv/stream.m3u8?id=74927e86f028
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8|Referer=https://statiics.ncare.live/
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNP4mNjZ/Movie-Bangla.jpg" group-title="Movie",34.MOVIE BANGLA
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgvDgxZf/Sananda.jpg" group-title="Entertainment",35.SANANDA TV
 http://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
 https://matribhumi.globalplay.live/matribhumi-sports/index.m3u8
@@ -1045,6 +1047,7 @@ https://techtraveleat.in/leo/live.m3u8?id=488&format=.m3u8|Referer=https://techt
 https://jhsdbhjs.mncdn.shop/cdn/live/zee_action/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
 https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 http://103.175.73.12:8080/live/270/master.m3u8
+https://ranapkx.site/RANAPK33k/TVD/play.php?id=735400&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0qJQgp4/Zee-Anmol-Cinema.jpg" group-title="Movie",78.ZEE ANMOL CINEMA 
 http://xtv.ooo:8080/kamran800/800kamran/66187.ts
 https://fifabd.site/OPLLX2/play.m3u8?id=66187|Referer=RANAPK
@@ -1064,8 +1067,8 @@ https://techtraveleat.in/leo/live.m3u8?id=415&format=.m3u8|Referer=https://techt
 https://restream-bay.vercel.app/chuchhi?id=66187&format=.m3u8
 https://allinonereborn.online/opplex/live8.php?id=66187&format=.m3u8
 https://xfireflix.my.id/mac.php?id=373000.m3u8
-https://ranapkz.site/RANAPK33w/TVD/play.php?id=373000&format=.m3u8
 http://103.175.73.12:8080/live/271/master.m3u8
+https://ranapkx.site/RANAPK33k/TVD/play.php?id=373000&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ymHMZpW/Zee-Anmol-Cinema-2.jpg" group-title="Movie",79.ZEE ANMOL CINEMA 2
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbA55igdcM6Y1Bv1eCDP9BKehAwpF67ooJRGZIoeUDWSL-oBojBoc9-vOu&s=10
 http://xtv.ooo:8080/kamran800/800kamran/207200.ts
@@ -1081,8 +1084,8 @@ http://110.39.27.47:8001/play/a03w/index.m3u8
 https://m3uplay.com/leo/live.php?id=2761&format=.m3u8|Referer=https://m3uplay.com/
 https://techtraveleat.in/leo/live.m3u8?id=2761&format=.m3u8|Referer=https://techtraveleat.in/
 https://jhsdbhjs.mncdn.shop/cdn/live/zee_bollywood/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
-https://stream.ottplus.live/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8
 http://103.175.73.12:8080/live/257/master.m3u8
+https://stream.ottplus.live/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 http://xtv.ooo:8080/kamran800/800kamran/245897.ts
 https://fifabd.site/OPLLXc/play.m3u8?id=245897|User-Agent=RANAPK
@@ -1345,7 +1348,7 @@ https://ranapkbd.site/RANAPK33p/TVD/play.php?id=372699&format=.m3u8
 http://151.241.99.191/TATABD/play.php?id=382224&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://xfireflix.my.id/mac.php?id=372699.m3u8
 https://ranapkbd.site/RANAPK33k/TVD/play.php?id=372699&e=.m3u8
-https://ranapkz.site/RANAPK33w/TVD/play.php?id=372698&format=.m3u8
+https://ranapkx.site/RANAPK33k/TVD/play.php?id=372698&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tvtick.com/img/channel/661.png" group-title="Movie",93.STAR UTSAV MOVIES
 http://opplex.ch/3873620/9312/112977/112971
 http://45.148.145.57/IN_UTS/index.m3u8
@@ -1357,7 +1360,7 @@ https://hls-coolxtream.vercel.app/channel/112977&format=.m3u8
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=737322&format=.m3u8
 http://151.241.99.191/TATABD/play.php?id=112971&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://xfireflix.my.id/mac.php?id=737322.m3u8
-https://ranapkz.site/RANAPK33w/TVD/play.php?id=737322&format=.m3u8
+https://ranapkx.site/RANAPK33k/TVD/play.php?id=737322&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q1Ry4Qz/IMG-1740776676624-2.png" group-title="Movie",94.STAR BHARAT HD
 http://opplex.tv:8080/live/315587154/331264554/66170.ts
 http://opplex.ch:8080/SHO2393/4702393/66171
@@ -1445,8 +1448,8 @@ https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 https://mumt04.tangotv.in/Shemaroojosh/index.m3u8
 https://fucking-tv-ott.keralive.workers.dev/mumt04/Shemaroojosh/index.m3u8|Referer=https://b4uplay.com/
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 http://103.175.73.12:8080/live/21/master.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VsR6wRGC/IMG-1745263887007.jpg" group-title="Movie",99.ALL TIME MOVIES  
 https://cdn-2.pishow.tv/live/1454/master.m3u8
 http://opplex.tv:8080/live/315587154/331264554/374980.ts
@@ -1465,8 +1468,8 @@ https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
 https://trs1.aynaott.com/Dhinchaak/index.m3u8
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8|Referer=https://bhoomtv.com/
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
-https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 http://103.175.73.12:8080/live/54/master.m3u8
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5GR2LYM/B4u-Movies.jpg" group-title="Movie",100.B4U MOVIE
 http:http://172.105.123.238:18002/play/a06s
 https://mhdtvstream.com/live.php?id=1295&extension=.m3u8|Referer=https://mhdtvstream.com/
@@ -1525,7 +1528,7 @@ https://hls-coolxtream.vercel.app/channel/245967&format=.m3u8
 http://14.128.14.6/~fifabdsi/TATABD/play.php?id=245967&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://ranapkbd.site/RANAPK33p/TVD/play.php?id=373017&format=.m3u8
 https://xfireflix.my.id/mac.php?id=373017.m3u8
-https://ranapkz.site/RANAPK33w/TVD/play.php?id=373017&e=.m3u8
+https://ranapkx.site/RANAPK33w/TVD/play.php?id=373017&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in/
