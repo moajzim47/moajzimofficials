@@ -123,6 +123,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009249|Referer=https://playyono
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Movie",62.SONY MAX HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|Referer=https://playyonogames.in/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N01Z2D5F/Sony-Max-1.jpg" group-title="Movie",63.SONY MAX 1
+https://s.ipl2026.workers.dev/live.m3u8?id=3418|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_3418.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_3418.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Entertainment",64.SONY AATH
@@ -181,21 +182,26 @@ http://110.39.27.47:8001/play/a03w/index.m3u8|User-Agent=CoolXStreamIPTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqjVmZyt/Zee-Bangla-Cinema.jpg" group-title="Movie",80.ZEE BANGLA CINEMA
 https://hdabgh.mnbd.workers.dev/cdn/live/zee_bangla_cinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5kyW9Pn/Colors-Cineplex-Superhits.jpg" group-title="Movie",81.COLORS CINEPLEX SUPERHIT
+https://s.ipl2026.workers.dev/live.m3u8?id=1450|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1450.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_1450.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=172368|User-Agent=CoolXStreamIPTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2vL8Y4D/Colors-Cineplex.jpg" group-title="Movie",82.COLORS CINEPLEX
+https://s.ipl2026.workers.dev/live.m3u8?id=482|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_482.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_482.m3u8
 http://185.233.166.116/OPPLEX/play.php?id=104191&format=.m3u8|User-Agent=RANAPK
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1XnftPfD/Colors-Cineplex-Hd.jpg" group-title="Movie",83.COLORS CINEPLEX HD
+https://s.ipl2026.workers.dev/live.m3u8?id=1477|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1477.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_1477.m3u8
 https://coolx-iptv.vercel.app/iptv/live?id=98908|User-Agent=CoolXStreamIPTV
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtssCfj5/IMG-1745301793301-2.png" group-title="Movie",84.COLORS BANGLA CINEMA
+https://s.ipl2026.workers.dev/live.m3u8?id=1657|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1657.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_1657.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8wqN7zh/Colors-Cineplex-Bollywood.jpg" group-title="Movie",85.COLORS CINEPLEX BOLLYWOOD
+https://s.ipl2026.workers.dev/live.m3u8?id=1763|Referer=https://jp.ipl2026.workers.dev/&Cookie=session=26a56715d2554c98_1787733897788
 https://mini.allinonereborn.fun/jiotv-www/app/ts_live_1763.m3u8|Referer=https://mini.allinonereborn.fun/&Cookie=PHPSESSID=5gb9h2ifkm3n8rehmdq3othddd
 https://tulnit.fun/jiotv/app/ts_live_1763.m3u8
 http://103.182.170.32:8888/play/a01o
