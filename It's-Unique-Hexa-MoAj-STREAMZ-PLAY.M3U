@@ -1593,8 +1593,8 @@ https://m3uplay.com/leo/live.php?id=821&format=.m3u8|Referer=https://m3uplay.com
 http://103.159.180.34:5001/live/821.m3u8
 https://techtraveleat.in/leo/live.m3u8?id=821&format=.m3u8|Referer=https://techtraveleat.in/
 https://jhsdbhjs.mncdn.shop/cdn/live/sonybbc_earth_hd/playlist.m3u8|Referer=https://tv.movienestbd.xyz/
-https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://playyonogames.in/
 http://live.balajibroadband.com:3500/live/821.m3u8
+https://techandeat.online/sliv/stream.m3u8?id=1000009252|Referer=https://techandeat.online/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHMdJFmx/Discovery-Science.jpg" group-title="Information",105.DISCOVERY SCIENCE 
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 http://xtv.ooo:8080//kamran800/800kamran/206289.ts
@@ -1736,6 +1736,7 @@ https://stream.kliv.in/ROPX/opp233/34011.m3u8
 https://hls-coolxtream.vercel.app/channel/34011&format=.m3u8
 https://stream.kliv.in/nex/oppx2_34011.m3u8
 http://live.balajibroadband.com:3500/live/815.m3u8
+http://198.195.239.50:8095/sonic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gh7QTr7N/Nick.jpg" group-title="Cartoon",113.NICK
 http://watchindia.net:8880/49387/51659/2182
 http://xtv.ooo:8080//kamran800/800kamran/150482.ts
