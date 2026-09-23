@@ -1804,7 +1804,7 @@ https://hls-coolxtream.vercel.app/channel/150480&format=.m3u8
 https://m3uplay.com/leo/live.php?id=3385&format=.m3u8|Referer=https://m3uplay.com/
 https://techtraveleat.in/leo/live.m3u8?id=3385&format=.m3u8|Referer=https://techtraveleat.in/
 http://103.159.180.34:5001/live/3385.m3u8
-https://cc-t8lqe1o99pszu.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/c3df22f9-1f69-446e-9f48-05859b45e0b5/1.m3u8
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpSxjLjq/Disney.jpg" group-title="Cartoon",117.DISNEY HD
 http://opplex.tv:8080/live/315587154/331264554/167551.ts
 http://port.denver1769.fun/oplx5.m3u8?id=167551|User-Agent=Denver1769
