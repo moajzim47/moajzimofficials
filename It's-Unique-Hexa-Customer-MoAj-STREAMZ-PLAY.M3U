@@ -415,10 +415,10 @@ https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTPxwKmy/Dw.jpg" group-title="News",39.DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmwYdWXG/Aljajeera.jpg" group-title="News",40.ALJAJEERA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmwYdWXG/Aljajeera.jpg" group-title="News",40.ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjf8WNWT/T-Sports-2.png" group-title="Sports",41.T SPORTS HD
 http://xtv.ooo:8080//kamran800/800kamran/167590.ts
 http://kst.moonplex.net:8080/CH2/index.m3u8
@@ -452,6 +452,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/index.m3u8
 http://103.151.60.162:2122/play/a030/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 http://103.209.196.22:84/feed1001/index.m3u8
+http://45.117.61.162/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCRtp8T8/IMG-1741986198658-2.png" group-title="Sports",42.STAR SPORTS 1 HD
 http://opplex.tv:8080//Jawad1994/03112371534/167575
 https://tv.mymoviebazar.net/stream/stream209.m3u8|Referer=https://tv.mymoviebazar.net/
