@@ -611,9 +611,9 @@ https://stream.kliv.in/nex/oppx2_167579.m3u8
 https://fifabangladesh.top/tvdx/play.php?id=373201&format=.m3u8
 http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/video.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
-https://livetv.shamon-cable.net:8443/Star-select-2/tracks-v1a1/mono.m3u8
 https://ranapkz.site/TATABD/play.php?id=167579&format=.m3u8|User-Agent=RANAPK
+https://livetv.shamon-cable.net:8443/Star-select-2/tracks-v1a1/mono.m3u8
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdyRP2Sg/IMG-20260614-023554.jpg" group-title="Sports",49.UNITE8 SPORTS HD 1
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://restream-bay.vercel.app/chuchhi?id=206315&format=.m3u8
@@ -1120,6 +1120,7 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=11693&format=.m3u8
 http://198.195.239.50:8095/ZEE.CINEMA.HD/video.m3u8?token=B8ZzNTvPEhHwZ0
 http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=206307&format=.m3u8|User-Agent=RANAPK
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CR33wcJ/Zee-Action.jpg" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeeaction&format=.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -1341,6 +1342,7 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=1042&format=.m3u8
 https://livetv.shamon-cable.net/proxy/proxy.php?id=9b10919f0f571cf1d5a7e2261d2b861977a4&format=.m3u8
 http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=112982&format=.m3u8|User-Agent=RANAPK
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://opplex.tv:8080/live/315587154/331264554/106133.ts
@@ -1417,8 +1419,8 @@ https://fifabangladesh.top/tvdx/play.php?id=737325&format=.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/210.ts
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=732&format=.m3u8
 https://livetv.shamon-cable.net:8443/StarGoldSelect/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=221257&format=.m3u8|User-Agent=RANAPK
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L51b2CFN/Star-Gold-Thirils.jpg" group-title="Movie",90.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a06z
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
