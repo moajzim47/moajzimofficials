@@ -171,6 +171,7 @@ http://103.165.93.31:8095/somoyTv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+http://116.204.149.16/somoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvYCqJmx/DBC-News.jpg" group-title="News",15.DBC NEWS HD
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=19414441
 http://baskardo.vip/DB_DBCNEWS/tracks-v1a1/mono.m3u8
@@ -193,9 +194,9 @@ http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://stream.ottplus.live/live/independent_tv_abr/playlist.m3u8
 https://drk6xq0vhn.gpcdn.net/hls/independent_tv_720/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1yJ22g0/Channel-9.jpg" group-title="News",17.CHANNEL 9
 https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png
 https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
@@ -213,6 +214,7 @@ https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://stream.ottplus.live/live/nexus_tv_abr/playlist.m3u8
 https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8
+https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C1g51d1n/Maasranga.jpg" group-title="News",18.MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://aynaott.unosottor.workers.dev/bpk-tv/maasrangatv.m3u8
