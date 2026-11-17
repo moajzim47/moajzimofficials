@@ -415,6 +415,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://live-stream.utkalbongo.com/utkalbongo/stream9/hls/sanandanewslive.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 https://live.sanandatelevision.in/sananda/index.m3u8
+http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NxrcY1p/Bangla-Tv.jpg" group-title="Entertainment",36.BANGLA TV +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z1mY4Dj/TV-9-Bangla.jpg" group-title="News",37.TV 9 BANGLA
@@ -493,8 +494,8 @@ http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
 https://ranapkz.site/TATABD/play.php?id=167575&format=.m3u8|User-Agent=RANAPK
 https://livetv.shamon-cable.net:8443/Star-sports-1/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
-http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 https://s3.itcnbd.live/server-12/stream/Mg.m3u8
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6Qx85GcT/IMG-1741985990388.png" group-title="Sports",43.STAR SPORTS 1 HINDI HD
 https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest?cb=20191214225552
 http://xtv.ooo:8080/kamran800/800kamran/167573.ts
@@ -563,8 +564,9 @@ https://stream.kliv.in/nex/oppx2_167577.m3u8
 https://fifabangladesh.top/tvdx/play.php?id=373203&format=.m3u8
 http://198.195.239.50:8095/STAR-SPORTS.3/video.m3u8
 https://livetv.shamon-cable.net:8443/Star-sports-3/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
 https://ranapkz.site/TATABD/play.php?id=167577&format=.m3u8|User-Agent=RANAPK
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=373203&format=.m3u8
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPQTMyHz/IMG-1741986445491-2.png" group-title="Sports",47.STAR SPORTS SELECT 1 HD
 http://xtv.ooo:8080/kamran800/800kamran/167578.ts
 http://atg100.xyz//UL33K17/SYC4T9D/1090639
@@ -635,10 +637,10 @@ http://starhub.pro/live/Anthony2/Anthony123/741567.ts
 http://ranapkz.site/TATABD/play.php?id=444332&format=.m3u8|referer=RANAPK|User-Agent=Mozila
 https://hls-coolxtream.vercel.app/channel/444332&format=.m3u8
 https://stream.kliv.in/nex/oppx2_444332.m3u8
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
 https://livetv.shamon-cable.net:8443/Unite8-sports-1/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/Unite8-sports-1/tracks-v1a1/mono.m3u8?token=sboxcast
 https://ranapkz.site/TATABD/play.php?id=444332&format=.m3u8|User-Agent=RANAPK
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
+http://103.114.11.37:8081/Unite8-sports-1/tracks-v1a1/mono.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRbL7Mb3/IMG-20260614-023641.jpg" group-title="Sports",50.UNITE8 SPORTS HD 2
 http://xtv.ooo:8080/kamran800/800kamran/346241.ts
 https://colorsportscreen.com/fuck-your-mother-ass/stream.php?id=35&srv=null&vtoken=&e=.m3u8|Referer=https://colorsportscreen.com/
@@ -651,7 +653,7 @@ https://hls-coolxtream.vercel.app/channel/444333&format=.m3u8
 https://stream.kliv.in/nex/oppx2_444333.m3u8
 http://xott.live/live/51053405/030451053405/444333.ts
 http://ranapkz.site/TATABD/play.php?id=444333&format=.m3u8|User-Agent=RANAPK
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373343&format=.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=373343&format=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports",51.SONY SPORTS TEN 1 HD
 http:8080/kamran800/800kamran/167570.ts
 https://mhdstream.com/sliv/stream.m3u8?id=7541236|Referer=https://mhdstream.com/sliv/
@@ -734,8 +736,8 @@ https://fifabangladesh.top/tvdx/play.php?id=809398&format=.m3u8
 http://198.195.239.50:8095/PTV-SPORTS-HD/video.m3u8?token=B8ZzNTvPEhHwZ0
 https://livetv.shamon-cable.net:8443/PTV/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=217968&format=.m3u8|User-Agent=RANAPK
+http://103.114.11.37:8081/PTV/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prtg9Jdk/A-Sports-2.png" group-title="Sports",56. A SPORTS HD
 http://xtv.ooo:8080/kamran800/800kamran/219689.ts
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
@@ -1139,8 +1141,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/230.ts
 https://mini.allinonereborn.site/tatatv/tata3.php?id=11693&format=.m3u8
 http://198.195.239.50:8095/ZEE.CINEMA.HD/video.m3u8?token=B8ZzNTvPEhHwZ0
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
-http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=206307&format=.m3u8|User-Agent=RANAPK
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CR33wcJ/Zee-Action.jpg" group-title="Movie",77.ZEE ACTION
 http://xtv.ooo:8080/kamran800/800kamran/66191.ts
 http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-zeeaction&format=.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -1364,8 +1366,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9375.ts
 https://mini.allinonereborn.site/tatatv/tata3.php?id=1042&format=.m3u8
 https://livetv.shamon-cable.net/proxy/proxy.php?id=9b10919f0f571cf1d5a7e2261d2b861977a4&format=.m3u8
 http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
-http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=112982&format=.m3u8|User-Agent=RANAPK
+http://103.114.11.37:8081/StarGold/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnS-dUfA2Zb07VSEqn1nJlV2qRx2kOmw6F6oNWDa_wWQ&s" group-title="Movie",87.STAR GOLD 2
 http://webhop.xyz:8080/shoaib/shoaib/4324
 http://opplex.tv:8080/live/315587154/331264554/106133.ts
@@ -1442,8 +1444,8 @@ https://fifabangladesh.top/tvdx/play.php?id=737325&format=.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/210.ts
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=732&format=.m3u8
 https://livetv.shamon-cable.net:8443/StarGoldSelect/tracks-v1a1/mono.m3u8
-http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast
 http://ranapkz.site/TATABD/play.php?id=221257&format=.m3u8|User-Agent=RANAPK
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L51b2CFN/Star-Gold-Thirils.jpg" group-title="Movie",90.STAR GOLD THRILLS
 http://172.105.123.238:18002/play/a06z
 http://xtv.ooo:8080/kamran800/800kamran/221258.ts
@@ -1497,8 +1499,8 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/979.ts
 http://ranapkz.site/TATABD/play.php?id=66213&format=.m3u8|User-Agent=RANAPK
 https://livetv.shamon-cable.net:8443/Star-Movies/tracks-v1a1/mono.m3u8
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
-http://103.114.11.37:8081/Star-Movies/index.m3u8?token=sboxcast
 https://mini.allinonereborn.site/tatatv/ttv6t.php?id=11677&format=.m3u8
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=scn
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqTqxgyn/IMG-1739523308486-2.png" group-title="Movie",92.STAR UTSAV GOLD
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPdFlRKMbygMpRB78KMf4IiQHvynbFPuDg_fDSM92Gg&s
 http://xtv.ooo:8080//kamran800/800kamran/66315.ts
@@ -1517,7 +1519,7 @@ https://fifabangladesh.top/tvdx/play.php?id=372698&format=.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/28729.ts
 http://ranapkz.site/TATABD/play.php?id=382224&format=.m3u8|User-Agent=RANAPK
 https://mini.allinonereborn.site/tatatv/ttv6t.php?id=62515&format=.m3u8
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372698&format=.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=372698&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp5Mcy5h/IMG-1790932877732.jpg" group-title="Movie",93.STAR UTSAV MOVIES
 http://opplex.ch/3873620/9312/112977/112971
 http://45.148.145.57/IN_UTS/index.m3u8
@@ -1720,7 +1722,7 @@ https://xfireflix.my.id/mac.php?id=373017.m3u8
 https://fifabangladesh.top/tvdx/play.php?id=373017&e=.m3u8
 https://mini.allinonereborn.site/tatatv/tata6n.php?id=67366&format=.m3u8
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373017&format=.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=373017&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2ZgPWJ0/Sony-BBC.jpg" group-title="Information",104.SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in/
@@ -1988,7 +1990,7 @@ https://stream.kliv.in/nex/oppx2_167551.m3u8
 https://fifabangladesh.top/tvdx//play.php?id=372986&format=.m3u8
 http://xott.live/live/51053405/030451053405/167551.ts
 http://ranapkz.site/TATABD/play.php?id=167551&format=.m3u8|User-Agent=RANAPK
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372986&format=.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDNz/play.php?id=372986&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdKpB7W9/Discovery-Kids.jpg" group-title="Cartoon",118.DISCOVERY KIDS
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=discover?id=discovery_kids&e=.m3u8|Referer=https://cdn-toffee.iptvbd.xyz/
